@@ -2,7 +2,7 @@ from sqlalchemy.orm import Session
 from datetime import datetime, timedelta, timezone
 import pandas as pd
 import logging
-from . import models, schemas, everef, calculations, esi
+from . import models, schemas, everef, calculations, esi, ml
 from .config import settings
 from .database import SessionLocal, engine
 
@@ -22,52 +22,83 @@ def get_or_create_item(db: Session, type_id: int):
         db.refresh(item)
     return item
 
-def update_all_item_data(db: Session, region_id: int, days: int = 30):
+def update_market_history(db: Session, region_id: int):
     """
-    Fetches historical market data, calculates profitability metrics for each item,
-    and updates the database.
+    Fetches new market order data from Everef and inserts it into the database.
     """
-    logger.info("Starting data refresh process.")
-    logger.info(f"Fetching historical market data for the last {days} days...")
-    historical_data = everef.get_historical_market_orders(region_id, days=days)
+    logger.info("Fetching new market data...")
+    new_orders = everef.get_historical_market_orders(db, region_id, days=7) # Look back 7 days for new files
 
-    if historical_data is None or historical_data.empty:
-        logger.error("Failed to fetch historical market data or no data was returned.")
+    if new_orders is None or new_orders.empty:
+        logger.info("No new market data found.")
         return
 
-    # Convert 'issued' column to datetime objects once
-    historical_data['issued'] = pd.to_datetime(historical_data['issued'])
+    logger.info(f"Found {len(new_orders)} new market orders to process.")
 
-    type_ids = historical_data['type_id'].unique()
-    logger.info(f"Found {len(type_ids)} unique items to process.")
+    new_orders['issued'] = pd.to_datetime(new_orders['issued'])
 
-    for i, type_id_np in enumerate(type_ids):
-        type_id = int(type_id_np)
-        logger.info(f"Processing item {i+1}/{len(type_ids)}: type_id {type_id}")
+    item_cache = {}
+    history_to_insert = []
 
-        item_orders = historical_data.loc[historical_data['type_id'] == type_id].copy()
+    unique_type_ids = [int(tid) for tid in new_orders['type_id'].unique()]
+    for type_id in unique_type_ids:
+        if type_id not in item_cache:
+            item_cache[type_id] = get_or_create_item(db, type_id)
 
-        # Ensure timezone-aware comparison
-        seven_days_ago = datetime.now(timezone.utc) - timedelta(days=7)
-        seven_day_orders = item_orders.loc[item_orders['issued'] >= seven_days_ago]
+    for _, row in new_orders.iterrows():
+        type_id = int(row['type_id'])
+        item = item_cache.get(type_id)
 
-        sell_orders = seven_day_orders.loc[seven_day_orders['is_buy_order'] == False]
-        buy_orders = seven_day_orders.loc[seven_day_orders['is_buy_order'] == True]
+        if item:
+            history_to_insert.append({
+                'item_id': item.id,
+                'date': row['issued'],
+                'buy_price': row['price'] if row['is_buy_order'] else None,
+                'sell_price': row['price'] if not row['is_buy_order'] else None,
+                'volume': row['volume_remain']
+            })
 
-        p_buy = calculations.calculate_p_buy(sell_orders)
-        p_sell = calculations.calculate_p_sell(buy_orders)
+    if history_to_insert:
+        logger.info(f"Bulk inserting {len(history_to_insert)} market history records.")
+        db.bulk_insert_mappings(models.MarketHistory, history_to_insert)
+        db.commit()
+
+    logger.info("Market history update complete.")
+
+def train_all_models(db: Session):
+    """
+    Trains the generalized price prediction model.
+    """
+    logger.info("Training generalized price prediction model...")
+    ml.train_generalized_model(db)
+    logger.info("Model training complete.")
+
+def update_item_calculations_and_predictions(db: Session):
+    """
+    Calculates profitability metrics and predicts next-day prices for all items.
+    """
+    logger.info("Updating item calculations and predictions...")
+
+    predictions = ml.predict_prices(db)
+
+    items = db.query(models.Item).all()
+
+    for item in items:
+        p_buy = calculations.calculate_p_buy(db, item.id)
+        p_sell = calculations.calculate_p_sell(db, item.id)
 
         if p_buy == 0 or p_sell == 0:
-            logger.warning(f"Skipping type_id {type_id} due to missing buy or sell price data in the last 7 days.")
+            logger.warning(f"Skipping item {item.name} (ID: {item.type_id}) due to missing buy or sell price data.")
             continue
 
         profit_per_unit = calculations.calculate_profit_per_unit(p_sell, p_buy, settings.TAX_RATE, settings.BROKER_FEE)
         roi_percent = calculations.calculate_roi_percent(profit_per_unit, p_buy)
-        avg_daily_volume = calculations.calculate_avg_daily_volume(item_orders, 30)
-        volatility = calculations.calculate_volatility(item_orders)
+        avg_daily_volume = calculations.calculate_avg_daily_volume(db, item.id)
+        volatility = calculations.calculate_volatility(db, item.id)
         rank_score = calculations.calculate_rank_score(roi_percent, avg_daily_volume)
 
-        item = get_or_create_item(db, type_id=type_id)
+        predicted_sell_price, confidence_score = predictions.get(item.type_id, (None, None))
+
         item.buy_price = p_buy
         item.sell_price = p_sell
         item.profit_per_unit = profit_per_unit
@@ -75,8 +106,53 @@ def update_all_item_data(db: Session, region_id: int, days: int = 30):
         item.avg_daily_volume = avg_daily_volume
         item.volatility = volatility
         item.rank_score = rank_score
+        item.predicted_sell_price = predicted_sell_price
+        item.confidence_score = confidence_score
 
         db.add(item)
 
     db.commit()
-    logger.info("Database update complete.")
+    logger.info("Item calculations and predictions update complete.")
+
+def populate_regions(db: Session):
+    """
+    Populates the regions table with data from the ESI API.
+    """
+    logger.info("Populating regions table...")
+    region_ids = esi.get_regions()
+    for region_id in region_ids:
+        region_info = esi.get_region_info(region_id)
+        if region_info:
+            region = models.Region(
+                region_id=region_id,
+                name=region_info['name']
+            )
+            db.merge(region)
+    db.commit()
+    logger.info("Regions table populated.")
+
+def populate_categories(db: Session):
+    """
+    Populates the categories table with data from the ESI API.
+    """
+    logger.info("Populating categories table...")
+    category_ids = esi.get_item_categories()
+    for category_id in category_ids:
+        category_info = esi.get_item_category_info(category_id)
+        if category_info:
+            category = models.Category(
+                category_id=category_id,
+                name=category_info['name']
+            )
+            db.merge(category)
+    db.commit()
+    logger.info("Categories table populated.")
+
+def update_all_item_data(db: Session, region_id: int, train_models: bool = False):
+    """
+    Orchestrates the entire data refresh process.
+    """
+    update_market_history(db, region_id)
+    if train_models:
+        train_all_models(db)
+    update_item_calculations_and_predictions(db)

@@ -15,13 +15,8 @@ def get_top_items(region: str = "theforge", limit: int = 100, db: Session = Depe
     items = db.query(models.Item).order_by(models.Item.rank_score.desc()).limit(limit).all()
     result = []
     for item in items:
-        # The database may return byte strings for integers, so we need to handle that.
-        type_id = item.type_id
-        if isinstance(type_id, bytes):
-            type_id = int.from_bytes(type_id, 'little')
-
         result.append({
-            "type_id": type_id,
+            "type_id": int(item.type_id),
             "name": str(item.name),
             "buy_price": float(item.buy_price) if item.buy_price is not None else 0.0,
             "sell_price": float(item.sell_price) if item.sell_price is not None else 0.0,
@@ -29,6 +24,8 @@ def get_top_items(region: str = "theforge", limit: int = 100, db: Session = Depe
             "roi_percent": float(item.roi_percent) if item.roi_percent is not None else 0.0,
             "avg_daily_volume": float(item.avg_daily_volume) if item.avg_daily_volume is not None else 0.0,
             "volatility": float(item.volatility) if item.volatility is not None else 0.0,
+            "predicted_sell_price": float(item.predicted_sell_price) if item.predicted_sell_price is not None else 0.0,
+            "confidence_score": float(item.confidence_score) if item.confidence_score is not None else 0.0,
         })
     return result
 
@@ -43,15 +40,11 @@ def get_item(type_id: int, db: Session = Depends(get_db)):
 
     history = db.query(models.MarketHistory).filter(models.MarketHistory.item_id == item.id).order_by(models.MarketHistory.date.desc()).all()
     history_data = [
-        {"date": h.date.isoformat(), "price": h.sell_price, "volume": h.volume} for h in history
+        {"date": h.date.isoformat(), "price": h.sell_price, "volume": h.volume} for h in history if h.sell_price is not None
     ]
 
-    item_type_id = item.type_id
-    if isinstance(item_type_id, bytes):
-        item_type_id = int.from_bytes(item_type_id, 'little')
-
     item_data = {
-        "type_id": item_type_id,
+        "type_id": int(item.type_id),
         "name": str(item.name),
         "buy_price": float(item.buy_price) if item.buy_price is not None else 0.0,
         "sell_price": float(item.sell_price) if item.sell_price is not None else 0.0,
@@ -59,21 +52,23 @@ def get_item(type_id: int, db: Session = Depends(get_db)):
         "roi_percent": float(item.roi_percent) if item.roi_percent is not None else 0.0,
         "avg_daily_volume": float(item.avg_daily_volume) if item.avg_daily_volume is not None else 0.0,
         "volatility": float(item.volatility) if item.volatility is not None else 0.0,
+        "predicted_sell_price": float(item.predicted_sell_price) if item.predicted_sell_price is not None else 0.0,
+        "confidence_score": float(item.confidence_score) if item.confidence_score is not None else 0.0,
     }
 
     return {"item": item_data, "history": history_data}
 
 @router.get("/regions", response_model=List[schemas.Region])
 def get_regions(db: Session = Depends(get_db)):
-    # Placeholder data
-    return [{"region_id": 10000002, "name": "The Forge"}]
+    regions = db.query(models.Region).all()
+    return regions
 
 @router.get("/categories", response_model=List[schemas.Category])
 def get_categories(db: Session = Depends(get_db)):
-    # Placeholder data
-    return [{"category_id": 6, "name": "Ship"}]
+    categories = db.query(models.Category).all()
+    return categories
 
 @router.post("/refresh")
-def refresh_data(db: Session = Depends(get_db)):
-    crud.update_all_item_data(db, settings.REGION_ID)
+def refresh_data(db: Session = Depends(get_db), train_models: bool = False):
+    crud.update_all_item_data(db, settings.REGION_ID, train_models=train_models)
     return {"message": "Data refresh complete."}

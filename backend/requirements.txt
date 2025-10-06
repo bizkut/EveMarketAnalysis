@@ -7,3 +7,5 @@ psycopg2-binary
 pydantic-settings
 pandas
 beautifulsoup4
+scikit-learn
+joblib

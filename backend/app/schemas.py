@@ -10,7 +10,7 @@ class Item(BaseModel):
     roi_percent: float
     avg_daily_volume: float
     volatility: float
-    predicted_change_percent: Optional[float] = None
+    predicted_sell_price: Optional[float] = None
     confidence_score: Optional[float] = None
 
 class ItemHistory(BaseModel):

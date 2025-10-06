@@ -7,9 +7,20 @@ setup_logging()
 
 app = FastAPI()
 
+from app.database import SessionLocal
+
 @app.on_event("startup")
 def on_startup():
     models.Base.metadata.create_all(bind=engine)
+    db = SessionLocal()
+    try:
+        # Populate static data if the tables are empty
+        if db.query(models.Region).count() == 0:
+            crud.populate_regions(db)
+        if db.query(models.Category).count() == 0:
+            crud.populate_categories(db)
+    finally:
+        db.close()
 
 app.include_router(api.router, prefix="/api")
 

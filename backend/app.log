@@ -1884,3 +1884,78 @@
 2025-10-06 10:09:27,678 - __main__ - WARNING - Skipping type_id 21 due to missing buy or sell price data in the last 7 days.
 2025-10-06 10:09:27,678 - __main__ - INFO - Processing item 5/5: type_id 22
 2025-10-06 10:09:28,064 - __main__ - INFO - Database update complete.
+2025-10-06 11:11:40,843 - __main__ - INFO - Fetching new market data...
+2025-10-06 11:11:40,863 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-06/
+2025-10-06 11:11:41,257 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-06/market-orders-2025-10-06_00-15-06.v3.csv.bz2
+2025-10-06 11:12:01,149 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-06/market-orders-2025-10-06_00-45-06.v3.csv.bz2
+2025-10-06 11:12:12,122 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-06/market-orders-2025-10-06_01-15-06.v3.csv.bz2
+2025-10-06 11:12:22,744 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-06/market-orders-2025-10-06_01-45-07.v3.csv.bz2
+2025-10-06 11:12:34,048 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-06/market-orders-2025-10-06_02-15-06.v3.csv.bz2
+2025-10-06 11:12:44,499 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-06/market-orders-2025-10-06_02-45-06.v3.csv.bz2
+2025-10-06 11:12:54,825 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-06/market-orders-2025-10-06_03-15-06.v3.csv.bz2
+2025-10-06 11:13:05,313 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-06/market-orders-2025-10-06_03-45-06.v3.csv.bz2
+2025-10-06 11:13:15,488 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-06/market-orders-2025-10-06_04-15-06.v3.csv.bz2
+2025-10-06 11:13:25,646 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-06/market-orders-2025-10-06_04-45-06.v3.csv.bz2
+2025-10-06 11:13:35,844 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-06/market-orders-2025-10-06_05-15-05.v3.csv.bz2
+2025-10-06 11:13:46,085 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-06/market-orders-2025-10-06_05-45-06.v3.csv.bz2
+2025-10-06 11:13:56,342 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-06/market-orders-2025-10-06_06-15-07.v3.csv.bz2
+2025-10-06 11:14:06,607 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-06/market-orders-2025-10-06_06-45-06.v3.csv.bz2
+2025-10-06 11:14:17,198 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-06/market-orders-2025-10-06_07-15-06.v3.csv.bz2
+2025-10-06 11:14:28,134 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-06/market-orders-2025-10-06_07-45-07.v3.csv.bz2
+2025-10-06 11:14:38,449 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-06/market-orders-2025-10-06_08-15-06.v3.csv.bz2
+2025-10-06 11:14:48,679 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-06/market-orders-2025-10-06_08-45-08.v3.csv.bz2
+2025-10-06 11:14:59,045 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-06/market-orders-2025-10-06_09-15-06.v3.csv.bz2
+2025-10-06 11:15:09,340 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-06/market-orders-2025-10-06_09-45-08.v3.csv.bz2
+2025-10-06 11:15:19,856 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-06/market-orders-2025-10-06_10-15-06.v3.csv.bz2
+2025-10-06 11:15:30,259 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-06/market-orders-2025-10-06_10-45-06.v3.csv.bz2
+2025-10-06 11:15:42,214 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-05/
+2025-10-06 11:15:42,508 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-05/market-orders-2025-10-05_00-15-06.v3.csv.bz2
+2025-10-06 11:15:52,965 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-05/market-orders-2025-10-05_00-45-05.v3.csv.bz2
+2025-10-06 11:16:03,447 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-05/market-orders-2025-10-05_01-15-06.v3.csv.bz2
+2025-10-06 11:16:13,906 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-05/market-orders-2025-10-05_01-45-05.v3.csv.bz2
+2025-10-06 11:16:24,405 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-05/market-orders-2025-10-05_02-15-06.v3.csv.bz2
+2025-10-06 11:16:34,677 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-05/market-orders-2025-10-05_02-45-06.v3.csv.bz2
+2025-10-06 11:16:45,327 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-05/market-orders-2025-10-05_03-15-05.v3.csv.bz2
+2025-10-06 11:16:55,522 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-05/market-orders-2025-10-05_03-45-06.v3.csv.bz2
+2025-10-06 11:17:06,459 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-05/market-orders-2025-10-05_04-15-05.v3.csv.bz2
+2025-10-06 11:17:17,401 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-05/market-orders-2025-10-05_04-45-06.v3.csv.bz2
+2025-10-06 11:17:27,915 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-05/market-orders-2025-10-05_05-15-06.v3.csv.bz2
+2025-10-06 11:17:39,106 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-05/market-orders-2025-10-05_05-45-06.v3.csv.bz2
+2025-10-06 11:17:49,819 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-05/market-orders-2025-10-05_06-15-05.v3.csv.bz2
+2025-10-06 11:18:00,159 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-05/market-orders-2025-10-05_06-45-06.v3.csv.bz2
+2025-10-06 11:18:10,606 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-05/market-orders-2025-10-05_07-15-05.v3.csv.bz2
+2025-10-06 11:20:59,856 - __main__ - INFO - Fetching new market data...
+2025-10-06 11:20:59,856 - app.everef - INFO - Fetching latest market orders from https://data.everef.net/market-orders/market-orders-latest.v3.csv.bz2
+2025-10-06 11:21:19,041 - __main__ - INFO - Found 368451 new market orders to process.
+2025-10-06 11:30:37,958 - __main__ - INFO - Fetching new market data...
+2025-10-06 11:30:37,958 - app.everef - INFO - Reading mock market orders from local file.
+2025-10-06 11:30:37,960 - app.everef - ERROR - An error occurred while reading mock data: [Errno 2] No such file or directory: 'backend/mock_market_orders.csv'
+2025-10-06 11:30:37,960 - __main__ - INFO - No new market data found.
+2025-10-06 11:30:37,960 - __main__ - INFO - Training all price prediction models...
+2025-10-06 11:30:37,983 - __main__ - INFO - Model training complete.
+2025-10-06 11:30:37,983 - __main__ - INFO - Updating item calculations and predictions...
+2025-10-06 11:30:37,984 - __main__ - INFO - Item calculations and predictions update complete.
+2025-10-06 11:31:53,675 - __main__ - INFO - Fetching new market data...
+2025-10-06 11:31:53,675 - app.everef - INFO - Reading mock market orders from local file.
+2025-10-06 11:31:53,681 - __main__ - INFO - Found 10 new market orders to process.
+2025-10-06 11:31:55,672 - __main__ - INFO - Bulk inserting 10 market history records.
+2025-10-06 11:31:55,682 - __main__ - INFO - Market history update complete.
+2025-10-06 11:31:55,683 - __main__ - INFO - Training all price prediction models...
+2025-10-06 11:31:55,685 - app.ml - INFO - Training price prediction model for item_id: 1
+2025-10-06 11:31:55,687 - app.ml - WARNING - Not enough historical data for item_id 1 to train model.
+2025-10-06 11:31:55,687 - app.ml - INFO - Training price prediction model for item_id: 2
+2025-10-06 11:31:55,688 - app.ml - WARNING - Not enough historical data for item_id 2 to train model.
+2025-10-06 11:31:55,688 - app.ml - INFO - Training price prediction model for item_id: 3
+2025-10-06 11:31:55,689 - app.ml - WARNING - Not enough historical data for item_id 3 to train model.
+2025-10-06 11:31:55,689 - app.ml - INFO - Training price prediction model for item_id: 4
+2025-10-06 11:31:55,689 - app.ml - WARNING - Not enough historical data for item_id 4 to train model.
+2025-10-06 11:31:55,689 - app.ml - INFO - Training price prediction model for item_id: 5
+2025-10-06 11:31:55,690 - app.ml - WARNING - Not enough historical data for item_id 5 to train model.
+2025-10-06 11:31:55,690 - __main__ - INFO - Model training complete.
+2025-10-06 11:31:55,690 - __main__ - INFO - Updating item calculations and predictions...
+2025-10-06 11:31:55,708 - app.ml - WARNING - No trained model found for item_id 1.
+2025-10-06 11:31:55,714 - app.ml - WARNING - No trained model found for item_id 2.
+2025-10-06 11:31:55,719 - app.ml - WARNING - No trained model found for item_id 3.
+2025-10-06 11:31:55,724 - app.ml - WARNING - No trained model found for item_id 4.
+2025-10-06 11:31:55,729 - app.ml - WARNING - No trained model found for item_id 5.
+2025-10-06 11:31:55,735 - __main__ - INFO - Item calculations and predictions update complete.

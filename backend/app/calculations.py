@@ -1,31 +1,53 @@
 import pandas as pd
 import numpy as np
+from sqlalchemy.orm import Session
+from sqlalchemy import func
+from datetime import datetime, timedelta, timezone
+from . import models
 
-def calculate_p_buy(sell_orders: pd.DataFrame) -> float:
+def calculate_p_buy(db: Session, item_id: int) -> float:
     """
-    Calculates P_buy, the 7-day average of the lowest 10% of sell orders.
+    Calculates P_buy, the 7-day average of the lowest 10% of sell orders from the local DB.
     """
-    if sell_orders.empty:
+    seven_days_ago = datetime.now(timezone.utc) - timedelta(days=7)
+
+    sell_orders_query = db.query(models.MarketHistory.sell_price).filter(
+        models.MarketHistory.item_id == item_id,
+        models.MarketHistory.date >= seven_days_ago,
+        models.MarketHistory.sell_price.isnot(None)
+    )
+
+    sell_prices = [p[0] for p in sell_orders_query.all()]
+    if not sell_prices:
         return 0.0
 
-    # Get the lowest 10% of sell orders
-    lowest_10_percent = sell_orders[sell_orders['price'] <= sell_orders['price'].quantile(0.1)]
+    prices_series = pd.Series(sell_prices)
+    quantile_10 = prices_series.quantile(0.1)
+    lowest_10_percent_prices = prices_series[prices_series <= quantile_10]
 
-    # Calculate the average price of these orders
-    return lowest_10_percent['price'].mean()
+    return lowest_10_percent_prices.mean() if not lowest_10_percent_prices.empty else 0.0
 
-def calculate_p_sell(buy_orders: pd.DataFrame) -> float:
+def calculate_p_sell(db: Session, item_id: int) -> float:
     """
-    Calculates P_sell, the 7-day average of the highest 10% of buy orders.
+    Calculates P_sell, the 7-day average of the highest 10% of buy orders from the local DB.
     """
-    if buy_orders.empty:
+    seven_days_ago = datetime.now(timezone.utc) - timedelta(days=7)
+
+    buy_orders_query = db.query(models.MarketHistory.buy_price).filter(
+        models.MarketHistory.item_id == item_id,
+        models.MarketHistory.date >= seven_days_ago,
+        models.MarketHistory.buy_price.isnot(None)
+    )
+
+    buy_prices = [p[0] for p in buy_orders_query.all()]
+    if not buy_prices:
         return 0.0
 
-    # Get the highest 10% of buy orders
-    highest_10_percent = buy_orders[buy_orders['price'] >= buy_orders['price'].quantile(0.9)]
+    prices_series = pd.Series(buy_prices)
+    quantile_90 = prices_series.quantile(0.9)
+    highest_10_percent_prices = prices_series[prices_series >= quantile_90]
 
-    # Calculate the average price of these orders
-    return highest_10_percent['price'].mean()
+    return highest_10_percent_prices.mean() if not highest_10_percent_prices.empty else 0.0
 
 def calculate_profit_per_unit(p_sell: float, p_buy: float, tax_rate: float, broker_fee: float) -> float:
     """
@@ -41,24 +63,36 @@ def calculate_roi_percent(profit_per_unit: float, p_buy: float) -> float:
         return 0.0
     return (profit_per_unit / p_buy) * 100
 
-def calculate_avg_daily_volume(orders: pd.DataFrame, days: int) -> float:
+def calculate_avg_daily_volume(db: Session, item_id: int, days: int = 30) -> float:
     """
-    Calculates the average daily volume over a given number of days.
+    Calculates the average daily volume over a given number of days from the local DB.
     """
-    if orders.empty:
-        return 0.0
-    total_volume = orders['volume_remain'].sum()
-    return total_volume / days
+    thirty_days_ago = datetime.now(timezone.utc) - timedelta(days=days)
 
-def calculate_volatility(orders: pd.DataFrame) -> float:
+    total_volume = db.query(func.sum(models.MarketHistory.volume)).filter(
+        models.MarketHistory.item_id == item_id,
+        models.MarketHistory.date >= thirty_days_ago
+    ).scalar()
+
+    return (total_volume / days) if total_volume else 0.0
+
+def calculate_volatility(db: Session, item_id: int, days: int = 30) -> float:
     """
-    Calculates the price volatility (standard deviation of daily price changes).
+    Calculates the price volatility (standard deviation of daily average prices).
     """
-    if orders.empty:
+    thirty_days_ago = datetime.now(timezone.utc) - timedelta(days=days)
+
+    prices = db.query(models.MarketHistory.sell_price).filter(
+        models.MarketHistory.item_id == item_id,
+        models.MarketHistory.date >= thirty_days_ago,
+        models.MarketHistory.sell_price.isnot(None)
+    ).all()
+
+    if not prices or len(prices) < 2:
         return 0.0
-    # This is a simplified approach. A more accurate calculation would require daily price data.
-    # For now, we'll use the standard deviation of all order prices.
-    return orders['price'].std()
+
+    price_series = pd.Series([p[0] for p in prices])
+    return price_series.std()
 
 def calculate_rank_score(roi_percent: float, avg_daily_volume: float) -> float:
     """

@@ -17,6 +17,8 @@ class Item(Base):
     avg_daily_volume = Column(Float, nullable=True)
     volatility = Column(Float, nullable=True)
     rank_score = Column(Float, nullable=True)
+    predicted_sell_price = Column(Float, nullable=True)
+    confidence_score = Column(Float, nullable=True)
     last_updated = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
 
     market_history = relationship("MarketHistory", back_populates="item", cascade="all, delete-orphan")
@@ -59,3 +61,12 @@ class Category(Base):
     id = Column(Integer, primary_key=True, index=True)
     category_id = Column(Integer, unique=True, index=True)
     name = Column(String, index=True)
+
+class ProcessedFile(Base):
+    __tablename__ = "processed_files"
+
+    id = Column(Integer, primary_key=True, index=True)
+    filename = Column(String, unique=True, index=True)
+    file_date = Column(DateTime, index=True)
+    file_date = Column(DateTime, index=True)
+    processed_at = Column(DateTime, default=datetime.utcnow)
