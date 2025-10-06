@@ -1,0 +1,25 @@
+# Environments
+.env
+.env*.local
+
+# Database
+backend/test.db
+
+# Python
+backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+
+# IDE files
+.idea/
+.vscode/
+
+# Scratch files
+jules-scratch/
