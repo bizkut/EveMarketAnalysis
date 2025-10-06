@@ -1,0 +1,1886 @@
+2025-10-05 16:39:18,551 - __main__ - INFO - Starting data refresh process.
+2025-10-05 16:39:18,552 - __main__ - INFO - Fetching historical market data for the last 30 days...
+2025-10-05 16:39:18,552 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-05/
+2025-10-05 16:39:18,917 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-05//market-orders/history/2025/2025-10-05/market-orders-2025-10-05_16-15-06.v3.csv.bz2
+2025-10-05 16:39:19,085 - app.everef - WARNING - No data found for 2025-10-05
+2025-10-05 16:39:19,086 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-04/
+2025-10-05 16:39:19,566 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-04//market-orders/history/2025/2025-10-04/market-orders-2025-10-04_22-15-06.v3.csv.bz2
+2025-10-05 16:39:19,727 - app.everef - WARNING - No data found for 2025-10-04
+2025-10-05 16:39:19,728 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-03/
+2025-10-05 16:39:20,075 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-03//market-orders/history/2025/2025-10-03/market-orders-2025-10-03_23-45-06.v3.csv.bz2
+2025-10-05 16:39:20,334 - app.everef - WARNING - No data found for 2025-10-03
+2025-10-05 16:39:20,335 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-02/
+2025-10-05 16:39:20,728 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-02//market-orders/history/2025/2025-10-02/market-orders-2025-10-02_23-45-06.v3.csv.bz2
+2025-10-05 16:39:20,894 - app.everef - WARNING - No data found for 2025-10-02
+2025-10-05 16:39:20,894 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-01/
+2025-10-05 16:39:21,422 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-01//market-orders/history/2025/2025-10-01/market-orders-2025-10-01_23-58-05.v3.csv.bz2
+2025-10-05 16:39:21,674 - app.everef - WARNING - No data found for 2025-10-01
+2025-10-05 16:39:21,674 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-30/
+2025-10-05 16:39:22,000 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-30//market-orders/history/2025/2025-09-30/market-orders-2025-09-30_23-45-05.v3.csv.bz2
+2025-10-05 16:39:22,153 - app.everef - WARNING - No data found for 2025-09-30
+2025-10-05 16:39:22,153 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-29/
+2025-10-05 16:39:22,612 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-29//market-orders/history/2025/2025-09-29/market-orders-2025-09-29_23-45-06.v3.csv.bz2
+2025-10-05 16:39:22,760 - app.everef - WARNING - No data found for 2025-09-29
+2025-10-05 16:39:22,761 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-28/
+2025-10-05 16:39:23,040 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-28//market-orders/history/2025/2025-09-28/market-orders-2025-09-28_23-45-05.v3.csv.bz2
+2025-10-05 16:39:23,219 - app.everef - WARNING - No data found for 2025-09-28
+2025-10-05 16:39:23,220 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-27/
+2025-10-05 16:39:23,524 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-27//market-orders/history/2025/2025-09-27/market-orders-2025-09-27_23-45-06.v3.csv.bz2
+2025-10-05 16:39:23,746 - app.everef - WARNING - No data found for 2025-09-27
+2025-10-05 16:39:23,746 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-26/
+2025-10-05 16:39:24,432 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-26//market-orders/history/2025/2025-09-26/market-orders-2025-09-26_23-45-06.v3.csv.bz2
+2025-10-05 16:39:24,579 - app.everef - WARNING - No data found for 2025-09-26
+2025-10-05 16:39:24,580 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-25/
+2025-10-05 16:39:24,941 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-25//market-orders/history/2025/2025-09-25/market-orders-2025-09-25_23-45-06.v3.csv.bz2
+2025-10-05 16:39:25,108 - app.everef - WARNING - No data found for 2025-09-25
+2025-10-05 16:39:25,109 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-24/
+2025-10-05 16:39:26,010 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-24//market-orders/history/2025/2025-09-24/market-orders-2025-09-24_23-45-05.v3.csv.bz2
+2025-10-05 16:39:26,241 - app.everef - WARNING - No data found for 2025-09-24
+2025-10-05 16:39:26,242 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-23/
+2025-10-05 16:39:26,621 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-23//market-orders/history/2025/2025-09-23/market-orders-2025-09-23_23-45-06.v3.csv.bz2
+2025-10-05 16:39:26,785 - app.everef - WARNING - No data found for 2025-09-23
+2025-10-05 16:39:26,786 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-22/
+2025-10-05 16:39:27,749 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-22//market-orders/history/2025/2025-09-22/market-orders-2025-09-22_23-45-06.v3.csv.bz2
+2025-10-05 16:39:27,930 - app.everef - WARNING - No data found for 2025-09-22
+2025-10-05 16:39:27,930 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-21/
+2025-10-05 16:39:28,201 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-21//market-orders/history/2025/2025-09-21/market-orders-2025-09-21_23-45-06.v3.csv.bz2
+2025-10-05 16:39:28,352 - app.everef - WARNING - No data found for 2025-09-21
+2025-10-05 16:39:28,353 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-20/
+2025-10-05 16:39:28,608 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-20//market-orders/history/2025/2025-09-20/market-orders-2025-09-20_23-45-06.v3.csv.bz2
+2025-10-05 16:39:28,814 - app.everef - WARNING - No data found for 2025-09-20
+2025-10-05 16:39:28,814 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-19/
+2025-10-05 16:39:29,113 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-19//market-orders/history/2025/2025-09-19/market-orders-2025-09-19_23-45-05.v3.csv.bz2
+2025-10-05 16:39:29,274 - app.everef - WARNING - No data found for 2025-09-19
+2025-10-05 16:39:29,275 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-18/
+2025-10-05 16:39:29,622 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-18//market-orders/history/2025/2025-09-18/market-orders-2025-09-18_23-45-06.v3.csv.bz2
+2025-10-05 16:39:29,760 - app.everef - WARNING - No data found for 2025-09-18
+2025-10-05 16:39:29,761 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-17/
+2025-10-05 16:39:30,154 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-17//market-orders/history/2025/2025-09-17/market-orders-2025-09-17_23-45-06.v3.csv.bz2
+2025-10-05 16:39:30,329 - app.everef - WARNING - No data found for 2025-09-17
+2025-10-05 16:39:30,330 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-16/
+2025-10-05 16:39:30,591 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-16//market-orders/history/2025/2025-09-16/market-orders-2025-09-16_23-45-06.v3.csv.bz2
+2025-10-05 16:39:30,743 - app.everef - WARNING - No data found for 2025-09-16
+2025-10-05 16:39:30,743 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-15/
+2025-10-05 16:39:31,125 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-15//market-orders/history/2025/2025-09-15/market-orders-2025-09-15_23-45-06.v3.csv.bz2
+2025-10-05 16:39:31,295 - app.everef - WARNING - No data found for 2025-09-15
+2025-10-05 16:39:31,296 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-14/
+2025-10-05 16:39:31,803 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-14//market-orders/history/2025/2025-09-14/market-orders-2025-09-14_23-45-06.v3.csv.bz2
+2025-10-05 16:39:31,966 - app.everef - WARNING - No data found for 2025-09-14
+2025-10-05 16:39:31,967 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-13/
+2025-10-05 16:39:32,679 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-13//market-orders/history/2025/2025-09-13/market-orders-2025-09-13_23-45-07.v3.csv.bz2
+2025-10-05 16:39:32,840 - app.everef - WARNING - No data found for 2025-09-13
+2025-10-05 16:39:32,841 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-12/
+2025-10-05 16:39:33,049 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-12//market-orders/history/2025/2025-09-12/market-orders-2025-09-12_23-45-06.v3.csv.bz2
+2025-10-05 16:39:33,339 - app.everef - WARNING - No data found for 2025-09-12
+2025-10-05 16:39:33,340 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-11/
+2025-10-05 16:39:33,616 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-11//market-orders/history/2025/2025-09-11/market-orders-2025-09-11_23-45-06.v3.csv.bz2
+2025-10-05 16:39:33,848 - app.everef - WARNING - No data found for 2025-09-11
+2025-10-05 16:39:33,849 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-10/
+2025-10-05 16:39:34,100 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-10//market-orders/history/2025/2025-09-10/market-orders-2025-09-10_23-45-07.v3.csv.bz2
+2025-10-05 16:39:34,262 - app.everef - WARNING - No data found for 2025-09-10
+2025-10-05 16:39:34,263 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-09/
+2025-10-05 16:39:34,520 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-09//market-orders/history/2025/2025-09-09/market-orders-2025-09-09_23-45-06.v3.csv.bz2
+2025-10-05 16:39:34,795 - app.everef - WARNING - No data found for 2025-09-09
+2025-10-05 16:39:34,797 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-08/
+2025-10-05 16:39:35,276 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-08//market-orders/history/2025/2025-09-08/market-orders-2025-09-08_23-45-06.v3.csv.bz2
+2025-10-05 16:39:35,436 - app.everef - WARNING - No data found for 2025-09-08
+2025-10-05 16:39:35,437 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-07/
+2025-10-05 16:39:35,799 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-07//market-orders/history/2025/2025-09-07/market-orders-2025-09-07_23-45-06.v3.csv.bz2
+2025-10-05 16:39:35,983 - app.everef - WARNING - No data found for 2025-09-07
+2025-10-05 16:39:35,984 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-06/
+2025-10-05 16:39:36,373 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-06//market-orders/history/2025/2025-09-06/market-orders-2025-09-06_23-45-07.v3.csv.bz2
+2025-10-05 16:39:36,695 - app.everef - WARNING - No data found for 2025-09-06
+2025-10-05 16:39:36,699 - __main__ - ERROR - Failed to fetch historical market data or no data was returned.
+2025-10-05 16:41:02,816 - __main__ - INFO - Starting data refresh process.
+2025-10-05 16:41:02,816 - __main__ - INFO - Fetching historical market data for the last 30 days...
+2025-10-05 16:41:02,817 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-05/
+2025-10-05 16:41:03,105 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-05/market-orders-2025-10-05_16-15-06.v3.csv.bz2
+2025-10-05 16:41:18,381 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-04/
+2025-10-05 16:41:18,753 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-04/market-orders-2025-10-04_22-15-06.v3.csv.bz2
+2025-10-05 16:41:30,318 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-03/
+2025-10-05 16:41:30,724 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-03/market-orders-2025-10-03_23-45-06.v3.csv.bz2
+2025-10-05 16:41:42,052 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-02/
+2025-10-05 16:41:42,441 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-02/market-orders-2025-10-02_23-45-06.v3.csv.bz2
+2025-10-05 16:41:53,959 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-01/
+2025-10-05 16:41:54,614 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-01/market-orders-2025-10-01_23-58-05.v3.csv.bz2
+2025-10-05 16:42:05,823 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-30/
+2025-10-05 16:42:06,165 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-30/market-orders-2025-09-30_23-45-05.v3.csv.bz2
+2025-10-05 16:42:18,082 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-29/
+2025-10-05 16:42:19,091 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-29/market-orders-2025-09-29_23-45-06.v3.csv.bz2
+2025-10-05 16:42:28,995 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-28/
+2025-10-05 16:42:29,343 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-28/market-orders-2025-09-28_23-45-05.v3.csv.bz2
+2025-10-05 16:42:39,760 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-27/
+2025-10-05 16:42:40,215 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-27/market-orders-2025-09-27_23-45-06.v3.csv.bz2
+2025-10-05 16:42:52,650 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-26/
+2025-10-05 16:42:53,688 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-26/market-orders-2025-09-26_23-45-06.v3.csv.bz2
+2025-10-05 16:43:03,751 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-25/
+2025-10-05 16:43:04,229 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-25/market-orders-2025-09-25_23-45-06.v3.csv.bz2
+2025-10-05 16:43:14,962 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-24/
+2025-10-05 16:43:16,164 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-24/market-orders-2025-09-24_23-45-05.v3.csv.bz2
+2025-10-05 16:43:26,251 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-23/
+2025-10-05 16:43:26,781 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-23/market-orders-2025-09-23_23-45-06.v3.csv.bz2
+2025-10-05 16:43:37,318 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-22/
+2025-10-05 16:43:38,055 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-22/market-orders-2025-09-22_23-45-06.v3.csv.bz2
+2025-10-05 16:43:50,610 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-21/
+2025-10-05 16:43:51,299 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-21/market-orders-2025-09-21_23-45-06.v3.csv.bz2
+2025-10-05 16:44:01,488 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-20/
+2025-10-05 16:44:02,062 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-20/market-orders-2025-09-20_23-45-06.v3.csv.bz2
+2025-10-05 16:44:12,563 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-19/
+2025-10-05 16:44:12,869 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-19/market-orders-2025-09-19_23-45-05.v3.csv.bz2
+2025-10-05 16:44:23,200 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-18/
+2025-10-05 16:44:23,579 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-18/market-orders-2025-09-18_23-45-06.v3.csv.bz2
+2025-10-05 16:44:33,777 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-17/
+2025-10-05 16:44:34,109 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-17/market-orders-2025-09-17_23-45-06.v3.csv.bz2
+2025-10-05 16:44:45,537 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-16/
+2025-10-05 16:44:45,946 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-16/market-orders-2025-09-16_23-45-06.v3.csv.bz2
+2025-10-05 16:44:55,942 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-15/
+2025-10-05 16:44:56,298 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-15/market-orders-2025-09-15_23-45-06.v3.csv.bz2
+2025-10-05 16:45:06,920 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-14/
+2025-10-05 16:45:07,257 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-14/market-orders-2025-09-14_23-45-06.v3.csv.bz2
+2025-10-05 16:45:17,982 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-13/
+2025-10-05 16:45:18,798 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-13/market-orders-2025-09-13_23-45-07.v3.csv.bz2
+2025-10-05 16:45:28,525 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-12/
+2025-10-05 16:45:28,939 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-12/market-orders-2025-09-12_23-45-06.v3.csv.bz2
+2025-10-05 16:45:40,227 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-11/
+2025-10-05 16:45:40,639 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-11/market-orders-2025-09-11_23-45-06.v3.csv.bz2
+2025-10-05 16:45:50,644 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-10/
+2025-10-05 16:45:51,136 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-10/market-orders-2025-09-10_23-45-07.v3.csv.bz2
+2025-10-05 16:46:03,199 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-09/
+2025-10-05 16:46:03,583 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-09/market-orders-2025-09-09_23-45-06.v3.csv.bz2
+2025-10-05 16:46:14,091 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-08/
+2025-10-05 16:46:14,456 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-08/market-orders-2025-09-08_23-45-06.v3.csv.bz2
+2025-10-05 16:46:25,188 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-07/
+2025-10-05 16:46:25,608 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-07/market-orders-2025-09-07_23-45-06.v3.csv.bz2
+2025-10-05 16:46:35,930 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-06/
+2025-10-05 16:46:36,400 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-06/market-orders-2025-09-06_23-45-07.v3.csv.bz2
+2025-10-05 16:47:25,786 - __main__ - INFO - Found 18175 unique items to process.
+2025-10-05 16:47:25,786 - __main__ - INFO - Processing item 1/18175: type_id 18
+2025-10-05 16:48:54,460 - __main__ - INFO - Starting data refresh process.
+2025-10-05 16:48:54,461 - __main__ - INFO - Fetching historical market data for the last 30 days...
+2025-10-05 16:48:54,461 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-05/
+2025-10-05 16:48:54,799 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-05/market-orders-2025-10-05_16-15-06.v3.csv.bz2
+2025-10-05 16:49:11,730 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-04/
+2025-10-05 16:49:12,319 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-04/market-orders-2025-10-04_22-15-06.v3.csv.bz2
+2025-10-05 16:49:23,902 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-03/
+2025-10-05 16:49:24,622 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-03/market-orders-2025-10-03_23-45-06.v3.csv.bz2
+2025-10-05 16:49:34,349 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-02/
+2025-10-05 16:49:34,834 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-02/market-orders-2025-10-02_23-45-06.v3.csv.bz2
+2025-10-05 16:49:44,732 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-01/
+2025-10-05 16:49:45,473 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-01/market-orders-2025-10-01_23-58-05.v3.csv.bz2
+2025-10-05 16:49:54,944 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-30/
+2025-10-05 16:49:55,291 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-30/market-orders-2025-09-30_23-45-05.v3.csv.bz2
+2025-10-05 16:50:05,420 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-29/
+2025-10-05 16:50:06,420 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-29/market-orders-2025-09-29_23-45-06.v3.csv.bz2
+2025-10-05 16:50:16,029 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-28/
+2025-10-05 16:50:16,543 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-28/market-orders-2025-09-28_23-45-05.v3.csv.bz2
+2025-10-05 16:50:25,896 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-27/
+2025-10-05 16:50:26,304 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-27/market-orders-2025-09-27_23-45-06.v3.csv.bz2
+2025-10-05 16:50:36,550 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-26/
+2025-10-05 16:50:37,495 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-26/market-orders-2025-09-26_23-45-06.v3.csv.bz2
+2025-10-05 16:50:46,955 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-25/
+2025-10-05 16:50:47,510 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-25/market-orders-2025-09-25_23-45-06.v3.csv.bz2
+2025-10-05 16:50:56,875 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-24/
+2025-10-05 16:50:57,685 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-24/market-orders-2025-09-24_23-45-05.v3.csv.bz2
+2025-10-05 16:51:07,129 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-23/
+2025-10-05 16:51:07,930 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-23/market-orders-2025-09-23_23-45-06.v3.csv.bz2
+2025-10-05 16:51:17,381 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-22/
+2025-10-05 16:51:18,332 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-22/market-orders-2025-09-22_23-45-06.v3.csv.bz2
+2025-10-05 16:51:27,840 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-21/
+2025-10-05 16:51:28,276 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-21/market-orders-2025-09-21_23-45-06.v3.csv.bz2
+2025-10-05 16:51:37,639 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-20/
+2025-10-05 16:51:38,058 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-20/market-orders-2025-09-20_23-45-06.v3.csv.bz2
+2025-10-05 16:51:47,656 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-19/
+2025-10-05 16:51:48,034 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-19/market-orders-2025-09-19_23-45-05.v3.csv.bz2
+2025-10-05 16:51:57,411 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-18/
+2025-10-05 16:51:57,855 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-18/market-orders-2025-09-18_23-45-06.v3.csv.bz2
+2025-10-05 16:52:07,339 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-17/
+2025-10-05 16:52:07,968 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-17/market-orders-2025-09-17_23-45-06.v3.csv.bz2
+2025-10-05 16:52:17,434 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-16/
+2025-10-05 16:52:17,778 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-16/market-orders-2025-09-16_23-45-06.v3.csv.bz2
+2025-10-05 16:52:27,260 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-15/
+2025-10-05 16:52:27,614 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-15/market-orders-2025-09-15_23-45-06.v3.csv.bz2
+2025-10-05 16:52:37,252 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-14/
+2025-10-05 16:52:37,680 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-14/market-orders-2025-09-14_23-45-06.v3.csv.bz2
+2025-10-05 16:52:47,100 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-13/
+2025-10-05 16:52:48,087 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-13/market-orders-2025-09-13_23-45-07.v3.csv.bz2
+2025-10-05 16:52:57,695 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-12/
+2025-10-05 16:52:58,008 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-12/market-orders-2025-09-12_23-45-06.v3.csv.bz2
+2025-10-05 16:53:07,815 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-11/
+2025-10-05 16:53:08,149 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-11/market-orders-2025-09-11_23-45-06.v3.csv.bz2
+2025-10-05 16:53:18,093 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-10/
+2025-10-05 16:53:18,466 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-10/market-orders-2025-09-10_23-45-07.v3.csv.bz2
+2025-10-05 16:53:28,045 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-09/
+2025-10-05 16:53:28,324 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-09/market-orders-2025-09-09_23-45-06.v3.csv.bz2
+2025-10-05 16:53:37,763 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-08/
+2025-10-05 16:53:38,267 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-08/market-orders-2025-09-08_23-45-06.v3.csv.bz2
+2025-10-05 16:53:47,940 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-07/
+2025-10-05 16:53:48,256 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-07/market-orders-2025-09-07_23-45-06.v3.csv.bz2
+2025-10-05 16:53:57,821 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-06/
+2025-10-05 16:53:58,301 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-06/market-orders-2025-09-06_23-45-07.v3.csv.bz2
+2025-10-05 16:54:41,188 - __main__ - INFO - Found 18175 unique items to process.
+2025-10-05 16:54:41,188 - __main__ - INFO - Processing item 1/18175: type_id 18
+2025-10-05 16:56:08,270 - __main__ - INFO - Starting data refresh process.
+2025-10-05 16:56:08,270 - __main__ - INFO - Fetching historical market data for the last 30 days...
+2025-10-05 16:56:08,271 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-05/
+2025-10-05 16:56:08,909 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-05/market-orders-2025-10-05_16-45-06.v3.csv.bz2
+2025-10-05 16:56:27,204 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-04/
+2025-10-05 16:56:27,650 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-04/market-orders-2025-10-04_22-15-06.v3.csv.bz2
+2025-10-05 16:56:37,741 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-03/
+2025-10-05 16:56:38,605 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-03/market-orders-2025-10-03_23-45-06.v3.csv.bz2
+2025-10-05 16:56:48,864 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-02/
+2025-10-05 16:56:49,356 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-02/market-orders-2025-10-02_23-45-06.v3.csv.bz2
+2025-10-05 16:57:00,332 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-01/
+2025-10-05 16:57:01,013 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-01/market-orders-2025-10-01_23-58-05.v3.csv.bz2
+2025-10-05 16:57:10,742 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-30/
+2025-10-05 16:57:11,036 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-30/market-orders-2025-09-30_23-45-05.v3.csv.bz2
+2025-10-05 16:57:20,608 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-29/
+2025-10-05 16:57:21,429 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-29/market-orders-2025-09-29_23-45-06.v3.csv.bz2
+2025-10-05 16:57:30,732 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-28/
+2025-10-05 16:57:31,412 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-28/market-orders-2025-09-28_23-45-05.v3.csv.bz2
+2025-10-05 16:57:40,988 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-27/
+2025-10-05 16:57:41,479 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-27/market-orders-2025-09-27_23-45-06.v3.csv.bz2
+2025-10-05 16:57:51,807 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-26/
+2025-10-05 16:57:52,595 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-26/market-orders-2025-09-26_23-45-06.v3.csv.bz2
+2025-10-05 16:58:02,075 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-25/
+2025-10-05 16:58:02,414 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-25/market-orders-2025-09-25_23-45-06.v3.csv.bz2
+2025-10-05 16:58:11,854 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-24/
+2025-10-05 16:58:12,570 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-24/market-orders-2025-09-24_23-45-05.v3.csv.bz2
+2025-10-05 16:58:24,424 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-23/
+2025-10-05 16:58:25,291 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-23/market-orders-2025-09-23_23-45-06.v3.csv.bz2
+2025-10-05 16:58:34,923 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-22/
+2025-10-05 16:58:35,730 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-22/market-orders-2025-09-22_23-45-06.v3.csv.bz2
+2025-10-05 16:58:45,179 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-21/
+2025-10-05 16:58:45,547 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-21/market-orders-2025-09-21_23-45-06.v3.csv.bz2
+2025-10-05 16:58:55,036 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-20/
+2025-10-05 16:58:55,377 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-20/market-orders-2025-09-20_23-45-06.v3.csv.bz2
+2025-10-05 16:59:04,913 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-19/
+2025-10-05 16:59:05,343 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-19/market-orders-2025-09-19_23-45-05.v3.csv.bz2
+2025-10-05 16:59:15,186 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-18/
+2025-10-05 16:59:15,667 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-18/market-orders-2025-09-18_23-45-06.v3.csv.bz2
+2025-10-05 16:59:25,278 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-17/
+2025-10-05 16:59:25,704 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-17/market-orders-2025-09-17_23-45-06.v3.csv.bz2
+2025-10-05 16:59:35,194 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-16/
+2025-10-05 16:59:35,642 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-16/market-orders-2025-09-16_23-45-06.v3.csv.bz2
+2025-10-05 16:59:45,178 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-15/
+2025-10-05 16:59:45,601 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-15/market-orders-2025-09-15_23-45-06.v3.csv.bz2
+2025-10-05 16:59:55,164 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-14/
+2025-10-05 16:59:55,511 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-14/market-orders-2025-09-14_23-45-06.v3.csv.bz2
+2025-10-05 17:00:05,279 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-13/
+2025-10-05 17:00:05,620 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-13/market-orders-2025-09-13_23-45-07.v3.csv.bz2
+2025-10-05 17:00:15,382 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-12/
+2025-10-05 17:00:15,851 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-12/market-orders-2025-09-12_23-45-06.v3.csv.bz2
+2025-10-05 17:00:25,441 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-11/
+2025-10-05 17:00:25,831 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-11/market-orders-2025-09-11_23-45-06.v3.csv.bz2
+2025-10-05 17:00:35,401 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-10/
+2025-10-05 17:00:35,823 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-10/market-orders-2025-09-10_23-45-07.v3.csv.bz2
+2025-10-05 17:00:45,459 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-09/
+2025-10-05 17:00:45,883 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-09/market-orders-2025-09-09_23-45-06.v3.csv.bz2
+2025-10-05 17:00:55,541 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-08/
+2025-10-05 17:00:55,877 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-08/market-orders-2025-09-08_23-45-06.v3.csv.bz2
+2025-10-05 17:01:05,674 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-07/
+2025-10-05 17:01:06,129 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-07/market-orders-2025-09-07_23-45-06.v3.csv.bz2
+2025-10-05 17:01:16,397 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-09-06/
+2025-10-05 17:01:16,840 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-09-06/market-orders-2025-09-06_23-45-07.v3.csv.bz2
+2025-10-05 17:01:50,076 - __main__ - INFO - Found 18175 unique items to process.
+2025-10-05 17:01:50,076 - __main__ - INFO - Processing item 1/18175: type_id 18
+2025-10-05 17:01:50,507 - __main__ - INFO - Processing item 2/18175: type_id 19
+2025-10-05 17:01:50,532 - __main__ - WARNING - Skipping type_id 19 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:01:50,532 - __main__ - INFO - Processing item 3/18175: type_id 20
+2025-10-05 17:01:50,952 - __main__ - INFO - Processing item 4/18175: type_id 21
+2025-10-05 17:01:50,977 - __main__ - WARNING - Skipping type_id 21 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:01:50,977 - __main__ - INFO - Processing item 5/18175: type_id 22
+2025-10-05 17:01:51,402 - __main__ - INFO - Processing item 6/18175: type_id 34
+2025-10-05 17:01:51,823 - __main__ - INFO - Processing item 7/18175: type_id 35
+2025-10-05 17:01:52,231 - __main__ - INFO - Processing item 8/18175: type_id 36
+2025-10-05 17:01:52,637 - __main__ - INFO - Processing item 9/18175: type_id 37
+2025-10-05 17:01:53,078 - __main__ - INFO - Processing item 10/18175: type_id 38
+2025-10-05 17:01:53,481 - __main__ - INFO - Processing item 11/18175: type_id 39
+2025-10-05 17:01:53,888 - __main__ - INFO - Processing item 12/18175: type_id 40
+2025-10-05 17:01:54,297 - __main__ - INFO - Processing item 13/18175: type_id 41
+2025-10-05 17:01:54,699 - __main__ - INFO - Processing item 14/18175: type_id 42
+2025-10-05 17:01:55,104 - __main__ - INFO - Processing item 15/18175: type_id 43
+2025-10-05 17:01:55,509 - __main__ - INFO - Processing item 16/18175: type_id 44
+2025-10-05 17:01:55,916 - __main__ - INFO - Processing item 17/18175: type_id 45
+2025-10-05 17:01:56,362 - __main__ - INFO - Processing item 18/18175: type_id 178
+2025-10-05 17:01:56,763 - __main__ - INFO - Processing item 19/18175: type_id 179
+2025-10-05 17:01:57,173 - __main__ - INFO - Processing item 20/18175: type_id 180
+2025-10-05 17:01:57,198 - __main__ - WARNING - Skipping type_id 180 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:01:57,198 - __main__ - INFO - Processing item 21/18175: type_id 181
+2025-10-05 17:01:57,603 - __main__ - INFO - Processing item 22/18175: type_id 182
+2025-10-05 17:01:58,007 - __main__ - INFO - Processing item 23/18175: type_id 183
+2025-10-05 17:01:58,032 - __main__ - WARNING - Skipping type_id 183 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:01:58,032 - __main__ - INFO - Processing item 24/18175: type_id 184
+2025-10-05 17:01:58,436 - __main__ - INFO - Processing item 25/18175: type_id 185
+2025-10-05 17:01:58,844 - __main__ - INFO - Processing item 26/18175: type_id 186
+2025-10-05 17:01:59,247 - __main__ - INFO - Processing item 27/18175: type_id 187
+2025-10-05 17:01:59,649 - __main__ - INFO - Processing item 28/18175: type_id 188
+2025-10-05 17:02:00,050 - __main__ - INFO - Processing item 29/18175: type_id 189
+2025-10-05 17:02:00,452 - __main__ - INFO - Processing item 30/18175: type_id 190
+2025-10-05 17:02:00,868 - __main__ - INFO - Processing item 31/18175: type_id 191
+2025-10-05 17:02:01,280 - __main__ - INFO - Processing item 32/18175: type_id 192
+2025-10-05 17:02:01,685 - __main__ - INFO - Processing item 33/18175: type_id 193
+2025-10-05 17:02:02,089 - __main__ - INFO - Processing item 34/18175: type_id 194
+2025-10-05 17:02:02,491 - __main__ - INFO - Processing item 35/18175: type_id 195
+2025-10-05 17:02:02,893 - __main__ - INFO - Processing item 36/18175: type_id 196
+2025-10-05 17:02:03,294 - __main__ - INFO - Processing item 37/18175: type_id 197
+2025-10-05 17:02:03,700 - __main__ - INFO - Processing item 38/18175: type_id 198
+2025-10-05 17:02:04,126 - __main__ - INFO - Processing item 39/18175: type_id 199
+2025-10-05 17:02:04,528 - __main__ - INFO - Processing item 40/18175: type_id 200
+2025-10-05 17:02:04,928 - __main__ - INFO - Processing item 41/18175: type_id 201
+2025-10-05 17:02:05,343 - __main__ - INFO - Processing item 42/18175: type_id 202
+2025-10-05 17:02:05,761 - __main__ - INFO - Processing item 43/18175: type_id 203
+2025-10-05 17:02:06,759 - __main__ - INFO - Processing item 44/18175: type_id 204
+2025-10-05 17:02:07,160 - __main__ - INFO - Processing item 45/18175: type_id 205
+2025-10-05 17:02:07,570 - __main__ - INFO - Processing item 46/18175: type_id 206
+2025-10-05 17:02:08,054 - __main__ - INFO - Processing item 47/18175: type_id 207
+2025-10-05 17:02:08,476 - __main__ - INFO - Processing item 48/18175: type_id 208
+2025-10-05 17:02:08,891 - __main__ - INFO - Processing item 49/18175: type_id 209
+2025-10-05 17:02:09,294 - __main__ - INFO - Processing item 50/18175: type_id 210
+2025-10-05 17:02:09,693 - __main__ - INFO - Processing item 51/18175: type_id 211
+2025-10-05 17:02:10,095 - __main__ - INFO - Processing item 52/18175: type_id 212
+2025-10-05 17:02:10,498 - __main__ - INFO - Processing item 53/18175: type_id 213
+2025-10-05 17:02:10,896 - __main__ - INFO - Processing item 54/18175: type_id 215
+2025-10-05 17:02:11,294 - __main__ - INFO - Processing item 55/18175: type_id 216
+2025-10-05 17:02:11,705 - __main__ - INFO - Processing item 56/18175: type_id 217
+2025-10-05 17:02:12,119 - __main__ - INFO - Processing item 57/18175: type_id 218
+2025-10-05 17:02:12,652 - __main__ - INFO - Processing item 58/18175: type_id 219
+2025-10-05 17:02:13,058 - __main__ - INFO - Processing item 59/18175: type_id 220
+2025-10-05 17:02:13,460 - __main__ - INFO - Processing item 60/18175: type_id 221
+2025-10-05 17:02:13,864 - __main__ - INFO - Processing item 61/18175: type_id 222
+2025-10-05 17:02:14,264 - __main__ - INFO - Processing item 62/18175: type_id 223
+2025-10-05 17:02:14,665 - __main__ - INFO - Processing item 63/18175: type_id 224
+2025-10-05 17:02:15,068 - __main__ - INFO - Processing item 64/18175: type_id 225
+2025-10-05 17:02:15,475 - __main__ - INFO - Processing item 65/18175: type_id 226
+2025-10-05 17:02:15,904 - __main__ - INFO - Processing item 66/18175: type_id 227
+2025-10-05 17:02:16,337 - __main__ - INFO - Processing item 67/18175: type_id 228
+2025-10-05 17:02:16,757 - __main__ - INFO - Processing item 68/18175: type_id 229
+2025-10-05 17:02:22,205 - __main__ - INFO - Processing item 69/18175: type_id 230
+2025-10-05 17:02:22,668 - __main__ - INFO - Processing item 70/18175: type_id 231
+2025-10-05 17:02:23,133 - __main__ - INFO - Processing item 71/18175: type_id 232
+2025-10-05 17:02:23,543 - __main__ - INFO - Processing item 72/18175: type_id 233
+2025-10-05 17:02:23,953 - __main__ - INFO - Processing item 73/18175: type_id 234
+2025-10-05 17:02:24,358 - __main__ - INFO - Processing item 74/18175: type_id 235
+2025-10-05 17:02:24,778 - __main__ - INFO - Processing item 75/18175: type_id 236
+2025-10-05 17:02:25,181 - __main__ - INFO - Processing item 76/18175: type_id 237
+2025-10-05 17:02:25,593 - __main__ - INFO - Processing item 77/18175: type_id 238
+2025-10-05 17:02:25,996 - __main__ - INFO - Processing item 78/18175: type_id 239
+2025-10-05 17:02:26,399 - __main__ - INFO - Processing item 79/18175: type_id 240
+2025-10-05 17:02:26,800 - __main__ - INFO - Processing item 80/18175: type_id 241
+2025-10-05 17:02:26,825 - __main__ - WARNING - Skipping type_id 241 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:02:26,825 - __main__ - INFO - Processing item 81/18175: type_id 242
+2025-10-05 17:02:27,225 - __main__ - INFO - Processing item 82/18175: type_id 243
+2025-10-05 17:02:27,635 - __main__ - INFO - Processing item 83/18175: type_id 244
+2025-10-05 17:02:28,037 - __main__ - INFO - Processing item 84/18175: type_id 245
+2025-10-05 17:02:28,473 - __main__ - INFO - Processing item 85/18175: type_id 246
+2025-10-05 17:02:28,884 - __main__ - INFO - Processing item 86/18175: type_id 247
+2025-10-05 17:02:29,288 - __main__ - INFO - Processing item 87/18175: type_id 248
+2025-10-05 17:02:29,689 - __main__ - INFO - Processing item 88/18175: type_id 249
+2025-10-05 17:02:29,714 - __main__ - WARNING - Skipping type_id 249 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:02:29,714 - __main__ - INFO - Processing item 89/18175: type_id 250
+2025-10-05 17:02:35,163 - __main__ - INFO - Processing item 90/18175: type_id 251
+2025-10-05 17:02:35,188 - __main__ - WARNING - Skipping type_id 251 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:02:35,189 - __main__ - INFO - Processing item 91/18175: type_id 252
+2025-10-05 17:02:35,599 - __main__ - INFO - Processing item 92/18175: type_id 253
+2025-10-05 17:02:36,009 - __main__ - INFO - Processing item 93/18175: type_id 254
+2025-10-05 17:02:36,457 - __main__ - INFO - Processing item 94/18175: type_id 255
+2025-10-05 17:02:36,868 - __main__ - INFO - Processing item 95/18175: type_id 256
+2025-10-05 17:02:37,271 - __main__ - INFO - Processing item 96/18175: type_id 257
+2025-10-05 17:02:37,683 - __main__ - INFO - Processing item 97/18175: type_id 258
+2025-10-05 17:02:38,093 - __main__ - INFO - Processing item 98/18175: type_id 259
+2025-10-05 17:02:38,497 - __main__ - INFO - Processing item 99/18175: type_id 260
+2025-10-05 17:02:38,905 - __main__ - INFO - Processing item 100/18175: type_id 261
+2025-10-05 17:02:39,365 - __main__ - INFO - Processing item 101/18175: type_id 262
+2025-10-05 17:02:39,794 - __main__ - INFO - Processing item 102/18175: type_id 263
+2025-10-05 17:02:40,215 - __main__ - INFO - Processing item 103/18175: type_id 264
+2025-10-05 17:02:40,703 - __main__ - INFO - Processing item 104/18175: type_id 266
+2025-10-05 17:02:41,129 - __main__ - INFO - Processing item 105/18175: type_id 267
+2025-10-05 17:02:41,580 - __main__ - INFO - Processing item 106/18175: type_id 269
+2025-10-05 17:02:42,071 - __main__ - INFO - Processing item 107/18175: type_id 377
+2025-10-05 17:02:42,533 - __main__ - INFO - Processing item 108/18175: type_id 380
+2025-10-05 17:02:42,949 - __main__ - INFO - Processing item 109/18175: type_id 393
+2025-10-05 17:02:43,377 - __main__ - INFO - Processing item 110/18175: type_id 394
+2025-10-05 17:02:43,782 - __main__ - INFO - Processing item 111/18175: type_id 399
+2025-10-05 17:02:44,204 - __main__ - INFO - Processing item 112/18175: type_id 400
+2025-10-05 17:02:44,606 - __main__ - INFO - Processing item 113/18175: type_id 405
+2025-10-05 17:02:45,011 - __main__ - INFO - Processing item 114/18175: type_id 421
+2025-10-05 17:04:36,466 - __main__ - INFO - Starting data refresh process.
+2025-10-05 17:04:36,467 - __main__ - INFO - Fetching historical market data for the last 2 days...
+2025-10-05 17:04:36,467 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-05/
+2025-10-05 17:04:37,119 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-05/market-orders-2025-10-05_16-45-06.v3.csv.bz2
+2025-10-05 17:04:55,054 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-04/
+2025-10-05 17:04:55,627 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-04/market-orders-2025-10-04_22-15-06.v3.csv.bz2
+2025-10-05 17:05:07,004 - __main__ - INFO - Found 17987 unique items to process.
+2025-10-05 17:05:07,004 - __main__ - INFO - Processing item 1/17987: type_id 18
+2025-10-05 17:05:07,030 - __main__ - INFO - Processing item 2/17987: type_id 19
+2025-10-05 17:05:07,035 - __main__ - WARNING - Skipping type_id 19 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:05:07,036 - __main__ - INFO - Processing item 3/17987: type_id 20
+2025-10-05 17:05:07,043 - __main__ - INFO - Processing item 4/17987: type_id 21
+2025-10-05 17:05:07,047 - __main__ - WARNING - Skipping type_id 21 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:05:07,048 - __main__ - INFO - Processing item 5/17987: type_id 22
+2025-10-05 17:05:07,054 - __main__ - INFO - Processing item 6/17987: type_id 34
+2025-10-05 17:05:07,061 - __main__ - INFO - Processing item 7/17987: type_id 35
+2025-10-05 17:05:07,067 - __main__ - INFO - Processing item 8/17987: type_id 36
+2025-10-05 17:05:07,074 - __main__ - INFO - Processing item 9/17987: type_id 37
+2025-10-05 17:05:07,081 - __main__ - INFO - Processing item 10/17987: type_id 38
+2025-10-05 17:05:07,087 - __main__ - INFO - Processing item 11/17987: type_id 39
+2025-10-05 17:05:07,094 - __main__ - INFO - Processing item 12/17987: type_id 40
+2025-10-05 17:05:07,100 - __main__ - INFO - Processing item 13/17987: type_id 41
+2025-10-05 17:05:07,107 - __main__ - INFO - Processing item 14/17987: type_id 42
+2025-10-05 17:05:07,113 - __main__ - INFO - Processing item 15/17987: type_id 43
+2025-10-05 17:05:07,120 - __main__ - INFO - Processing item 16/17987: type_id 44
+2025-10-05 17:05:07,126 - __main__ - INFO - Processing item 17/17987: type_id 45
+2025-10-05 17:05:07,133 - __main__ - INFO - Processing item 18/17987: type_id 178
+2025-10-05 17:05:07,139 - __main__ - INFO - Processing item 19/17987: type_id 179
+2025-10-05 17:05:07,146 - __main__ - INFO - Processing item 20/17987: type_id 180
+2025-10-05 17:05:07,150 - __main__ - WARNING - Skipping type_id 180 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:05:07,150 - __main__ - INFO - Processing item 21/17987: type_id 181
+2025-10-05 17:05:07,157 - __main__ - INFO - Processing item 22/17987: type_id 182
+2025-10-05 17:05:07,163 - __main__ - INFO - Processing item 23/17987: type_id 183
+2025-10-05 17:05:07,168 - __main__ - WARNING - Skipping type_id 183 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:05:07,168 - __main__ - INFO - Processing item 24/17987: type_id 184
+2025-10-05 17:05:07,174 - __main__ - INFO - Processing item 25/17987: type_id 185
+2025-10-05 17:05:07,183 - __main__ - INFO - Processing item 26/17987: type_id 186
+2025-10-05 17:05:07,190 - __main__ - INFO - Processing item 27/17987: type_id 187
+2025-10-05 17:05:07,196 - __main__ - INFO - Processing item 28/17987: type_id 188
+2025-10-05 17:05:07,202 - __main__ - INFO - Processing item 29/17987: type_id 189
+2025-10-05 17:05:07,209 - __main__ - INFO - Processing item 30/17987: type_id 190
+2025-10-05 17:05:07,215 - __main__ - INFO - Processing item 31/17987: type_id 191
+2025-10-05 17:05:07,221 - __main__ - INFO - Processing item 32/17987: type_id 192
+2025-10-05 17:05:07,228 - __main__ - INFO - Processing item 33/17987: type_id 193
+2025-10-05 17:05:07,234 - __main__ - INFO - Processing item 34/17987: type_id 194
+2025-10-05 17:05:07,240 - __main__ - INFO - Processing item 35/17987: type_id 195
+2025-10-05 17:05:07,247 - __main__ - INFO - Processing item 36/17987: type_id 196
+2025-10-05 17:05:07,253 - __main__ - INFO - Processing item 37/17987: type_id 197
+2025-10-05 17:05:07,260 - __main__ - INFO - Processing item 38/17987: type_id 198
+2025-10-05 17:05:07,266 - __main__ - INFO - Processing item 39/17987: type_id 199
+2025-10-05 17:05:07,272 - __main__ - INFO - Processing item 40/17987: type_id 200
+2025-10-05 17:05:07,279 - __main__ - INFO - Processing item 41/17987: type_id 201
+2025-10-05 17:05:07,285 - __main__ - INFO - Processing item 42/17987: type_id 202
+2025-10-05 17:05:07,292 - __main__ - INFO - Processing item 43/17987: type_id 203
+2025-10-05 17:05:07,298 - __main__ - INFO - Processing item 44/17987: type_id 204
+2025-10-05 17:05:07,305 - __main__ - INFO - Processing item 45/17987: type_id 205
+2025-10-05 17:05:07,311 - __main__ - INFO - Processing item 46/17987: type_id 206
+2025-10-05 17:05:07,315 - __main__ - WARNING - Skipping type_id 206 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:05:07,316 - __main__ - INFO - Processing item 47/17987: type_id 207
+2025-10-05 17:05:07,322 - __main__ - INFO - Processing item 48/17987: type_id 208
+2025-10-05 17:05:07,328 - __main__ - INFO - Processing item 49/17987: type_id 209
+2025-10-05 17:05:07,335 - __main__ - INFO - Processing item 50/17987: type_id 210
+2025-10-05 17:05:07,341 - __main__ - INFO - Processing item 51/17987: type_id 211
+2025-10-05 17:05:07,348 - __main__ - INFO - Processing item 52/17987: type_id 212
+2025-10-05 17:05:07,354 - __main__ - INFO - Processing item 53/17987: type_id 213
+2025-10-05 17:05:07,361 - __main__ - INFO - Processing item 54/17987: type_id 215
+2025-10-05 17:05:07,367 - __main__ - INFO - Processing item 55/17987: type_id 216
+2025-10-05 17:05:07,373 - __main__ - INFO - Processing item 56/17987: type_id 217
+2025-10-05 17:05:07,380 - __main__ - INFO - Processing item 57/17987: type_id 218
+2025-10-05 17:05:07,386 - __main__ - INFO - Processing item 58/17987: type_id 219
+2025-10-05 17:05:07,393 - __main__ - INFO - Processing item 59/17987: type_id 220
+2025-10-05 17:05:07,399 - __main__ - INFO - Processing item 60/17987: type_id 221
+2025-10-05 17:05:07,405 - __main__ - INFO - Processing item 61/17987: type_id 222
+2025-10-05 17:05:07,412 - __main__ - INFO - Processing item 62/17987: type_id 223
+2025-10-05 17:05:07,418 - __main__ - INFO - Processing item 63/17987: type_id 224
+2025-10-05 17:05:07,425 - __main__ - INFO - Processing item 64/17987: type_id 225
+2025-10-05 17:05:07,431 - __main__ - INFO - Processing item 65/17987: type_id 226
+2025-10-05 17:05:07,438 - __main__ - INFO - Processing item 66/17987: type_id 227
+2025-10-05 17:05:07,444 - __main__ - INFO - Processing item 67/17987: type_id 228
+2025-10-05 17:05:07,451 - __main__ - INFO - Processing item 68/17987: type_id 229
+2025-10-05 17:05:07,457 - __main__ - INFO - Processing item 69/17987: type_id 230
+2025-10-05 17:05:07,462 - __main__ - WARNING - Skipping type_id 230 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:05:07,462 - __main__ - INFO - Processing item 70/17987: type_id 231
+2025-10-05 17:05:07,468 - __main__ - INFO - Processing item 71/17987: type_id 232
+2025-10-05 17:05:07,475 - __main__ - INFO - Processing item 72/17987: type_id 233
+2025-10-05 17:05:07,481 - __main__ - INFO - Processing item 73/17987: type_id 234
+2025-10-05 17:05:07,488 - __main__ - INFO - Processing item 74/17987: type_id 235
+2025-10-05 17:05:07,494 - __main__ - INFO - Processing item 75/17987: type_id 236
+2025-10-05 17:05:07,500 - __main__ - INFO - Processing item 76/17987: type_id 237
+2025-10-05 17:05:07,507 - __main__ - INFO - Processing item 77/17987: type_id 238
+2025-10-05 17:05:07,513 - __main__ - INFO - Processing item 78/17987: type_id 239
+2025-10-05 17:05:07,520 - __main__ - INFO - Processing item 79/17987: type_id 240
+2025-10-05 17:05:07,526 - __main__ - INFO - Processing item 80/17987: type_id 241
+2025-10-05 17:05:07,531 - __main__ - WARNING - Skipping type_id 241 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:05:07,531 - __main__ - INFO - Processing item 81/17987: type_id 242
+2025-10-05 17:05:07,537 - __main__ - INFO - Processing item 82/17987: type_id 243
+2025-10-05 17:05:07,543 - __main__ - INFO - Processing item 83/17987: type_id 244
+2025-10-05 17:05:07,550 - __main__ - INFO - Processing item 84/17987: type_id 245
+2025-10-05 17:05:07,556 - __main__ - INFO - Processing item 85/17987: type_id 246
+2025-10-05 17:05:07,563 - __main__ - INFO - Processing item 86/17987: type_id 247
+2025-10-05 17:05:07,569 - __main__ - INFO - Processing item 87/17987: type_id 248
+2025-10-05 17:05:07,576 - __main__ - INFO - Processing item 88/17987: type_id 249
+2025-10-05 17:05:07,580 - __main__ - WARNING - Skipping type_id 249 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:05:07,580 - __main__ - INFO - Processing item 89/17987: type_id 250
+2025-10-05 17:05:07,587 - __main__ - INFO - Processing item 90/17987: type_id 251
+2025-10-05 17:05:07,591 - __main__ - WARNING - Skipping type_id 251 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:05:07,591 - __main__ - INFO - Processing item 91/17987: type_id 252
+2025-10-05 17:05:07,598 - __main__ - INFO - Processing item 92/17987: type_id 253
+2025-10-05 17:05:07,604 - __main__ - INFO - Processing item 93/17987: type_id 254
+2025-10-05 17:05:07,610 - __main__ - INFO - Processing item 94/17987: type_id 255
+2025-10-05 17:05:07,617 - __main__ - INFO - Processing item 95/17987: type_id 256
+2025-10-05 17:05:07,624 - __main__ - INFO - Processing item 96/17987: type_id 257
+2025-10-05 17:05:07,630 - __main__ - INFO - Processing item 97/17987: type_id 258
+2025-10-05 17:05:07,636 - __main__ - INFO - Processing item 98/17987: type_id 259
+2025-10-05 17:05:07,643 - __main__ - INFO - Processing item 99/17987: type_id 260
+2025-10-05 17:05:07,649 - __main__ - INFO - Processing item 100/17987: type_id 261
+2025-10-05 17:05:07,656 - __main__ - INFO - Processing item 101/17987: type_id 262
+2025-10-05 17:05:07,662 - __main__ - INFO - Processing item 102/17987: type_id 263
+2025-10-05 17:05:07,669 - __main__ - INFO - Processing item 103/17987: type_id 264
+2025-10-05 17:05:07,675 - __main__ - INFO - Processing item 104/17987: type_id 266
+2025-10-05 17:05:07,681 - __main__ - INFO - Processing item 105/17987: type_id 267
+2025-10-05 17:05:07,688 - __main__ - INFO - Processing item 106/17987: type_id 269
+2025-10-05 17:05:07,694 - __main__ - INFO - Processing item 107/17987: type_id 377
+2025-10-05 17:05:07,701 - __main__ - INFO - Processing item 108/17987: type_id 380
+2025-10-05 17:05:07,707 - __main__ - INFO - Processing item 109/17987: type_id 393
+2025-10-05 17:05:07,714 - __main__ - INFO - Processing item 110/17987: type_id 394
+2025-10-05 17:05:07,720 - __main__ - INFO - Processing item 111/17987: type_id 399
+2025-10-05 17:05:07,726 - __main__ - INFO - Processing item 112/17987: type_id 400
+2025-10-05 17:05:07,733 - __main__ - INFO - Processing item 113/17987: type_id 405
+2025-10-05 17:05:07,739 - __main__ - INFO - Processing item 114/17987: type_id 421
+2025-10-05 17:05:08,136 - __main__ - INFO - Processing item 115/17987: type_id 434
+2025-10-05 17:05:08,523 - __main__ - INFO - Processing item 116/17987: type_id 438
+2025-10-05 17:05:08,909 - __main__ - INFO - Processing item 117/17987: type_id 439
+2025-10-05 17:05:09,295 - __main__ - INFO - Processing item 118/17987: type_id 440
+2025-10-05 17:05:09,679 - __main__ - INFO - Processing item 119/17987: type_id 442
+2025-10-05 17:05:09,684 - __main__ - WARNING - Skipping type_id 442 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:05:09,685 - __main__ - INFO - Processing item 120/17987: type_id 443
+2025-10-05 17:05:10,068 - __main__ - INFO - Processing item 121/17987: type_id 444
+2025-10-05 17:05:10,446 - __main__ - INFO - Processing item 122/17987: type_id 447
+2025-10-05 17:05:10,831 - __main__ - INFO - Processing item 123/17987: type_id 448
+2025-10-05 17:05:11,211 - __main__ - INFO - Processing item 124/17987: type_id 450
+2025-10-05 17:05:11,591 - __main__ - INFO - Processing item 125/17987: type_id 451
+2025-10-05 17:05:11,997 - __main__ - INFO - Processing item 126/17987: type_id 452
+2025-10-05 17:05:12,401 - __main__ - INFO - Processing item 127/17987: type_id 453
+2025-10-05 17:05:12,793 - __main__ - INFO - Processing item 128/17987: type_id 454
+2025-10-05 17:05:13,187 - __main__ - INFO - Processing item 129/17987: type_id 455
+2025-10-05 17:05:13,193 - __main__ - WARNING - Skipping type_id 455 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:05:13,193 - __main__ - INFO - Processing item 130/17987: type_id 456
+2025-10-05 17:05:13,591 - __main__ - INFO - Processing item 131/17987: type_id 457
+2025-10-05 17:05:13,974 - __main__ - INFO - Processing item 132/17987: type_id 458
+2025-10-05 17:05:14,360 - __main__ - INFO - Processing item 133/17987: type_id 459
+2025-10-05 17:05:14,365 - __main__ - WARNING - Skipping type_id 459 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:05:14,365 - __main__ - INFO - Processing item 134/17987: type_id 460
+2025-10-05 17:05:14,754 - __main__ - INFO - Processing item 135/17987: type_id 461
+2025-10-05 17:05:14,758 - __main__ - WARNING - Skipping type_id 461 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:05:14,758 - __main__ - INFO - Processing item 136/17987: type_id 462
+2025-10-05 17:05:15,142 - __main__ - INFO - Processing item 137/17987: type_id 463
+2025-10-05 17:05:15,556 - __main__ - INFO - Processing item 138/17987: type_id 464
+2025-10-05 17:05:15,958 - __main__ - INFO - Processing item 139/17987: type_id 482
+2025-10-05 17:05:16,353 - __main__ - INFO - Processing item 140/17987: type_id 483
+2025-10-05 17:05:16,730 - __main__ - INFO - Processing item 141/17987: type_id 484
+2025-10-05 17:05:17,113 - __main__ - INFO - Processing item 142/17987: type_id 485
+2025-10-05 17:05:17,509 - __main__ - INFO - Processing item 143/17987: type_id 486
+2025-10-05 17:05:17,902 - __main__ - INFO - Processing item 144/17987: type_id 487
+2025-10-05 17:05:18,286 - __main__ - INFO - Processing item 145/17987: type_id 488
+2025-10-05 17:05:18,671 - __main__ - INFO - Processing item 146/17987: type_id 489
+2025-10-05 17:05:19,050 - __main__ - INFO - Processing item 147/17987: type_id 490
+2025-10-05 17:05:19,432 - __main__ - INFO - Processing item 148/17987: type_id 491
+2025-10-05 17:05:19,438 - __main__ - WARNING - Skipping type_id 491 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:05:19,438 - __main__ - INFO - Processing item 149/17987: type_id 492
+2025-10-05 17:05:19,817 - __main__ - INFO - Processing item 150/17987: type_id 493
+2025-10-05 17:05:19,823 - __main__ - WARNING - Skipping type_id 493 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:05:19,823 - __main__ - INFO - Processing item 151/17987: type_id 494
+2025-10-05 17:05:19,828 - __main__ - WARNING - Skipping type_id 494 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:05:19,829 - __main__ - INFO - Processing item 152/17987: type_id 495
+2025-10-05 17:05:19,833 - __main__ - WARNING - Skipping type_id 495 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:05:19,833 - __main__ - INFO - Processing item 153/17987: type_id 496
+2025-10-05 17:05:19,838 - __main__ - WARNING - Skipping type_id 496 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:05:19,838 - __main__ - INFO - Processing item 154/17987: type_id 497
+2025-10-05 17:05:20,231 - __main__ - INFO - Processing item 155/17987: type_id 498
+2025-10-05 17:05:20,614 - __main__ - INFO - Processing item 156/17987: type_id 499
+2025-10-05 17:05:20,994 - __main__ - INFO - Processing item 157/17987: type_id 501
+2025-10-05 17:05:21,376 - __main__ - INFO - Processing item 158/17987: type_id 503
+2025-10-05 17:05:21,753 - __main__ - INFO - Processing item 159/17987: type_id 506
+2025-10-05 17:05:22,131 - __main__ - INFO - Processing item 160/17987: type_id 508
+2025-10-05 17:05:22,137 - __main__ - WARNING - Skipping type_id 508 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:05:22,137 - __main__ - INFO - Processing item 161/17987: type_id 509
+2025-10-05 17:05:22,539 - __main__ - INFO - Processing item 162/17987: type_id 518
+2025-10-05 17:05:22,919 - __main__ - INFO - Processing item 163/17987: type_id 519
+2025-10-05 17:05:23,308 - __main__ - INFO - Processing item 164/17987: type_id 520
+2025-10-05 17:05:23,692 - __main__ - INFO - Processing item 165/17987: type_id 521
+2025-10-05 17:05:24,075 - __main__ - INFO - Processing item 166/17987: type_id 522
+2025-10-05 17:05:24,462 - __main__ - INFO - Processing item 167/17987: type_id 523
+2025-10-05 17:05:24,843 - __main__ - INFO - Processing item 168/17987: type_id 524
+2025-10-05 17:05:25,224 - __main__ - INFO - Processing item 169/17987: type_id 526
+2025-10-05 17:05:25,602 - __main__ - INFO - Processing item 170/17987: type_id 527
+2025-10-05 17:05:25,996 - __main__ - INFO - Processing item 171/17987: type_id 529
+2025-10-05 17:05:26,377 - __main__ - INFO - Processing item 172/17987: type_id 530
+2025-10-05 17:05:26,762 - __main__ - INFO - Processing item 173/17987: type_id 533
+2025-10-05 17:05:27,189 - __main__ - INFO - Processing item 174/17987: type_id 561
+2025-10-05 17:05:27,571 - __main__ - INFO - Processing item 175/17987: type_id 562
+2025-10-05 17:05:27,961 - __main__ - INFO - Processing item 176/17987: type_id 563
+2025-10-05 17:05:28,349 - __main__ - INFO - Processing item 177/17987: type_id 564
+2025-10-05 17:05:28,731 - __main__ - INFO - Processing item 178/17987: type_id 565
+2025-10-05 17:05:29,114 - __main__ - INFO - Processing item 179/17987: type_id 566
+2025-10-05 17:05:29,500 - __main__ - INFO - Processing item 180/17987: type_id 567
+2025-10-05 17:05:29,881 - __main__ - INFO - Processing item 181/17987: type_id 568
+2025-10-05 17:05:30,262 - __main__ - INFO - Processing item 182/17987: type_id 569
+2025-10-05 17:05:30,646 - __main__ - INFO - Processing item 183/17987: type_id 570
+2025-10-05 17:05:31,038 - __main__ - INFO - Processing item 184/17987: type_id 571
+2025-10-05 17:05:31,042 - __main__ - WARNING - Skipping type_id 571 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:05:31,042 - __main__ - INFO - Processing item 185/17987: type_id 572
+2025-10-05 17:05:31,434 - __main__ - INFO - Processing item 186/17987: type_id 573
+2025-10-05 17:05:31,833 - __main__ - INFO - Processing item 187/17987: type_id 574
+2025-10-05 17:05:32,213 - __main__ - INFO - Processing item 188/17987: type_id 575
+2025-10-05 17:05:32,218 - __main__ - WARNING - Skipping type_id 575 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:05:32,218 - __main__ - INFO - Processing item 189/17987: type_id 577
+2025-10-05 17:05:32,606 - __main__ - INFO - Processing item 190/17987: type_id 578
+2025-10-05 17:05:37,996 - __main__ - INFO - Processing item 191/17987: type_id 580
+2025-10-05 17:05:43,385 - __main__ - INFO - Processing item 192/17987: type_id 581
+2025-10-05 17:05:43,770 - __main__ - INFO - Processing item 193/17987: type_id 582
+2025-10-05 17:05:44,152 - __main__ - INFO - Processing item 194/17987: type_id 583
+2025-10-05 17:05:44,535 - __main__ - INFO - Processing item 195/17987: type_id 584
+2025-10-05 17:05:44,921 - __main__ - INFO - Processing item 196/17987: type_id 585
+2025-10-05 17:05:45,342 - __main__ - INFO - Processing item 197/17987: type_id 586
+2025-10-05 17:05:45,736 - __main__ - INFO - Processing item 198/17987: type_id 587
+2025-10-05 17:05:46,124 - __main__ - INFO - Processing item 199/17987: type_id 588
+2025-10-05 17:05:46,509 - __main__ - INFO - Processing item 200/17987: type_id 589
+2025-10-05 17:05:46,892 - __main__ - INFO - Processing item 201/17987: type_id 590
+2025-10-05 17:05:47,282 - __main__ - INFO - Processing item 202/17987: type_id 591
+2025-10-05 17:05:47,669 - __main__ - INFO - Processing item 203/17987: type_id 592
+2025-10-05 17:05:48,053 - __main__ - INFO - Processing item 204/17987: type_id 593
+2025-10-05 17:05:48,438 - __main__ - INFO - Processing item 205/17987: type_id 594
+2025-10-05 17:05:48,821 - __main__ - INFO - Processing item 206/17987: type_id 596
+2025-10-05 17:05:48,827 - __main__ - WARNING - Skipping type_id 596 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:05:48,827 - __main__ - INFO - Processing item 207/17987: type_id 597
+2025-10-05 17:05:49,203 - __main__ - INFO - Processing item 208/17987: type_id 598
+2025-10-05 17:05:49,594 - __main__ - INFO - Processing item 209/17987: type_id 599
+2025-10-05 17:05:49,977 - __main__ - INFO - Processing item 210/17987: type_id 601
+2025-10-05 17:05:50,362 - __main__ - INFO - Processing item 211/17987: type_id 602
+2025-10-05 17:05:50,755 - __main__ - INFO - Processing item 212/17987: type_id 603
+2025-10-05 17:05:51,145 - __main__ - INFO - Processing item 213/17987: type_id 605
+2025-10-05 17:05:51,534 - __main__ - INFO - Processing item 214/17987: type_id 606
+2025-10-05 17:05:51,920 - __main__ - INFO - Processing item 215/17987: type_id 607
+2025-10-05 17:05:52,318 - __main__ - INFO - Processing item 216/17987: type_id 608
+2025-10-05 17:05:52,715 - __main__ - INFO - Processing item 217/17987: type_id 609
+2025-10-05 17:05:53,111 - __main__ - INFO - Processing item 218/17987: type_id 615
+2025-10-05 17:05:53,117 - __main__ - WARNING - Skipping type_id 615 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:05:53,117 - __main__ - INFO - Processing item 219/17987: type_id 617
+2025-10-05 17:05:53,122 - __main__ - WARNING - Skipping type_id 617 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:05:53,122 - __main__ - INFO - Processing item 220/17987: type_id 620
+2025-10-05 17:05:53,521 - __main__ - INFO - Processing item 221/17987: type_id 621
+2025-10-05 17:05:53,918 - __main__ - INFO - Processing item 222/17987: type_id 622
+2025-10-05 17:05:54,298 - __main__ - INFO - Processing item 223/17987: type_id 623
+2025-10-05 17:05:54,701 - __main__ - INFO - Processing item 224/17987: type_id 624
+2025-10-05 17:05:54,707 - __main__ - WARNING - Skipping type_id 624 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:05:54,707 - __main__ - INFO - Processing item 225/17987: type_id 625
+2025-10-05 17:05:55,110 - __main__ - INFO - Processing item 226/17987: type_id 626
+2025-10-05 17:05:55,496 - __main__ - INFO - Processing item 227/17987: type_id 627
+2025-10-05 17:05:55,898 - __main__ - INFO - Processing item 228/17987: type_id 628
+2025-10-05 17:05:56,280 - __main__ - INFO - Processing item 229/17987: type_id 629
+2025-10-05 17:05:56,678 - __main__ - INFO - Processing item 230/17987: type_id 630
+2025-10-05 17:05:57,178 - __main__ - INFO - Processing item 231/17987: type_id 631
+2025-10-05 17:05:57,633 - __main__ - INFO - Processing item 232/17987: type_id 632
+2025-10-05 17:05:58,016 - __main__ - INFO - Processing item 233/17987: type_id 633
+2025-10-05 17:05:58,400 - __main__ - INFO - Processing item 234/17987: type_id 634
+2025-10-05 17:05:58,813 - __main__ - INFO - Processing item 235/17987: type_id 635
+2025-10-05 17:05:58,817 - __main__ - WARNING - Skipping type_id 635 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:05:58,817 - __main__ - INFO - Processing item 236/17987: type_id 638
+2025-10-05 17:05:59,210 - __main__ - INFO - Processing item 237/17987: type_id 639
+2025-10-05 17:05:59,615 - __main__ - INFO - Processing item 238/17987: type_id 640
+2025-10-05 17:05:59,998 - __main__ - INFO - Processing item 239/17987: type_id 641
+2025-10-05 17:06:00,380 - __main__ - INFO - Processing item 240/17987: type_id 642
+2025-10-05 17:06:00,772 - __main__ - INFO - Processing item 241/17987: type_id 643
+2025-10-05 17:06:01,165 - __main__ - INFO - Processing item 242/17987: type_id 644
+2025-10-05 17:06:01,552 - __main__ - INFO - Processing item 243/17987: type_id 645
+2025-10-05 17:06:01,940 - __main__ - INFO - Processing item 244/17987: type_id 648
+2025-10-05 17:06:02,321 - __main__ - INFO - Processing item 245/17987: type_id 649
+2025-10-05 17:06:02,706 - __main__ - INFO - Processing item 246/17987: type_id 650
+2025-10-05 17:06:03,095 - __main__ - INFO - Processing item 247/17987: type_id 651
+2025-10-05 17:06:03,476 - __main__ - INFO - Processing item 248/17987: type_id 652
+2025-10-05 17:06:03,863 - __main__ - INFO - Processing item 249/17987: type_id 653
+2025-10-05 17:06:04,743 - __main__ - INFO - Processing item 250/17987: type_id 654
+2025-10-05 17:06:05,127 - __main__ - INFO - Processing item 251/17987: type_id 655
+2025-10-05 17:06:05,511 - __main__ - INFO - Processing item 252/17987: type_id 656
+2025-10-05 17:06:05,894 - __main__ - INFO - Processing item 253/17987: type_id 657
+2025-10-05 17:06:06,279 - __main__ - INFO - Processing item 254/17987: type_id 671
+2025-10-05 17:06:06,283 - __main__ - WARNING - Skipping type_id 671 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:06,284 - __main__ - INFO - Processing item 255/17987: type_id 672
+2025-10-05 17:06:06,666 - __main__ - INFO - Processing item 256/17987: type_id 683
+2025-10-05 17:06:06,672 - __main__ - WARNING - Skipping type_id 683 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:06,672 - __main__ - INFO - Processing item 257/17987: type_id 684
+2025-10-05 17:06:06,677 - __main__ - WARNING - Skipping type_id 684 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:06,677 - __main__ - INFO - Processing item 258/17987: type_id 685
+2025-10-05 17:06:06,682 - __main__ - WARNING - Skipping type_id 685 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:06,682 - __main__ - INFO - Processing item 259/17987: type_id 686
+2025-10-05 17:06:07,066 - __main__ - INFO - Processing item 260/17987: type_id 687
+2025-10-05 17:06:07,447 - __main__ - INFO - Processing item 261/17987: type_id 688
+2025-10-05 17:06:07,453 - __main__ - WARNING - Skipping type_id 688 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:07,453 - __main__ - INFO - Processing item 262/17987: type_id 689
+2025-10-05 17:06:07,841 - __main__ - INFO - Processing item 263/17987: type_id 690
+2025-10-05 17:06:07,847 - __main__ - WARNING - Skipping type_id 690 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:07,847 - __main__ - INFO - Processing item 264/17987: type_id 691
+2025-10-05 17:06:07,852 - __main__ - WARNING - Skipping type_id 691 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:07,852 - __main__ - INFO - Processing item 265/17987: type_id 692
+2025-10-05 17:06:07,857 - __main__ - WARNING - Skipping type_id 692 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:07,857 - __main__ - INFO - Processing item 266/17987: type_id 693
+2025-10-05 17:06:08,235 - __main__ - INFO - Processing item 267/17987: type_id 785
+2025-10-05 17:06:08,241 - __main__ - WARNING - Skipping type_id 785 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:08,241 - __main__ - INFO - Processing item 268/17987: type_id 786
+2025-10-05 17:06:08,246 - __main__ - WARNING - Skipping type_id 786 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:08,246 - __main__ - INFO - Processing item 269/17987: type_id 788
+2025-10-05 17:06:08,652 - __main__ - INFO - Processing item 270/17987: type_id 790
+2025-10-05 17:06:08,657 - __main__ - WARNING - Skipping type_id 790 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:08,658 - __main__ - INFO - Processing item 271/17987: type_id 803
+2025-10-05 17:06:08,662 - __main__ - WARNING - Skipping type_id 803 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:08,662 - __main__ - INFO - Processing item 272/17987: type_id 804
+2025-10-05 17:06:08,667 - __main__ - WARNING - Skipping type_id 804 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:08,667 - __main__ - INFO - Processing item 273/17987: type_id 805
+2025-10-05 17:06:08,671 - __main__ - WARNING - Skipping type_id 805 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:08,671 - __main__ - INFO - Processing item 274/17987: type_id 806
+2025-10-05 17:06:08,676 - __main__ - WARNING - Skipping type_id 806 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:08,676 - __main__ - INFO - Processing item 275/17987: type_id 807
+2025-10-05 17:06:08,680 - __main__ - WARNING - Skipping type_id 807 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:08,680 - __main__ - INFO - Processing item 276/17987: type_id 808
+2025-10-05 17:06:08,685 - __main__ - WARNING - Skipping type_id 808 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:08,685 - __main__ - INFO - Processing item 277/17987: type_id 809
+2025-10-05 17:06:09,095 - __main__ - INFO - Processing item 278/17987: type_id 810
+2025-10-05 17:06:09,101 - __main__ - WARNING - Skipping type_id 810 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:09,101 - __main__ - INFO - Processing item 279/17987: type_id 811
+2025-10-05 17:06:14,488 - __main__ - INFO - Processing item 280/17987: type_id 812
+2025-10-05 17:06:19,906 - __main__ - INFO - Processing item 281/17987: type_id 813
+2025-10-05 17:06:19,911 - __main__ - WARNING - Skipping type_id 813 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:19,911 - __main__ - INFO - Processing item 282/17987: type_id 814
+2025-10-05 17:06:19,916 - __main__ - WARNING - Skipping type_id 814 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:19,916 - __main__ - INFO - Processing item 283/17987: type_id 819
+2025-10-05 17:06:19,921 - __main__ - WARNING - Skipping type_id 819 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:19,921 - __main__ - INFO - Processing item 284/17987: type_id 820
+2025-10-05 17:06:19,926 - __main__ - WARNING - Skipping type_id 820 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:19,926 - __main__ - INFO - Processing item 285/17987: type_id 821
+2025-10-05 17:06:19,930 - __main__ - WARNING - Skipping type_id 821 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:19,930 - __main__ - INFO - Processing item 286/17987: type_id 822
+2025-10-05 17:06:19,935 - __main__ - WARNING - Skipping type_id 822 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:19,935 - __main__ - INFO - Processing item 287/17987: type_id 823
+2025-10-05 17:06:19,939 - __main__ - WARNING - Skipping type_id 823 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:19,939 - __main__ - INFO - Processing item 288/17987: type_id 824
+2025-10-05 17:06:19,942 - __main__ - WARNING - Skipping type_id 824 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:19,943 - __main__ - INFO - Processing item 289/17987: type_id 825
+2025-10-05 17:06:19,947 - __main__ - WARNING - Skipping type_id 825 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:19,947 - __main__ - INFO - Processing item 290/17987: type_id 826
+2025-10-05 17:06:19,951 - __main__ - WARNING - Skipping type_id 826 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:19,951 - __main__ - INFO - Processing item 291/17987: type_id 827
+2025-10-05 17:06:19,955 - __main__ - WARNING - Skipping type_id 827 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:19,955 - __main__ - INFO - Processing item 292/17987: type_id 828
+2025-10-05 17:06:19,958 - __main__ - WARNING - Skipping type_id 828 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:19,958 - __main__ - INFO - Processing item 293/17987: type_id 829
+2025-10-05 17:06:19,963 - __main__ - WARNING - Skipping type_id 829 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:19,963 - __main__ - INFO - Processing item 294/17987: type_id 830
+2025-10-05 17:06:19,967 - __main__ - WARNING - Skipping type_id 830 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:19,967 - __main__ - INFO - Processing item 295/17987: type_id 831
+2025-10-05 17:06:19,972 - __main__ - WARNING - Skipping type_id 831 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:19,972 - __main__ - INFO - Processing item 296/17987: type_id 832
+2025-10-05 17:06:19,975 - __main__ - WARNING - Skipping type_id 832 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:19,975 - __main__ - INFO - Processing item 297/17987: type_id 833
+2025-10-05 17:06:19,979 - __main__ - WARNING - Skipping type_id 833 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:19,979 - __main__ - INFO - Processing item 298/17987: type_id 834
+2025-10-05 17:06:19,984 - __main__ - WARNING - Skipping type_id 834 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:19,984 - __main__ - INFO - Processing item 299/17987: type_id 835
+2025-10-05 17:06:19,988 - __main__ - WARNING - Skipping type_id 835 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:19,988 - __main__ - INFO - Processing item 300/17987: type_id 836
+2025-10-05 17:06:19,992 - __main__ - WARNING - Skipping type_id 836 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:19,992 - __main__ - INFO - Processing item 301/17987: type_id 837
+2025-10-05 17:06:20,372 - __main__ - INFO - Processing item 302/17987: type_id 838
+2025-10-05 17:06:20,796 - __main__ - INFO - Processing item 303/17987: type_id 839
+2025-10-05 17:06:20,801 - __main__ - WARNING - Skipping type_id 839 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:20,802 - __main__ - INFO - Processing item 304/17987: type_id 840
+2025-10-05 17:06:20,807 - __main__ - WARNING - Skipping type_id 840 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:20,807 - __main__ - INFO - Processing item 305/17987: type_id 841
+2025-10-05 17:06:20,811 - __main__ - WARNING - Skipping type_id 841 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:20,811 - __main__ - INFO - Processing item 306/17987: type_id 842
+2025-10-05 17:06:20,815 - __main__ - WARNING - Skipping type_id 842 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:20,815 - __main__ - INFO - Processing item 307/17987: type_id 843
+2025-10-05 17:06:21,199 - __main__ - INFO - Processing item 308/17987: type_id 844
+2025-10-05 17:06:21,204 - __main__ - WARNING - Skipping type_id 844 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:21,205 - __main__ - INFO - Processing item 309/17987: type_id 845
+2025-10-05 17:06:21,209 - __main__ - WARNING - Skipping type_id 845 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:21,210 - __main__ - INFO - Processing item 310/17987: type_id 846
+2025-10-05 17:06:21,214 - __main__ - WARNING - Skipping type_id 846 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:21,214 - __main__ - INFO - Processing item 311/17987: type_id 847
+2025-10-05 17:06:21,595 - __main__ - INFO - Processing item 312/17987: type_id 848
+2025-10-05 17:06:21,601 - __main__ - WARNING - Skipping type_id 848 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:21,601 - __main__ - INFO - Processing item 313/17987: type_id 879
+2025-10-05 17:06:21,606 - __main__ - WARNING - Skipping type_id 879 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:21,606 - __main__ - INFO - Processing item 314/17987: type_id 880
+2025-10-05 17:06:21,610 - __main__ - WARNING - Skipping type_id 880 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:21,610 - __main__ - INFO - Processing item 315/17987: type_id 881
+2025-10-05 17:06:21,615 - __main__ - WARNING - Skipping type_id 881 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:21,615 - __main__ - INFO - Processing item 316/17987: type_id 882
+2025-10-05 17:06:21,619 - __main__ - WARNING - Skipping type_id 882 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:21,619 - __main__ - INFO - Processing item 317/17987: type_id 883
+2025-10-05 17:06:21,624 - __main__ - WARNING - Skipping type_id 883 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:21,624 - __main__ - INFO - Processing item 318/17987: type_id 884
+2025-10-05 17:06:21,628 - __main__ - WARNING - Skipping type_id 884 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:21,628 - __main__ - INFO - Processing item 319/17987: type_id 885
+2025-10-05 17:06:21,633 - __main__ - WARNING - Skipping type_id 885 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:21,633 - __main__ - INFO - Processing item 320/17987: type_id 886
+2025-10-05 17:06:21,637 - __main__ - WARNING - Skipping type_id 886 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:21,638 - __main__ - INFO - Processing item 321/17987: type_id 887
+2025-10-05 17:06:21,642 - __main__ - WARNING - Skipping type_id 887 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:21,642 - __main__ - INFO - Processing item 322/17987: type_id 888
+2025-10-05 17:06:21,645 - __main__ - WARNING - Skipping type_id 888 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:21,645 - __main__ - INFO - Processing item 323/17987: type_id 889
+2025-10-05 17:06:21,650 - __main__ - WARNING - Skipping type_id 889 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:21,650 - __main__ - INFO - Processing item 324/17987: type_id 890
+2025-10-05 17:06:21,653 - __main__ - WARNING - Skipping type_id 890 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:21,653 - __main__ - INFO - Processing item 325/17987: type_id 891
+2025-10-05 17:06:21,658 - __main__ - WARNING - Skipping type_id 891 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:21,658 - __main__ - INFO - Processing item 326/17987: type_id 892
+2025-10-05 17:06:21,662 - __main__ - WARNING - Skipping type_id 892 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:21,662 - __main__ - INFO - Processing item 327/17987: type_id 893
+2025-10-05 17:06:21,666 - __main__ - WARNING - Skipping type_id 893 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:21,667 - __main__ - INFO - Processing item 328/17987: type_id 894
+2025-10-05 17:06:21,670 - __main__ - WARNING - Skipping type_id 894 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:21,670 - __main__ - INFO - Processing item 329/17987: type_id 895
+2025-10-05 17:06:21,674 - __main__ - WARNING - Skipping type_id 895 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:21,674 - __main__ - INFO - Processing item 330/17987: type_id 896
+2025-10-05 17:06:21,679 - __main__ - WARNING - Skipping type_id 896 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:21,679 - __main__ - INFO - Processing item 331/17987: type_id 897
+2025-10-05 17:06:21,682 - __main__ - WARNING - Skipping type_id 897 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:21,682 - __main__ - INFO - Processing item 332/17987: type_id 898
+2025-10-05 17:06:21,686 - __main__ - WARNING - Skipping type_id 898 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:21,687 - __main__ - INFO - Processing item 333/17987: type_id 899
+2025-10-05 17:06:21,690 - __main__ - WARNING - Skipping type_id 899 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:21,690 - __main__ - INFO - Processing item 334/17987: type_id 900
+2025-10-05 17:06:21,694 - __main__ - WARNING - Skipping type_id 900 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:21,694 - __main__ - INFO - Processing item 335/17987: type_id 901
+2025-10-05 17:06:21,699 - __main__ - WARNING - Skipping type_id 901 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:21,699 - __main__ - INFO - Processing item 336/17987: type_id 902
+2025-10-05 17:06:21,703 - __main__ - WARNING - Skipping type_id 902 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:21,703 - __main__ - INFO - Processing item 337/17987: type_id 936
+2025-10-05 17:06:22,100 - __main__ - INFO - Processing item 338/17987: type_id 937
+2025-10-05 17:06:22,106 - __main__ - WARNING - Skipping type_id 937 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:22,106 - __main__ - INFO - Processing item 339/17987: type_id 938
+2025-10-05 17:06:22,111 - __main__ - WARNING - Skipping type_id 938 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:22,111 - __main__ - INFO - Processing item 340/17987: type_id 939
+2025-10-05 17:06:22,116 - __main__ - WARNING - Skipping type_id 939 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:22,116 - __main__ - INFO - Processing item 341/17987: type_id 940
+2025-10-05 17:06:22,120 - __main__ - WARNING - Skipping type_id 940 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:22,120 - __main__ - INFO - Processing item 342/17987: type_id 941
+2025-10-05 17:06:22,125 - __main__ - WARNING - Skipping type_id 941 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:22,125 - __main__ - INFO - Processing item 343/17987: type_id 944
+2025-10-05 17:06:22,502 - __main__ - INFO - Processing item 344/17987: type_id 945
+2025-10-05 17:06:22,508 - __main__ - WARNING - Skipping type_id 945 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:22,508 - __main__ - INFO - Processing item 345/17987: type_id 946
+2025-10-05 17:06:22,513 - __main__ - WARNING - Skipping type_id 946 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:22,513 - __main__ - INFO - Processing item 346/17987: type_id 949
+2025-10-05 17:06:22,518 - __main__ - WARNING - Skipping type_id 949 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:22,518 - __main__ - INFO - Processing item 347/17987: type_id 950
+2025-10-05 17:06:22,897 - __main__ - INFO - Processing item 348/17987: type_id 952
+2025-10-05 17:06:22,903 - __main__ - WARNING - Skipping type_id 952 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:22,903 - __main__ - INFO - Processing item 349/17987: type_id 954
+2025-10-05 17:06:23,308 - __main__ - INFO - Processing item 350/17987: type_id 955
+2025-10-05 17:06:23,314 - __main__ - WARNING - Skipping type_id 955 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:23,314 - __main__ - INFO - Processing item 351/17987: type_id 956
+2025-10-05 17:06:23,319 - __main__ - WARNING - Skipping type_id 956 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:23,319 - __main__ - INFO - Processing item 352/17987: type_id 967
+2025-10-05 17:06:23,776 - __main__ - INFO - Processing item 353/17987: type_id 968
+2025-10-05 17:06:24,190 - __main__ - INFO - Processing item 354/17987: type_id 969
+2025-10-05 17:06:24,601 - __main__ - INFO - Processing item 355/17987: type_id 970
+2025-10-05 17:06:25,020 - __main__ - INFO - Processing item 356/17987: type_id 971
+2025-10-05 17:06:25,437 - __main__ - INFO - Processing item 357/17987: type_id 972
+2025-10-05 17:06:25,446 - __main__ - WARNING - Skipping type_id 972 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:25,447 - __main__ - INFO - Processing item 358/17987: type_id 973
+2025-10-05 17:06:25,456 - __main__ - WARNING - Skipping type_id 973 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:25,456 - __main__ - INFO - Processing item 359/17987: type_id 974
+2025-10-05 17:06:25,464 - __main__ - WARNING - Skipping type_id 974 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:25,465 - __main__ - INFO - Processing item 360/17987: type_id 975
+2025-10-05 17:06:25,472 - __main__ - WARNING - Skipping type_id 975 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:25,472 - __main__ - INFO - Processing item 361/17987: type_id 976
+2025-10-05 17:06:25,907 - __main__ - INFO - Processing item 362/17987: type_id 977
+2025-10-05 17:06:26,410 - __main__ - INFO - Processing item 363/17987: type_id 978
+2025-10-05 17:06:26,911 - __main__ - INFO - Processing item 364/17987: type_id 979
+2025-10-05 17:06:27,348 - __main__ - INFO - Processing item 365/17987: type_id 983
+2025-10-05 17:06:27,358 - __main__ - WARNING - Skipping type_id 983 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:27,358 - __main__ - INFO - Processing item 366/17987: type_id 984
+2025-10-05 17:06:27,366 - __main__ - WARNING - Skipping type_id 984 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:27,366 - __main__ - INFO - Processing item 367/17987: type_id 985
+2025-10-05 17:06:27,793 - __main__ - INFO - Processing item 368/17987: type_id 986
+2025-10-05 17:06:27,803 - __main__ - WARNING - Skipping type_id 986 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:27,803 - __main__ - INFO - Processing item 369/17987: type_id 987
+2025-10-05 17:06:27,813 - __main__ - WARNING - Skipping type_id 987 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:27,813 - __main__ - INFO - Processing item 370/17987: type_id 988
+2025-10-05 17:06:27,822 - __main__ - WARNING - Skipping type_id 988 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:27,822 - __main__ - INFO - Processing item 371/17987: type_id 989
+2025-10-05 17:06:27,831 - __main__ - WARNING - Skipping type_id 989 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:27,831 - __main__ - INFO - Processing item 372/17987: type_id 990
+2025-10-05 17:06:28,248 - __main__ - INFO - Processing item 373/17987: type_id 991
+2025-10-05 17:06:28,687 - __main__ - INFO - Processing item 374/17987: type_id 992
+2025-10-05 17:06:29,130 - __main__ - INFO - Processing item 375/17987: type_id 994
+2025-10-05 17:06:29,135 - __main__ - WARNING - Skipping type_id 994 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:29,135 - __main__ - INFO - Processing item 376/17987: type_id 995
+2025-10-05 17:06:29,518 - __main__ - INFO - Processing item 377/17987: type_id 996
+2025-10-05 17:06:29,901 - __main__ - INFO - Processing item 378/17987: type_id 997
+2025-10-05 17:06:30,380 - __main__ - INFO - Processing item 379/17987: type_id 998
+2025-10-05 17:06:30,386 - __main__ - WARNING - Skipping type_id 998 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:30,386 - __main__ - INFO - Processing item 380/17987: type_id 999
+2025-10-05 17:06:30,770 - __main__ - INFO - Processing item 381/17987: type_id 1002
+2025-10-05 17:06:30,776 - __main__ - WARNING - Skipping type_id 1002 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:30,777 - __main__ - INFO - Processing item 382/17987: type_id 1010
+2025-10-05 17:06:30,781 - __main__ - WARNING - Skipping type_id 1010 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:30,782 - __main__ - INFO - Processing item 383/17987: type_id 1026
+2025-10-05 17:06:30,786 - __main__ - WARNING - Skipping type_id 1026 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:30,786 - __main__ - INFO - Processing item 384/17987: type_id 1032
+2025-10-05 17:06:30,791 - __main__ - WARNING - Skipping type_id 1032 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:30,791 - __main__ - INFO - Processing item 385/17987: type_id 1067
+2025-10-05 17:06:31,167 - __main__ - INFO - Processing item 386/17987: type_id 1072
+2025-10-05 17:06:31,172 - __main__ - WARNING - Skipping type_id 1072 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,172 - __main__ - INFO - Processing item 387/17987: type_id 1074
+2025-10-05 17:06:31,177 - __main__ - WARNING - Skipping type_id 1074 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,177 - __main__ - INFO - Processing item 388/17987: type_id 1075
+2025-10-05 17:06:31,182 - __main__ - WARNING - Skipping type_id 1075 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,182 - __main__ - INFO - Processing item 389/17987: type_id 1076
+2025-10-05 17:06:31,186 - __main__ - WARNING - Skipping type_id 1076 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,187 - __main__ - INFO - Processing item 390/17987: type_id 1079
+2025-10-05 17:06:31,191 - __main__ - WARNING - Skipping type_id 1079 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,191 - __main__ - INFO - Processing item 391/17987: type_id 1096
+2025-10-05 17:06:31,194 - __main__ - WARNING - Skipping type_id 1096 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,194 - __main__ - INFO - Processing item 392/17987: type_id 1099
+2025-10-05 17:06:31,618 - __main__ - INFO - Processing item 393/17987: type_id 1100
+2025-10-05 17:06:31,623 - __main__ - WARNING - Skipping type_id 1100 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,623 - __main__ - INFO - Processing item 394/17987: type_id 1102
+2025-10-05 17:06:31,628 - __main__ - WARNING - Skipping type_id 1102 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,628 - __main__ - INFO - Processing item 395/17987: type_id 1105
+2025-10-05 17:06:31,633 - __main__ - WARNING - Skipping type_id 1105 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,633 - __main__ - INFO - Processing item 396/17987: type_id 1106
+2025-10-05 17:06:31,637 - __main__ - WARNING - Skipping type_id 1106 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,637 - __main__ - INFO - Processing item 397/17987: type_id 1109
+2025-10-05 17:06:31,641 - __main__ - WARNING - Skipping type_id 1109 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,642 - __main__ - INFO - Processing item 398/17987: type_id 1112
+2025-10-05 17:06:31,646 - __main__ - WARNING - Skipping type_id 1112 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,646 - __main__ - INFO - Processing item 399/17987: type_id 1113
+2025-10-05 17:06:31,649 - __main__ - WARNING - Skipping type_id 1113 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,649 - __main__ - INFO - Processing item 400/17987: type_id 1114
+2025-10-05 17:06:31,654 - __main__ - WARNING - Skipping type_id 1114 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,654 - __main__ - INFO - Processing item 401/17987: type_id 1115
+2025-10-05 17:06:31,658 - __main__ - WARNING - Skipping type_id 1115 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,658 - __main__ - INFO - Processing item 402/17987: type_id 1116
+2025-10-05 17:06:31,663 - __main__ - WARNING - Skipping type_id 1116 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,663 - __main__ - INFO - Processing item 403/17987: type_id 1117
+2025-10-05 17:06:31,667 - __main__ - WARNING - Skipping type_id 1117 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,667 - __main__ - INFO - Processing item 404/17987: type_id 1118
+2025-10-05 17:06:31,671 - __main__ - WARNING - Skipping type_id 1118 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,671 - __main__ - INFO - Processing item 405/17987: type_id 1119
+2025-10-05 17:06:31,676 - __main__ - WARNING - Skipping type_id 1119 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,676 - __main__ - INFO - Processing item 406/17987: type_id 1120
+2025-10-05 17:06:31,680 - __main__ - WARNING - Skipping type_id 1120 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,680 - __main__ - INFO - Processing item 407/17987: type_id 1121
+2025-10-05 17:06:31,684 - __main__ - WARNING - Skipping type_id 1121 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,684 - __main__ - INFO - Processing item 408/17987: type_id 1122
+2025-10-05 17:06:31,689 - __main__ - WARNING - Skipping type_id 1122 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,689 - __main__ - INFO - Processing item 409/17987: type_id 1123
+2025-10-05 17:06:31,693 - __main__ - WARNING - Skipping type_id 1123 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,693 - __main__ - INFO - Processing item 410/17987: type_id 1124
+2025-10-05 17:06:31,697 - __main__ - WARNING - Skipping type_id 1124 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,698 - __main__ - INFO - Processing item 411/17987: type_id 1125
+2025-10-05 17:06:31,702 - __main__ - WARNING - Skipping type_id 1125 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,702 - __main__ - INFO - Processing item 412/17987: type_id 1126
+2025-10-05 17:06:31,706 - __main__ - WARNING - Skipping type_id 1126 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,706 - __main__ - INFO - Processing item 413/17987: type_id 1128
+2025-10-05 17:06:31,710 - __main__ - WARNING - Skipping type_id 1128 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,711 - __main__ - INFO - Processing item 414/17987: type_id 1129
+2025-10-05 17:06:31,715 - __main__ - WARNING - Skipping type_id 1129 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,715 - __main__ - INFO - Processing item 415/17987: type_id 1130
+2025-10-05 17:06:31,719 - __main__ - WARNING - Skipping type_id 1130 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:31,719 - __main__ - INFO - Processing item 416/17987: type_id 1131
+2025-10-05 17:06:32,118 - __main__ - INFO - Processing item 417/17987: type_id 1132
+2025-10-05 17:06:32,124 - __main__ - WARNING - Skipping type_id 1132 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:32,124 - __main__ - INFO - Processing item 418/17987: type_id 1133
+2025-10-05 17:06:32,129 - __main__ - WARNING - Skipping type_id 1133 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:32,129 - __main__ - INFO - Processing item 419/17987: type_id 1134
+2025-10-05 17:06:32,133 - __main__ - WARNING - Skipping type_id 1134 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:32,134 - __main__ - INFO - Processing item 420/17987: type_id 1135
+2025-10-05 17:06:32,138 - __main__ - WARNING - Skipping type_id 1135 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:32,138 - __main__ - INFO - Processing item 421/17987: type_id 1136
+2025-10-05 17:06:32,142 - __main__ - WARNING - Skipping type_id 1136 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:32,142 - __main__ - INFO - Processing item 422/17987: type_id 1137
+2025-10-05 17:06:32,147 - __main__ - WARNING - Skipping type_id 1137 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:32,147 - __main__ - INFO - Processing item 423/17987: type_id 1138
+2025-10-05 17:06:32,151 - __main__ - WARNING - Skipping type_id 1138 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:32,151 - __main__ - INFO - Processing item 424/17987: type_id 1139
+2025-10-05 17:06:32,155 - __main__ - WARNING - Skipping type_id 1139 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:32,156 - __main__ - INFO - Processing item 425/17987: type_id 1140
+2025-10-05 17:06:32,540 - __main__ - INFO - Processing item 426/17987: type_id 1141
+2025-10-05 17:06:32,546 - __main__ - WARNING - Skipping type_id 1141 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:32,546 - __main__ - INFO - Processing item 427/17987: type_id 1142
+2025-10-05 17:06:32,550 - __main__ - WARNING - Skipping type_id 1142 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:32,551 - __main__ - INFO - Processing item 428/17987: type_id 1143
+2025-10-05 17:06:32,931 - __main__ - INFO - Processing item 429/17987: type_id 1144
+2025-10-05 17:06:32,936 - __main__ - WARNING - Skipping type_id 1144 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:32,936 - __main__ - INFO - Processing item 430/17987: type_id 1145
+2025-10-05 17:06:32,941 - __main__ - WARNING - Skipping type_id 1145 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:32,941 - __main__ - INFO - Processing item 431/17987: type_id 1146
+2025-10-05 17:06:33,322 - __main__ - INFO - Processing item 432/17987: type_id 1147
+2025-10-05 17:06:33,711 - __main__ - INFO - Processing item 433/17987: type_id 1148
+2025-10-05 17:06:33,716 - __main__ - WARNING - Skipping type_id 1148 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:33,716 - __main__ - INFO - Processing item 434/17987: type_id 1149
+2025-10-05 17:06:34,100 - __main__ - INFO - Processing item 435/17987: type_id 1150
+2025-10-05 17:06:34,488 - __main__ - INFO - Processing item 436/17987: type_id 1151
+2025-10-05 17:06:34,874 - __main__ - INFO - Processing item 437/17987: type_id 1152
+2025-10-05 17:06:35,265 - __main__ - INFO - Processing item 438/17987: type_id 1153
+2025-10-05 17:06:35,688 - __main__ - INFO - Processing item 439/17987: type_id 1154
+2025-10-05 17:06:35,693 - __main__ - WARNING - Skipping type_id 1154 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:35,694 - __main__ - INFO - Processing item 440/17987: type_id 1155
+2025-10-05 17:06:35,697 - __main__ - WARNING - Skipping type_id 1155 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:35,697 - __main__ - INFO - Processing item 441/17987: type_id 1156
+2025-10-05 17:06:36,079 - __main__ - INFO - Processing item 442/17987: type_id 1157
+2025-10-05 17:06:36,458 - __main__ - INFO - Processing item 443/17987: type_id 1158
+2025-10-05 17:06:36,464 - __main__ - WARNING - Skipping type_id 1158 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:36,464 - __main__ - INFO - Processing item 444/17987: type_id 1159
+2025-10-05 17:06:36,467 - __main__ - WARNING - Skipping type_id 1159 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:36,468 - __main__ - INFO - Processing item 445/17987: type_id 1160
+2025-10-05 17:06:36,471 - __main__ - WARNING - Skipping type_id 1160 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:36,471 - __main__ - INFO - Processing item 446/17987: type_id 1162
+2025-10-05 17:06:36,475 - __main__ - WARNING - Skipping type_id 1162 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:36,476 - __main__ - INFO - Processing item 447/17987: type_id 1163
+2025-10-05 17:06:36,479 - __main__ - WARNING - Skipping type_id 1163 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:36,479 - __main__ - INFO - Processing item 448/17987: type_id 1164
+2025-10-05 17:06:36,482 - __main__ - WARNING - Skipping type_id 1164 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:36,482 - __main__ - INFO - Processing item 449/17987: type_id 1165
+2025-10-05 17:06:36,487 - __main__ - WARNING - Skipping type_id 1165 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:36,487 - __main__ - INFO - Processing item 450/17987: type_id 1166
+2025-10-05 17:06:36,490 - __main__ - WARNING - Skipping type_id 1166 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:36,490 - __main__ - INFO - Processing item 451/17987: type_id 1167
+2025-10-05 17:06:36,494 - __main__ - WARNING - Skipping type_id 1167 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:36,494 - __main__ - INFO - Processing item 452/17987: type_id 1168
+2025-10-05 17:06:36,498 - __main__ - WARNING - Skipping type_id 1168 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:36,498 - __main__ - INFO - Processing item 453/17987: type_id 1169
+2025-10-05 17:06:36,502 - __main__ - WARNING - Skipping type_id 1169 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:36,502 - __main__ - INFO - Processing item 454/17987: type_id 1170
+2025-10-05 17:06:36,506 - __main__ - WARNING - Skipping type_id 1170 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:36,507 - __main__ - INFO - Processing item 455/17987: type_id 1171
+2025-10-05 17:06:36,510 - __main__ - WARNING - Skipping type_id 1171 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:36,510 - __main__ - INFO - Processing item 456/17987: type_id 1172
+2025-10-05 17:06:36,513 - __main__ - WARNING - Skipping type_id 1172 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:36,513 - __main__ - INFO - Processing item 457/17987: type_id 1173
+2025-10-05 17:06:36,517 - __main__ - WARNING - Skipping type_id 1173 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:36,517 - __main__ - INFO - Processing item 458/17987: type_id 1174
+2025-10-05 17:06:36,521 - __main__ - WARNING - Skipping type_id 1174 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:36,521 - __main__ - INFO - Processing item 459/17987: type_id 1175
+2025-10-05 17:06:36,526 - __main__ - WARNING - Skipping type_id 1175 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:36,526 - __main__ - INFO - Processing item 460/17987: type_id 1176
+2025-10-05 17:06:36,529 - __main__ - WARNING - Skipping type_id 1176 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:36,529 - __main__ - INFO - Processing item 461/17987: type_id 1177
+2025-10-05 17:06:36,533 - __main__ - WARNING - Skipping type_id 1177 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:36,534 - __main__ - INFO - Processing item 462/17987: type_id 1178
+2025-10-05 17:06:36,538 - __main__ - WARNING - Skipping type_id 1178 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:36,538 - __main__ - INFO - Processing item 463/17987: type_id 1179
+2025-10-05 17:06:36,542 - __main__ - WARNING - Skipping type_id 1179 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:36,542 - __main__ - INFO - Processing item 464/17987: type_id 1182
+2025-10-05 17:06:36,929 - __main__ - INFO - Processing item 465/17987: type_id 1183
+2025-10-05 17:06:37,311 - __main__ - INFO - Processing item 466/17987: type_id 1185
+2025-10-05 17:06:37,701 - __main__ - INFO - Processing item 467/17987: type_id 1186
+2025-10-05 17:06:37,706 - __main__ - WARNING - Skipping type_id 1186 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:37,707 - __main__ - INFO - Processing item 468/17987: type_id 1190
+2025-10-05 17:06:38,091 - __main__ - INFO - Processing item 469/17987: type_id 1192
+2025-10-05 17:06:38,482 - __main__ - INFO - Processing item 470/17987: type_id 1193
+2025-10-05 17:06:38,883 - __main__ - INFO - Processing item 471/17987: type_id 1195
+2025-10-05 17:06:39,276 - __main__ - INFO - Processing item 472/17987: type_id 1196
+2025-10-05 17:06:39,281 - __main__ - WARNING - Skipping type_id 1196 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:39,282 - __main__ - INFO - Processing item 473/17987: type_id 1197
+2025-10-05 17:06:39,669 - __main__ - INFO - Processing item 474/17987: type_id 1198
+2025-10-05 17:06:40,060 - __main__ - INFO - Processing item 475/17987: type_id 1201
+2025-10-05 17:06:40,460 - __main__ - INFO - Processing item 476/17987: type_id 1202
+2025-10-05 17:06:40,856 - __main__ - INFO - Processing item 477/17987: type_id 1204
+2025-10-05 17:06:40,862 - __main__ - WARNING - Skipping type_id 1204 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:40,862 - __main__ - INFO - Processing item 478/17987: type_id 1208
+2025-10-05 17:06:40,867 - __main__ - WARNING - Skipping type_id 1208 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:40,867 - __main__ - INFO - Processing item 479/17987: type_id 1210
+2025-10-05 17:06:40,872 - __main__ - WARNING - Skipping type_id 1210 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:40,872 - __main__ - INFO - Processing item 480/17987: type_id 1212
+2025-10-05 17:06:40,875 - __main__ - WARNING - Skipping type_id 1212 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:40,875 - __main__ - INFO - Processing item 481/17987: type_id 1214
+2025-10-05 17:06:40,880 - __main__ - WARNING - Skipping type_id 1214 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:40,880 - __main__ - INFO - Processing item 482/17987: type_id 1216
+2025-10-05 17:06:40,884 - __main__ - WARNING - Skipping type_id 1216 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:40,884 - __main__ - INFO - Processing item 483/17987: type_id 1218
+2025-10-05 17:06:40,888 - __main__ - WARNING - Skipping type_id 1218 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:40,889 - __main__ - INFO - Processing item 484/17987: type_id 1220
+2025-10-05 17:06:40,893 - __main__ - WARNING - Skipping type_id 1220 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:40,893 - __main__ - INFO - Processing item 485/17987: type_id 1221
+2025-10-05 17:06:40,897 - __main__ - WARNING - Skipping type_id 1221 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:40,898 - __main__ - INFO - Processing item 486/17987: type_id 1223
+2025-10-05 17:06:41,281 - __main__ - INFO - Processing item 487/17987: type_id 1224
+2025-10-05 17:06:41,668 - __main__ - INFO - Processing item 488/17987: type_id 1225
+2025-10-05 17:06:41,673 - __main__ - WARNING - Skipping type_id 1225 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:06:41,673 - __main__ - INFO - Processing item 489/17987: type_id 1226
+2025-10-05 17:06:42,065 - __main__ - INFO - Processing item 490/17987: type_id 1227
+2025-10-05 17:06:42,493 - __main__ - INFO - Processing item 491/17987: type_id 1228
+2025-10-05 17:06:42,876 - __main__ - INFO - Processing item 492/17987: type_id 1229
+2025-10-05 17:07:18,874 - __main__ - INFO - Processing item 493/17987: type_id 1230
+2025-10-05 17:07:19,267 - __main__ - INFO - Processing item 494/17987: type_id 1231
+2025-10-05 17:07:19,650 - __main__ - INFO - Processing item 495/17987: type_id 1232
+2025-10-05 17:07:20,035 - __main__ - INFO - Processing item 496/17987: type_id 1236
+2025-10-05 17:07:20,419 - __main__ - INFO - Processing item 497/17987: type_id 1240
+2025-10-05 17:07:20,798 - __main__ - INFO - Processing item 498/17987: type_id 1242
+2025-10-05 17:07:21,202 - __main__ - INFO - Processing item 499/17987: type_id 1244
+2025-10-05 17:07:21,585 - __main__ - INFO - Processing item 500/17987: type_id 1245
+2025-10-05 17:07:21,591 - __main__ - WARNING - Skipping type_id 1245 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:21,591 - __main__ - INFO - Processing item 501/17987: type_id 1246
+2025-10-05 17:07:21,972 - __main__ - INFO - Processing item 502/17987: type_id 1247
+2025-10-05 17:07:21,978 - __main__ - WARNING - Skipping type_id 1247 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:21,978 - __main__ - INFO - Processing item 503/17987: type_id 1248
+2025-10-05 17:07:22,357 - __main__ - INFO - Processing item 504/17987: type_id 1254
+2025-10-05 17:07:22,769 - __main__ - INFO - Processing item 505/17987: type_id 1255
+2025-10-05 17:07:22,774 - __main__ - WARNING - Skipping type_id 1255 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:22,774 - __main__ - INFO - Processing item 506/17987: type_id 1256
+2025-10-05 17:07:22,779 - __main__ - WARNING - Skipping type_id 1256 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:22,779 - __main__ - INFO - Processing item 507/17987: type_id 1262
+2025-10-05 17:07:22,782 - __main__ - WARNING - Skipping type_id 1262 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:22,783 - __main__ - INFO - Processing item 508/17987: type_id 1264
+2025-10-05 17:07:23,162 - __main__ - INFO - Processing item 509/17987: type_id 1265
+2025-10-05 17:07:23,168 - __main__ - WARNING - Skipping type_id 1265 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:23,168 - __main__ - INFO - Processing item 510/17987: type_id 1266
+2025-10-05 17:07:23,571 - __main__ - INFO - Processing item 511/17987: type_id 1272
+2025-10-05 17:07:23,577 - __main__ - WARNING - Skipping type_id 1272 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:23,577 - __main__ - INFO - Processing item 512/17987: type_id 1274
+2025-10-05 17:07:23,582 - __main__ - WARNING - Skipping type_id 1274 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:23,582 - __main__ - INFO - Processing item 513/17987: type_id 1275
+2025-10-05 17:07:23,586 - __main__ - WARNING - Skipping type_id 1275 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:23,587 - __main__ - INFO - Processing item 514/17987: type_id 1276
+2025-10-05 17:07:23,972 - __main__ - INFO - Processing item 515/17987: type_id 1282
+2025-10-05 17:07:23,977 - __main__ - WARNING - Skipping type_id 1282 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:23,977 - __main__ - INFO - Processing item 516/17987: type_id 1284
+2025-10-05 17:07:23,981 - __main__ - WARNING - Skipping type_id 1284 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:23,981 - __main__ - INFO - Processing item 517/17987: type_id 1285
+2025-10-05 17:07:23,986 - __main__ - WARNING - Skipping type_id 1285 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:23,986 - __main__ - INFO - Processing item 518/17987: type_id 1286
+2025-10-05 17:07:24,369 - __main__ - INFO - Processing item 519/17987: type_id 1292
+2025-10-05 17:07:24,374 - __main__ - WARNING - Skipping type_id 1292 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:24,374 - __main__ - INFO - Processing item 520/17987: type_id 1294
+2025-10-05 17:07:24,378 - __main__ - WARNING - Skipping type_id 1294 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:24,378 - __main__ - INFO - Processing item 521/17987: type_id 1295
+2025-10-05 17:07:24,383 - __main__ - WARNING - Skipping type_id 1295 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:24,383 - __main__ - INFO - Processing item 522/17987: type_id 1296
+2025-10-05 17:07:24,763 - __main__ - INFO - Processing item 523/17987: type_id 1302
+2025-10-05 17:07:24,769 - __main__ - WARNING - Skipping type_id 1302 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:24,769 - __main__ - INFO - Processing item 524/17987: type_id 1304
+2025-10-05 17:07:25,153 - __main__ - INFO - Processing item 525/17987: type_id 1305
+2025-10-05 17:07:25,160 - __main__ - WARNING - Skipping type_id 1305 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:25,160 - __main__ - INFO - Processing item 526/17987: type_id 1306
+2025-10-05 17:07:25,543 - __main__ - INFO - Processing item 527/17987: type_id 1315
+2025-10-05 17:07:25,921 - __main__ - INFO - Processing item 528/17987: type_id 1317
+2025-10-05 17:07:26,318 - __main__ - INFO - Processing item 529/17987: type_id 1318
+2025-10-05 17:07:26,324 - __main__ - WARNING - Skipping type_id 1318 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:26,324 - __main__ - INFO - Processing item 530/17987: type_id 1319
+2025-10-05 17:07:26,712 - __main__ - INFO - Processing item 531/17987: type_id 1333
+2025-10-05 17:07:27,101 - __main__ - INFO - Processing item 532/17987: type_id 1334
+2025-10-05 17:07:27,107 - __main__ - WARNING - Skipping type_id 1334 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:27,107 - __main__ - INFO - Processing item 533/17987: type_id 1335
+2025-10-05 17:07:27,488 - __main__ - INFO - Processing item 534/17987: type_id 1351
+2025-10-05 17:07:27,494 - __main__ - WARNING - Skipping type_id 1351 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:27,494 - __main__ - INFO - Processing item 535/17987: type_id 1353
+2025-10-05 17:07:27,877 - __main__ - INFO - Processing item 536/17987: type_id 1354
+2025-10-05 17:07:27,883 - __main__ - WARNING - Skipping type_id 1354 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:27,883 - __main__ - INFO - Processing item 537/17987: type_id 1355
+2025-10-05 17:07:28,367 - __main__ - INFO - Processing item 538/17987: type_id 1401
+2025-10-05 17:07:28,758 - __main__ - INFO - Processing item 539/17987: type_id 1403
+2025-10-05 17:07:29,137 - __main__ - INFO - Processing item 540/17987: type_id 1404
+2025-10-05 17:07:29,142 - __main__ - WARNING - Skipping type_id 1404 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:29,142 - __main__ - INFO - Processing item 541/17987: type_id 1405
+2025-10-05 17:07:29,518 - __main__ - INFO - Processing item 542/17987: type_id 1419
+2025-10-05 17:07:29,524 - __main__ - WARNING - Skipping type_id 1419 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:29,524 - __main__ - INFO - Processing item 543/17987: type_id 1422
+2025-10-05 17:07:29,909 - __main__ - INFO - Processing item 544/17987: type_id 1436
+2025-10-05 17:07:30,288 - __main__ - INFO - Processing item 545/17987: type_id 1445
+2025-10-05 17:07:30,677 - __main__ - INFO - Processing item 546/17987: type_id 1446
+2025-10-05 17:07:30,682 - __main__ - WARNING - Skipping type_id 1446 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:30,682 - __main__ - INFO - Processing item 547/17987: type_id 1447
+2025-10-05 17:07:31,064 - __main__ - INFO - Processing item 548/17987: type_id 1537
+2025-10-05 17:07:31,070 - __main__ - WARNING - Skipping type_id 1537 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:31,070 - __main__ - INFO - Processing item 549/17987: type_id 1539
+2025-10-05 17:07:31,452 - __main__ - INFO - Processing item 550/17987: type_id 1540
+2025-10-05 17:07:31,457 - __main__ - WARNING - Skipping type_id 1540 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:31,458 - __main__ - INFO - Processing item 551/17987: type_id 1541
+2025-10-05 17:07:31,841 - __main__ - INFO - Processing item 552/17987: type_id 1547
+2025-10-05 17:07:32,225 - __main__ - INFO - Processing item 553/17987: type_id 1549
+2025-10-05 17:07:32,611 - __main__ - INFO - Processing item 554/17987: type_id 1551
+2025-10-05 17:07:32,998 - __main__ - INFO - Processing item 555/17987: type_id 1553
+2025-10-05 17:07:33,377 - __main__ - INFO - Processing item 556/17987: type_id 1557
+2025-10-05 17:07:33,761 - __main__ - INFO - Processing item 557/17987: type_id 1558
+2025-10-05 17:07:33,765 - __main__ - WARNING - Skipping type_id 1558 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:33,766 - __main__ - INFO - Processing item 558/17987: type_id 1559
+2025-10-05 17:07:34,149 - __main__ - INFO - Processing item 559/17987: type_id 1563
+2025-10-05 17:07:34,155 - __main__ - WARNING - Skipping type_id 1563 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:34,155 - __main__ - INFO - Processing item 560/17987: type_id 1565
+2025-10-05 17:07:34,534 - __main__ - INFO - Processing item 561/17987: type_id 1798
+2025-10-05 17:07:34,916 - __main__ - INFO - Processing item 562/17987: type_id 1800
+2025-10-05 17:07:35,303 - __main__ - INFO - Processing item 563/17987: type_id 1802
+2025-10-05 17:07:35,706 - __main__ - INFO - Processing item 564/17987: type_id 1804
+2025-10-05 17:07:36,092 - __main__ - INFO - Processing item 565/17987: type_id 1808
+2025-10-05 17:07:36,469 - __main__ - INFO - Processing item 566/17987: type_id 1809
+2025-10-05 17:07:36,474 - __main__ - WARNING - Skipping type_id 1809 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:36,474 - __main__ - INFO - Processing item 567/17987: type_id 1810
+2025-10-05 17:07:36,854 - __main__ - INFO - Processing item 568/17987: type_id 1811
+2025-10-05 17:07:37,248 - __main__ - INFO - Processing item 569/17987: type_id 1814
+2025-10-05 17:07:37,631 - __main__ - INFO - Processing item 570/17987: type_id 1815
+2025-10-05 17:07:37,636 - __main__ - WARNING - Skipping type_id 1815 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:37,637 - __main__ - INFO - Processing item 571/17987: type_id 1816
+2025-10-05 17:07:38,022 - __main__ - INFO - Processing item 572/17987: type_id 1817
+2025-10-05 17:07:38,027 - __main__ - WARNING - Skipping type_id 1817 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:38,027 - __main__ - INFO - Processing item 573/17987: type_id 1818
+2025-10-05 17:07:38,409 - __main__ - INFO - Processing item 574/17987: type_id 1819
+2025-10-05 17:07:38,414 - __main__ - WARNING - Skipping type_id 1819 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:38,415 - __main__ - INFO - Processing item 575/17987: type_id 1820
+2025-10-05 17:07:38,803 - __main__ - INFO - Processing item 576/17987: type_id 1821
+2025-10-05 17:07:38,808 - __main__ - WARNING - Skipping type_id 1821 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:38,808 - __main__ - INFO - Processing item 577/17987: type_id 1822
+2025-10-05 17:07:39,186 - __main__ - INFO - Processing item 578/17987: type_id 1823
+2025-10-05 17:07:39,192 - __main__ - WARNING - Skipping type_id 1823 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:39,192 - __main__ - INFO - Processing item 579/17987: type_id 1824
+2025-10-05 17:07:39,594 - __main__ - INFO - Processing item 580/17987: type_id 1825
+2025-10-05 17:07:39,599 - __main__ - WARNING - Skipping type_id 1825 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:39,599 - __main__ - INFO - Processing item 581/17987: type_id 1826
+2025-10-05 17:07:39,983 - __main__ - INFO - Processing item 582/17987: type_id 1827
+2025-10-05 17:07:39,989 - __main__ - WARNING - Skipping type_id 1827 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:39,989 - __main__ - INFO - Processing item 583/17987: type_id 1828
+2025-10-05 17:07:40,733 - __main__ - INFO - Processing item 584/17987: type_id 1829
+2025-10-05 17:07:40,738 - __main__ - WARNING - Skipping type_id 1829 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:40,738 - __main__ - INFO - Processing item 585/17987: type_id 1830
+2025-10-05 17:07:41,120 - __main__ - INFO - Processing item 586/17987: type_id 1831
+2025-10-05 17:07:41,126 - __main__ - WARNING - Skipping type_id 1831 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:41,126 - __main__ - INFO - Processing item 587/17987: type_id 1832
+2025-10-05 17:07:41,505 - __main__ - INFO - Processing item 588/17987: type_id 1833
+2025-10-05 17:07:41,511 - __main__ - WARNING - Skipping type_id 1833 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:41,511 - __main__ - INFO - Processing item 589/17987: type_id 1855
+2025-10-05 17:07:41,888 - __main__ - INFO - Processing item 590/17987: type_id 1875
+2025-10-05 17:07:42,277 - __main__ - INFO - Processing item 591/17987: type_id 1876
+2025-10-05 17:07:42,283 - __main__ - WARNING - Skipping type_id 1876 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:42,283 - __main__ - INFO - Processing item 592/17987: type_id 1877
+2025-10-05 17:07:42,669 - __main__ - INFO - Processing item 593/17987: type_id 1893
+2025-10-05 17:07:42,675 - __main__ - WARNING - Skipping type_id 1893 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:42,675 - __main__ - INFO - Processing item 594/17987: type_id 1944
+2025-10-05 17:07:43,057 - __main__ - INFO - Processing item 595/17987: type_id 1945
+2025-10-05 17:07:43,062 - __main__ - WARNING - Skipping type_id 1945 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:43,063 - __main__ - INFO - Processing item 596/17987: type_id 1948
+2025-10-05 17:07:43,067 - __main__ - WARNING - Skipping type_id 1948 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:43,068 - __main__ - INFO - Processing item 597/17987: type_id 1949
+2025-10-05 17:07:43,457 - __main__ - INFO - Processing item 598/17987: type_id 1951
+2025-10-05 17:07:43,846 - __main__ - INFO - Processing item 599/17987: type_id 1952
+2025-10-05 17:07:44,236 - __main__ - INFO - Processing item 600/17987: type_id 1955
+2025-10-05 17:07:44,242 - __main__ - WARNING - Skipping type_id 1955 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:44,243 - __main__ - INFO - Processing item 601/17987: type_id 1956
+2025-10-05 17:07:49,626 - __main__ - INFO - Processing item 602/17987: type_id 1957
+2025-10-05 17:07:55,020 - __main__ - INFO - Processing item 603/17987: type_id 1958
+2025-10-05 17:07:55,415 - __main__ - INFO - Processing item 604/17987: type_id 1963
+2025-10-05 17:07:55,797 - __main__ - INFO - Processing item 605/17987: type_id 1964
+2025-10-05 17:07:56,197 - __main__ - INFO - Processing item 606/17987: type_id 1968
+2025-10-05 17:07:56,202 - __main__ - WARNING - Skipping type_id 1968 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:56,203 - __main__ - INFO - Processing item 607/17987: type_id 1969
+2025-10-05 17:07:56,583 - __main__ - INFO - Processing item 608/17987: type_id 1973
+2025-10-05 17:07:56,968 - __main__ - INFO - Processing item 609/17987: type_id 1977
+2025-10-05 17:07:57,360 - __main__ - INFO - Processing item 610/17987: type_id 1978
+2025-10-05 17:07:57,745 - __main__ - INFO - Processing item 611/17987: type_id 1986
+2025-10-05 17:07:58,131 - __main__ - INFO - Processing item 612/17987: type_id 1987
+2025-10-05 17:07:58,515 - __main__ - INFO - Processing item 613/17987: type_id 1998
+2025-10-05 17:07:58,521 - __main__ - WARNING - Skipping type_id 1998 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:58,521 - __main__ - INFO - Processing item 614/17987: type_id 1999
+2025-10-05 17:07:58,931 - __main__ - INFO - Processing item 615/17987: type_id 2001
+2025-10-05 17:07:58,936 - __main__ - WARNING - Skipping type_id 2001 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:58,936 - __main__ - INFO - Processing item 616/17987: type_id 2006
+2025-10-05 17:07:59,317 - __main__ - INFO - Processing item 617/17987: type_id 2007
+2025-10-05 17:07:59,702 - __main__ - INFO - Processing item 618/17987: type_id 2008
+2025-10-05 17:07:59,706 - __main__ - WARNING - Skipping type_id 2008 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:59,706 - __main__ - INFO - Processing item 619/17987: type_id 2009
+2025-10-05 17:07:59,710 - __main__ - WARNING - Skipping type_id 2009 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:07:59,710 - __main__ - INFO - Processing item 620/17987: type_id 2018
+2025-10-05 17:08:00,127 - __main__ - INFO - Processing item 621/17987: type_id 2019
+2025-10-05 17:08:00,133 - __main__ - WARNING - Skipping type_id 2019 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:00,133 - __main__ - INFO - Processing item 622/17987: type_id 2020
+2025-10-05 17:08:00,514 - __main__ - INFO - Processing item 623/17987: type_id 2021
+2025-10-05 17:08:00,519 - __main__ - WARNING - Skipping type_id 2021 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:00,519 - __main__ - INFO - Processing item 624/17987: type_id 2024
+2025-10-05 17:08:00,906 - __main__ - INFO - Processing item 625/17987: type_id 2026
+2025-10-05 17:08:00,911 - __main__ - WARNING - Skipping type_id 2026 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:00,912 - __main__ - INFO - Processing item 626/17987: type_id 2027
+2025-10-05 17:08:00,915 - __main__ - WARNING - Skipping type_id 2027 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:00,915 - __main__ - INFO - Processing item 627/17987: type_id 2028
+2025-10-05 17:08:00,920 - __main__ - WARNING - Skipping type_id 2028 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:00,920 - __main__ - INFO - Processing item 628/17987: type_id 2030
+2025-10-05 17:08:00,924 - __main__ - WARNING - Skipping type_id 2030 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:00,924 - __main__ - INFO - Processing item 629/17987: type_id 2031
+2025-10-05 17:08:00,927 - __main__ - WARNING - Skipping type_id 2031 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:00,927 - __main__ - INFO - Processing item 630/17987: type_id 2032
+2025-10-05 17:08:01,304 - __main__ - INFO - Processing item 631/17987: type_id 2037
+2025-10-05 17:08:01,309 - __main__ - WARNING - Skipping type_id 2037 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:01,309 - __main__ - INFO - Processing item 632/17987: type_id 2038
+2025-10-05 17:08:01,700 - __main__ - INFO - Processing item 633/17987: type_id 2040
+2025-10-05 17:08:01,705 - __main__ - WARNING - Skipping type_id 2040 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:01,705 - __main__ - INFO - Processing item 634/17987: type_id 2041
+2025-10-05 17:08:01,709 - __main__ - WARNING - Skipping type_id 2041 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:01,709 - __main__ - INFO - Processing item 635/17987: type_id 2042
+2025-10-05 17:08:01,713 - __main__ - WARNING - Skipping type_id 2042 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:01,713 - __main__ - INFO - Processing item 636/17987: type_id 2043
+2025-10-05 17:08:01,716 - __main__ - WARNING - Skipping type_id 2043 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:01,717 - __main__ - INFO - Processing item 637/17987: type_id 2044
+2025-10-05 17:08:01,721 - __main__ - WARNING - Skipping type_id 2044 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:01,721 - __main__ - INFO - Processing item 638/17987: type_id 2046
+2025-10-05 17:08:02,104 - __main__ - INFO - Processing item 639/17987: type_id 2047
+2025-10-05 17:08:02,110 - __main__ - WARNING - Skipping type_id 2047 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:02,110 - __main__ - INFO - Processing item 640/17987: type_id 2048
+2025-10-05 17:08:02,500 - __main__ - INFO - Processing item 641/17987: type_id 2050
+2025-10-05 17:08:02,887 - __main__ - INFO - Processing item 642/17987: type_id 2054
+2025-10-05 17:08:02,891 - __main__ - WARNING - Skipping type_id 2054 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:02,891 - __main__ - INFO - Processing item 643/17987: type_id 2055
+2025-10-05 17:08:02,895 - __main__ - WARNING - Skipping type_id 2055 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:02,895 - __main__ - INFO - Processing item 644/17987: type_id 2056
+2025-10-05 17:08:02,899 - __main__ - WARNING - Skipping type_id 2056 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:02,899 - __main__ - INFO - Processing item 645/17987: type_id 2057
+2025-10-05 17:08:02,902 - __main__ - WARNING - Skipping type_id 2057 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:02,903 - __main__ - INFO - Processing item 646/17987: type_id 2061
+2025-10-05 17:08:02,906 - __main__ - WARNING - Skipping type_id 2061 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:02,906 - __main__ - INFO - Processing item 647/17987: type_id 2073
+2025-10-05 17:08:03,287 - __main__ - INFO - Processing item 648/17987: type_id 2078
+2025-10-05 17:08:03,670 - __main__ - INFO - Processing item 649/17987: type_id 2082
+2025-10-05 17:08:04,053 - __main__ - INFO - Processing item 650/17987: type_id 2103
+2025-10-05 17:08:04,059 - __main__ - WARNING - Skipping type_id 2103 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:04,059 - __main__ - INFO - Processing item 651/17987: type_id 2104
+2025-10-05 17:08:04,874 - __main__ - INFO - Processing item 652/17987: type_id 2108
+2025-10-05 17:08:05,257 - __main__ - INFO - Processing item 653/17987: type_id 2109
+2025-10-05 17:08:05,643 - __main__ - INFO - Processing item 654/17987: type_id 2117
+2025-10-05 17:08:06,057 - __main__ - INFO - Processing item 655/17987: type_id 2161
+2025-10-05 17:08:06,437 - __main__ - INFO - Processing item 656/17987: type_id 2162
+2025-10-05 17:08:06,443 - __main__ - WARNING - Skipping type_id 2162 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:06,443 - __main__ - INFO - Processing item 657/17987: type_id 2173
+2025-10-05 17:08:06,830 - __main__ - INFO - Processing item 658/17987: type_id 2174
+2025-10-05 17:08:06,836 - __main__ - WARNING - Skipping type_id 2174 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:06,836 - __main__ - INFO - Processing item 659/17987: type_id 2175
+2025-10-05 17:08:07,217 - __main__ - INFO - Processing item 660/17987: type_id 2178
+2025-10-05 17:08:07,221 - __main__ - WARNING - Skipping type_id 2178 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:07,222 - __main__ - INFO - Processing item 661/17987: type_id 2180
+2025-10-05 17:08:07,615 - __main__ - INFO - Processing item 662/17987: type_id 2182
+2025-10-05 17:08:07,621 - __main__ - WARNING - Skipping type_id 2182 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:07,621 - __main__ - INFO - Processing item 663/17987: type_id 2183
+2025-10-05 17:08:08,003 - __main__ - INFO - Processing item 664/17987: type_id 2184
+2025-10-05 17:08:08,008 - __main__ - WARNING - Skipping type_id 2184 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:08,008 - __main__ - INFO - Processing item 665/17987: type_id 2185
+2025-10-05 17:08:08,389 - __main__ - INFO - Processing item 666/17987: type_id 2188
+2025-10-05 17:08:08,771 - __main__ - INFO - Processing item 667/17987: type_id 2193
+2025-10-05 17:08:09,153 - __main__ - INFO - Processing item 668/17987: type_id 2194
+2025-10-05 17:08:09,158 - __main__ - WARNING - Skipping type_id 2194 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:09,158 - __main__ - INFO - Processing item 669/17987: type_id 2195
+2025-10-05 17:08:09,537 - __main__ - INFO - Processing item 670/17987: type_id 2203
+2025-10-05 17:08:09,925 - __main__ - INFO - Processing item 671/17987: type_id 2204
+2025-10-05 17:08:09,932 - __main__ - WARNING - Skipping type_id 2204 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:09,932 - __main__ - INFO - Processing item 672/17987: type_id 2205
+2025-10-05 17:08:10,326 - __main__ - INFO - Processing item 673/17987: type_id 2254
+2025-10-05 17:08:10,719 - __main__ - INFO - Processing item 674/17987: type_id 2267
+2025-10-05 17:08:11,103 - __main__ - INFO - Processing item 675/17987: type_id 2268
+2025-10-05 17:08:11,481 - __main__ - INFO - Processing item 676/17987: type_id 2270
+2025-10-05 17:08:11,863 - __main__ - INFO - Processing item 677/17987: type_id 2272
+2025-10-05 17:08:12,245 - __main__ - INFO - Processing item 678/17987: type_id 2281
+2025-10-05 17:08:12,627 - __main__ - INFO - Processing item 679/17987: type_id 2286
+2025-10-05 17:08:13,013 - __main__ - INFO - Processing item 680/17987: type_id 2287
+2025-10-05 17:08:13,019 - __main__ - WARNING - Skipping type_id 2287 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:13,019 - __main__ - INFO - Processing item 681/17987: type_id 2288
+2025-10-05 17:08:16,472 - __main__ - INFO - Processing item 682/17987: type_id 2289
+2025-10-05 17:08:16,865 - __main__ - INFO - Processing item 683/17987: type_id 2290
+2025-10-05 17:08:16,870 - __main__ - WARNING - Skipping type_id 2290 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:16,870 - __main__ - INFO - Processing item 684/17987: type_id 2291
+2025-10-05 17:08:17,253 - __main__ - INFO - Processing item 685/17987: type_id 2292
+2025-10-05 17:08:17,257 - __main__ - WARNING - Skipping type_id 2292 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:17,257 - __main__ - INFO - Processing item 686/17987: type_id 2293
+2025-10-05 17:08:21,715 - __main__ - INFO - Processing item 687/17987: type_id 2294
+2025-10-05 17:08:21,721 - __main__ - WARNING - Skipping type_id 2294 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:21,721 - __main__ - INFO - Processing item 688/17987: type_id 2295
+2025-10-05 17:08:22,098 - __main__ - INFO - Processing item 689/17987: type_id 2296
+2025-10-05 17:08:22,104 - __main__ - WARNING - Skipping type_id 2296 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:22,104 - __main__ - INFO - Processing item 690/17987: type_id 2297
+2025-10-05 17:08:22,502 - __main__ - INFO - Processing item 691/17987: type_id 2299
+2025-10-05 17:08:22,884 - __main__ - INFO - Processing item 692/17987: type_id 2301
+2025-10-05 17:08:23,274 - __main__ - INFO - Processing item 693/17987: type_id 2303
+2025-10-05 17:08:23,662 - __main__ - INFO - Processing item 694/17987: type_id 2305
+2025-10-05 17:08:26,096 - __main__ - INFO - Processing item 695/17987: type_id 2306
+2025-10-05 17:08:26,487 - __main__ - INFO - Processing item 696/17987: type_id 2307
+2025-10-05 17:08:26,492 - __main__ - WARNING - Skipping type_id 2307 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:26,493 - __main__ - INFO - Processing item 697/17987: type_id 2308
+2025-10-05 17:08:26,879 - __main__ - INFO - Processing item 698/17987: type_id 2309
+2025-10-05 17:08:27,258 - __main__ - INFO - Processing item 699/17987: type_id 2310
+2025-10-05 17:08:27,649 - __main__ - INFO - Processing item 700/17987: type_id 2311
+2025-10-05 17:08:28,037 - __main__ - INFO - Processing item 701/17987: type_id 2312
+2025-10-05 17:08:28,445 - __main__ - INFO - Processing item 702/17987: type_id 2317
+2025-10-05 17:08:28,831 - __main__ - INFO - Processing item 703/17987: type_id 2319
+2025-10-05 17:08:29,209 - __main__ - INFO - Processing item 704/17987: type_id 2321
+2025-10-05 17:08:31,679 - __main__ - INFO - Processing item 705/17987: type_id 2327
+2025-10-05 17:08:32,100 - __main__ - INFO - Processing item 706/17987: type_id 2328
+2025-10-05 17:08:32,497 - __main__ - INFO - Processing item 707/17987: type_id 2329
+2025-10-05 17:08:32,886 - __main__ - INFO - Processing item 708/17987: type_id 2331
+2025-10-05 17:08:33,307 - __main__ - INFO - Processing item 709/17987: type_id 2332
+2025-10-05 17:08:33,312 - __main__ - WARNING - Skipping type_id 2332 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:33,313 - __main__ - INFO - Processing item 710/17987: type_id 2333
+2025-10-05 17:08:33,698 - __main__ - INFO - Processing item 711/17987: type_id 2341
+2025-10-05 17:08:34,076 - __main__ - INFO - Processing item 712/17987: type_id 2344
+2025-10-05 17:08:34,464 - __main__ - INFO - Processing item 713/17987: type_id 2345
+2025-10-05 17:08:34,844 - __main__ - INFO - Processing item 714/17987: type_id 2346
+2025-10-05 17:08:35,229 - __main__ - INFO - Processing item 715/17987: type_id 2348
+2025-10-05 17:08:35,653 - __main__ - INFO - Processing item 716/17987: type_id 2349
+2025-10-05 17:08:36,034 - __main__ - INFO - Processing item 717/17987: type_id 2351
+2025-10-05 17:08:36,420 - __main__ - INFO - Processing item 718/17987: type_id 2352
+2025-10-05 17:08:36,801 - __main__ - INFO - Processing item 719/17987: type_id 2354
+2025-10-05 17:08:37,182 - __main__ - INFO - Processing item 720/17987: type_id 2355
+2025-10-05 17:08:37,567 - __main__ - INFO - Processing item 721/17987: type_id 2358
+2025-10-05 17:08:37,954 - __main__ - INFO - Processing item 722/17987: type_id 2360
+2025-10-05 17:08:38,334 - __main__ - INFO - Processing item 723/17987: type_id 2361
+2025-10-05 17:08:38,724 - __main__ - INFO - Processing item 724/17987: type_id 2363
+2025-10-05 17:08:39,122 - __main__ - INFO - Processing item 725/17987: type_id 2364
+2025-10-05 17:08:39,525 - __main__ - INFO - Processing item 726/17987: type_id 2366
+2025-10-05 17:08:39,940 - __main__ - INFO - Processing item 727/17987: type_id 2367
+2025-10-05 17:08:40,350 - __main__ - INFO - Processing item 728/17987: type_id 2368
+2025-10-05 17:08:40,354 - __main__ - WARNING - Skipping type_id 2368 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:40,354 - __main__ - INFO - Processing item 729/17987: type_id 2369
+2025-10-05 17:08:40,358 - __main__ - WARNING - Skipping type_id 2369 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:40,359 - __main__ - INFO - Processing item 730/17987: type_id 2371
+2025-10-05 17:08:40,363 - __main__ - WARNING - Skipping type_id 2371 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:40,363 - __main__ - INFO - Processing item 731/17987: type_id 2373
+2025-10-05 17:08:40,366 - __main__ - WARNING - Skipping type_id 2373 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:40,367 - __main__ - INFO - Processing item 732/17987: type_id 2374
+2025-10-05 17:08:40,371 - __main__ - WARNING - Skipping type_id 2374 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:40,371 - __main__ - INFO - Processing item 733/17987: type_id 2375
+2025-10-05 17:08:40,375 - __main__ - WARNING - Skipping type_id 2375 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:40,375 - __main__ - INFO - Processing item 734/17987: type_id 2376
+2025-10-05 17:08:40,379 - __main__ - WARNING - Skipping type_id 2376 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:40,379 - __main__ - INFO - Processing item 735/17987: type_id 2377
+2025-10-05 17:08:40,383 - __main__ - WARNING - Skipping type_id 2377 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:40,384 - __main__ - INFO - Processing item 736/17987: type_id 2389
+2025-10-05 17:08:40,788 - __main__ - INFO - Processing item 737/17987: type_id 2390
+2025-10-05 17:08:41,171 - __main__ - INFO - Processing item 738/17987: type_id 2392
+2025-10-05 17:08:41,571 - __main__ - INFO - Processing item 739/17987: type_id 2393
+2025-10-05 17:08:41,957 - __main__ - INFO - Processing item 740/17987: type_id 2395
+2025-10-05 17:08:42,348 - __main__ - INFO - Processing item 741/17987: type_id 2396
+2025-10-05 17:08:42,742 - __main__ - INFO - Processing item 742/17987: type_id 2397
+2025-10-05 17:08:43,129 - __main__ - INFO - Processing item 743/17987: type_id 2398
+2025-10-05 17:08:43,510 - __main__ - INFO - Processing item 744/17987: type_id 2399
+2025-10-05 17:08:43,892 - __main__ - INFO - Processing item 745/17987: type_id 2400
+2025-10-05 17:08:44,296 - __main__ - INFO - Processing item 746/17987: type_id 2401
+2025-10-05 17:08:44,732 - __main__ - INFO - Processing item 747/17987: type_id 2403
+2025-10-05 17:08:45,134 - __main__ - INFO - Processing item 748/17987: type_id 2404
+2025-10-05 17:08:45,525 - __main__ - INFO - Processing item 749/17987: type_id 2406
+2025-10-05 17:08:45,921 - __main__ - INFO - Processing item 750/17987: type_id 2410
+2025-10-05 17:08:46,315 - __main__ - INFO - Processing item 751/17987: type_id 2420
+2025-10-05 17:08:46,711 - __main__ - INFO - Processing item 752/17987: type_id 2436
+2025-10-05 17:08:47,107 - __main__ - INFO - Processing item 753/17987: type_id 2444
+2025-10-05 17:08:47,501 - __main__ - INFO - Processing item 754/17987: type_id 2445
+2025-10-05 17:08:47,508 - __main__ - WARNING - Skipping type_id 2445 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:47,508 - __main__ - INFO - Processing item 755/17987: type_id 2446
+2025-10-05 17:08:47,909 - __main__ - INFO - Processing item 756/17987: type_id 2454
+2025-10-05 17:08:48,311 - __main__ - INFO - Processing item 757/17987: type_id 2455
+2025-10-05 17:08:48,317 - __main__ - WARNING - Skipping type_id 2455 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:48,317 - __main__ - INFO - Processing item 758/17987: type_id 2456
+2025-10-05 17:08:48,710 - __main__ - INFO - Processing item 759/17987: type_id 2463
+2025-10-05 17:08:54,126 - __main__ - INFO - Processing item 760/17987: type_id 2464
+2025-10-05 17:08:54,520 - __main__ - INFO - Processing item 761/17987: type_id 2465
+2025-10-05 17:08:54,526 - __main__ - WARNING - Skipping type_id 2465 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:54,527 - __main__ - INFO - Processing item 762/17987: type_id 2466
+2025-10-05 17:08:54,911 - __main__ - INFO - Processing item 763/17987: type_id 2476
+2025-10-05 17:08:55,329 - __main__ - INFO - Processing item 764/17987: type_id 2477
+2025-10-05 17:08:55,712 - __main__ - INFO - Processing item 765/17987: type_id 2478
+2025-10-05 17:08:56,101 - __main__ - INFO - Processing item 766/17987: type_id 2486
+2025-10-05 17:08:56,505 - __main__ - INFO - Processing item 767/17987: type_id 2487
+2025-10-05 17:08:56,511 - __main__ - WARNING - Skipping type_id 2487 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:56,511 - __main__ - INFO - Processing item 768/17987: type_id 2488
+2025-10-05 17:08:56,897 - __main__ - INFO - Processing item 769/17987: type_id 2495
+2025-10-05 17:08:57,293 - __main__ - INFO - Processing item 770/17987: type_id 2505
+2025-10-05 17:08:57,683 - __main__ - INFO - Processing item 771/17987: type_id 2506
+2025-10-05 17:08:58,065 - __main__ - INFO - Processing item 772/17987: type_id 2507
+2025-10-05 17:08:58,071 - __main__ - WARNING - Skipping type_id 2507 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:08:58,071 - __main__ - INFO - Processing item 773/17987: type_id 2508
+2025-10-05 17:09:34,044 - __main__ - INFO - Processing item 774/17987: type_id 2509
+2025-10-05 17:09:34,050 - __main__ - WARNING - Skipping type_id 2509 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:34,050 - __main__ - INFO - Processing item 775/17987: type_id 2510
+2025-10-05 17:09:34,475 - __main__ - INFO - Processing item 776/17987: type_id 2511
+2025-10-05 17:09:34,481 - __main__ - WARNING - Skipping type_id 2511 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:34,481 - __main__ - INFO - Processing item 777/17987: type_id 2512
+2025-10-05 17:09:34,865 - __main__ - INFO - Processing item 778/17987: type_id 2513
+2025-10-05 17:09:35,247 - __main__ - INFO - Processing item 779/17987: type_id 2514
+2025-10-05 17:09:35,633 - __main__ - INFO - Processing item 780/17987: type_id 2515
+2025-10-05 17:09:35,639 - __main__ - WARNING - Skipping type_id 2515 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:35,639 - __main__ - INFO - Processing item 781/17987: type_id 2516
+2025-10-05 17:09:36,062 - __main__ - INFO - Processing item 782/17987: type_id 2517
+2025-10-05 17:09:36,069 - __main__ - WARNING - Skipping type_id 2517 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:36,070 - __main__ - INFO - Processing item 783/17987: type_id 2524
+2025-10-05 17:09:36,515 - __main__ - INFO - Processing item 784/17987: type_id 2525
+2025-10-05 17:09:36,943 - __main__ - INFO - Processing item 785/17987: type_id 2529
+2025-10-05 17:09:37,348 - __main__ - INFO - Processing item 786/17987: type_id 2530
+2025-10-05 17:09:37,356 - __main__ - WARNING - Skipping type_id 2530 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:37,357 - __main__ - INFO - Processing item 787/17987: type_id 2531
+2025-10-05 17:09:37,753 - __main__ - INFO - Processing item 788/17987: type_id 2533
+2025-10-05 17:09:38,170 - __main__ - INFO - Processing item 789/17987: type_id 2534
+2025-10-05 17:09:38,555 - __main__ - INFO - Processing item 790/17987: type_id 2537
+2025-10-05 17:09:38,936 - __main__ - INFO - Processing item 791/17987: type_id 2538
+2025-10-05 17:09:38,941 - __main__ - WARNING - Skipping type_id 2538 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:38,941 - __main__ - INFO - Processing item 792/17987: type_id 2539
+2025-10-05 17:09:39,325 - __main__ - INFO - Processing item 793/17987: type_id 2545
+2025-10-05 17:09:39,705 - __main__ - INFO - Processing item 794/17987: type_id 2546
+2025-10-05 17:09:39,711 - __main__ - WARNING - Skipping type_id 2546 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:39,711 - __main__ - INFO - Processing item 795/17987: type_id 2547
+2025-10-05 17:09:40,091 - __main__ - INFO - Processing item 796/17987: type_id 2549
+2025-10-05 17:09:40,489 - __main__ - INFO - Processing item 797/17987: type_id 2550
+2025-10-05 17:09:40,875 - __main__ - INFO - Processing item 798/17987: type_id 2551
+2025-10-05 17:09:41,356 - __main__ - INFO - Processing item 799/17987: type_id 2553
+2025-10-05 17:09:41,906 - __main__ - INFO - Processing item 800/17987: type_id 2559
+2025-10-05 17:09:42,432 - __main__ - INFO - Processing item 801/17987: type_id 2563
+2025-10-05 17:09:42,965 - __main__ - INFO - Processing item 802/17987: type_id 2567
+2025-10-05 17:09:43,353 - __main__ - INFO - Processing item 803/17987: type_id 2571
+2025-10-05 17:09:43,732 - __main__ - INFO - Processing item 804/17987: type_id 2575
+2025-10-05 17:09:44,122 - __main__ - INFO - Processing item 805/17987: type_id 2589
+2025-10-05 17:09:44,504 - __main__ - INFO - Processing item 806/17987: type_id 2603
+2025-10-05 17:09:44,884 - __main__ - INFO - Processing item 807/17987: type_id 2604
+2025-10-05 17:09:44,890 - __main__ - WARNING - Skipping type_id 2604 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:44,890 - __main__ - INFO - Processing item 808/17987: type_id 2605
+2025-10-05 17:09:45,273 - __main__ - INFO - Processing item 809/17987: type_id 2613
+2025-10-05 17:09:45,692 - __main__ - INFO - Processing item 810/17987: type_id 2621
+2025-10-05 17:09:46,082 - __main__ - INFO - Processing item 811/17987: type_id 2629
+2025-10-05 17:09:46,476 - __main__ - INFO - Processing item 812/17987: type_id 2637
+2025-10-05 17:09:46,860 - __main__ - INFO - Processing item 813/17987: type_id 2647
+2025-10-05 17:09:47,254 - __main__ - INFO - Processing item 814/17987: type_id 2655
+2025-10-05 17:09:47,645 - __main__ - INFO - Processing item 815/17987: type_id 2679
+2025-10-05 17:09:48,030 - __main__ - INFO - Processing item 816/17987: type_id 2735
+2025-10-05 17:09:48,035 - __main__ - WARNING - Skipping type_id 2735 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,035 - __main__ - INFO - Processing item 817/17987: type_id 2736
+2025-10-05 17:09:48,039 - __main__ - WARNING - Skipping type_id 2736 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,039 - __main__ - INFO - Processing item 818/17987: type_id 2739
+2025-10-05 17:09:48,422 - __main__ - INFO - Processing item 819/17987: type_id 2740
+2025-10-05 17:09:48,428 - __main__ - WARNING - Skipping type_id 2740 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,428 - __main__ - INFO - Processing item 820/17987: type_id 2741
+2025-10-05 17:09:48,432 - __main__ - WARNING - Skipping type_id 2741 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,432 - __main__ - INFO - Processing item 821/17987: type_id 2750
+2025-10-05 17:09:48,436 - __main__ - WARNING - Skipping type_id 2750 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,436 - __main__ - INFO - Processing item 822/17987: type_id 2752
+2025-10-05 17:09:48,440 - __main__ - WARNING - Skipping type_id 2752 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,440 - __main__ - INFO - Processing item 823/17987: type_id 2755
+2025-10-05 17:09:48,444 - __main__ - WARNING - Skipping type_id 2755 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,444 - __main__ - INFO - Processing item 824/17987: type_id 2757
+2025-10-05 17:09:48,447 - __main__ - WARNING - Skipping type_id 2757 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,447 - __main__ - INFO - Processing item 825/17987: type_id 2759
+2025-10-05 17:09:48,451 - __main__ - WARNING - Skipping type_id 2759 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,451 - __main__ - INFO - Processing item 826/17987: type_id 2761
+2025-10-05 17:09:48,454 - __main__ - WARNING - Skipping type_id 2761 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,454 - __main__ - INFO - Processing item 827/17987: type_id 2763
+2025-10-05 17:09:48,458 - __main__ - WARNING - Skipping type_id 2763 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,458 - __main__ - INFO - Processing item 828/17987: type_id 2774
+2025-10-05 17:09:48,462 - __main__ - WARNING - Skipping type_id 2774 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,462 - __main__ - INFO - Processing item 829/17987: type_id 2775
+2025-10-05 17:09:48,467 - __main__ - WARNING - Skipping type_id 2775 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,467 - __main__ - INFO - Processing item 830/17987: type_id 2776
+2025-10-05 17:09:48,471 - __main__ - WARNING - Skipping type_id 2776 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,472 - __main__ - INFO - Processing item 831/17987: type_id 2777
+2025-10-05 17:09:48,476 - __main__ - WARNING - Skipping type_id 2777 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,476 - __main__ - INFO - Processing item 832/17987: type_id 2778
+2025-10-05 17:09:48,480 - __main__ - WARNING - Skipping type_id 2778 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,481 - __main__ - INFO - Processing item 833/17987: type_id 2779
+2025-10-05 17:09:48,485 - __main__ - WARNING - Skipping type_id 2779 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,485 - __main__ - INFO - Processing item 834/17987: type_id 2780
+2025-10-05 17:09:48,489 - __main__ - WARNING - Skipping type_id 2780 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,490 - __main__ - INFO - Processing item 835/17987: type_id 2781
+2025-10-05 17:09:48,494 - __main__ - WARNING - Skipping type_id 2781 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,494 - __main__ - INFO - Processing item 836/17987: type_id 2782
+2025-10-05 17:09:48,497 - __main__ - WARNING - Skipping type_id 2782 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,498 - __main__ - INFO - Processing item 837/17987: type_id 2783
+2025-10-05 17:09:48,501 - __main__ - WARNING - Skipping type_id 2783 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,501 - __main__ - INFO - Processing item 838/17987: type_id 2784
+2025-10-05 17:09:48,505 - __main__ - WARNING - Skipping type_id 2784 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,506 - __main__ - INFO - Processing item 839/17987: type_id 2785
+2025-10-05 17:09:48,509 - __main__ - WARNING - Skipping type_id 2785 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,509 - __main__ - INFO - Processing item 840/17987: type_id 2787
+2025-10-05 17:09:48,512 - __main__ - WARNING - Skipping type_id 2787 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,513 - __main__ - INFO - Processing item 841/17987: type_id 2792
+2025-10-05 17:09:48,517 - __main__ - WARNING - Skipping type_id 2792 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,517 - __main__ - INFO - Processing item 842/17987: type_id 2794
+2025-10-05 17:09:48,521 - __main__ - WARNING - Skipping type_id 2794 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,521 - __main__ - INFO - Processing item 843/17987: type_id 2796
+2025-10-05 17:09:48,524 - __main__ - WARNING - Skipping type_id 2796 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,524 - __main__ - INFO - Processing item 844/17987: type_id 2798
+2025-10-05 17:09:48,528 - __main__ - WARNING - Skipping type_id 2798 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,528 - __main__ - INFO - Processing item 845/17987: type_id 2799
+2025-10-05 17:09:48,531 - __main__ - WARNING - Skipping type_id 2799 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,531 - __main__ - INFO - Processing item 846/17987: type_id 2801
+2025-10-05 17:09:48,918 - __main__ - INFO - Processing item 847/17987: type_id 2803
+2025-10-05 17:09:48,923 - __main__ - WARNING - Skipping type_id 2803 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,923 - __main__ - INFO - Processing item 848/17987: type_id 2804
+2025-10-05 17:09:48,926 - __main__ - WARNING - Skipping type_id 2804 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,927 - __main__ - INFO - Processing item 849/17987: type_id 2805
+2025-10-05 17:09:48,931 - __main__ - WARNING - Skipping type_id 2805 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,931 - __main__ - INFO - Processing item 850/17987: type_id 2806
+2025-10-05 17:09:48,936 - __main__ - WARNING - Skipping type_id 2806 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,936 - __main__ - INFO - Processing item 851/17987: type_id 2807
+2025-10-05 17:09:48,940 - __main__ - WARNING - Skipping type_id 2807 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,940 - __main__ - INFO - Processing item 852/17987: type_id 2808
+2025-10-05 17:09:48,944 - __main__ - WARNING - Skipping type_id 2808 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,944 - __main__ - INFO - Processing item 853/17987: type_id 2810
+2025-10-05 17:09:48,948 - __main__ - WARNING - Skipping type_id 2810 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:48,948 - __main__ - INFO - Processing item 854/17987: type_id 2811
+2025-10-05 17:09:49,343 - __main__ - INFO - Processing item 855/17987: type_id 2813
+2025-10-05 17:09:49,348 - __main__ - WARNING - Skipping type_id 2813 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:49,348 - __main__ - INFO - Processing item 856/17987: type_id 2814
+2025-10-05 17:09:49,352 - __main__ - WARNING - Skipping type_id 2814 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:49,352 - __main__ - INFO - Processing item 857/17987: type_id 2815
+2025-10-05 17:09:49,355 - __main__ - WARNING - Skipping type_id 2815 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:49,355 - __main__ - INFO - Processing item 858/17987: type_id 2816
+2025-10-05 17:09:49,359 - __main__ - WARNING - Skipping type_id 2816 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:49,359 - __main__ - INFO - Processing item 859/17987: type_id 2817
+2025-10-05 17:09:49,746 - __main__ - INFO - Processing item 860/17987: type_id 2819
+2025-10-05 17:09:49,751 - __main__ - WARNING - Skipping type_id 2819 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:49,751 - __main__ - INFO - Processing item 861/17987: type_id 2822
+2025-10-05 17:09:49,754 - __main__ - WARNING - Skipping type_id 2822 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:49,755 - __main__ - INFO - Processing item 862/17987: type_id 2823
+2025-10-05 17:09:49,759 - __main__ - WARNING - Skipping type_id 2823 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:49,759 - __main__ - INFO - Processing item 863/17987: type_id 2824
+2025-10-05 17:09:49,763 - __main__ - WARNING - Skipping type_id 2824 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:49,763 - __main__ - INFO - Processing item 864/17987: type_id 2825
+2025-10-05 17:09:49,767 - __main__ - WARNING - Skipping type_id 2825 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:49,767 - __main__ - INFO - Processing item 865/17987: type_id 2826
+2025-10-05 17:09:49,770 - __main__ - WARNING - Skipping type_id 2826 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:49,770 - __main__ - INFO - Processing item 866/17987: type_id 2827
+2025-10-05 17:09:49,774 - __main__ - WARNING - Skipping type_id 2827 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:49,774 - __main__ - INFO - Processing item 867/17987: type_id 2828
+2025-10-05 17:09:49,777 - __main__ - WARNING - Skipping type_id 2828 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:49,777 - __main__ - INFO - Processing item 868/17987: type_id 2829
+2025-10-05 17:09:49,781 - __main__ - WARNING - Skipping type_id 2829 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:49,781 - __main__ - INFO - Processing item 869/17987: type_id 2830
+2025-10-05 17:09:49,784 - __main__ - WARNING - Skipping type_id 2830 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:49,784 - __main__ - INFO - Processing item 870/17987: type_id 2833
+2025-10-05 17:09:49,787 - __main__ - WARNING - Skipping type_id 2833 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:49,788 - __main__ - INFO - Processing item 871/17987: type_id 2834
+2025-10-05 17:09:49,791 - __main__ - WARNING - Skipping type_id 2834 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:49,791 - __main__ - INFO - Processing item 872/17987: type_id 2836
+2025-10-05 17:09:49,794 - __main__ - WARNING - Skipping type_id 2836 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:49,795 - __main__ - INFO - Processing item 873/17987: type_id 2863
+2025-10-05 17:09:49,799 - __main__ - WARNING - Skipping type_id 2863 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:49,799 - __main__ - INFO - Processing item 874/17987: type_id 2865
+2025-10-05 17:09:49,804 - __main__ - WARNING - Skipping type_id 2865 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:09:49,804 - __main__ - INFO - Processing item 875/17987: type_id 2867
+2025-10-05 17:09:50,191 - __main__ - INFO - Processing item 876/17987: type_id 2868
+2025-10-05 17:09:50,575 - __main__ - INFO - Processing item 877/17987: type_id 2869
+2025-10-05 17:09:50,969 - __main__ - INFO - Processing item 878/17987: type_id 2870
+2025-10-05 17:09:51,353 - __main__ - INFO - Processing item 879/17987: type_id 2871
+2025-10-05 17:09:51,742 - __main__ - INFO - Processing item 880/17987: type_id 2872
+2025-10-05 17:09:52,126 - __main__ - INFO - Processing item 881/17987: type_id 2873
+2025-10-05 17:09:52,561 - __main__ - INFO - Processing item 882/17987: type_id 2875
+2025-10-05 17:09:52,949 - __main__ - INFO - Processing item 883/17987: type_id 2876
+2025-10-05 17:09:53,334 - __main__ - INFO - Processing item 884/17987: type_id 2881
+2025-10-05 17:09:53,723 - __main__ - INFO - Processing item 885/17987: type_id 2889
+2025-10-05 17:09:54,109 - __main__ - INFO - Processing item 886/17987: type_id 2897
+2025-10-05 17:09:54,496 - __main__ - INFO - Processing item 887/17987: type_id 2905
+2025-10-05 17:09:55,006 - __main__ - INFO - Processing item 888/17987: type_id 2913
+2025-10-05 17:09:55,405 - __main__ - INFO - Processing item 889/17987: type_id 2921
+2025-10-05 17:09:55,891 - __main__ - INFO - Processing item 890/17987: type_id 2929
+2025-10-05 17:09:56,296 - __main__ - INFO - Processing item 891/17987: type_id 2937
+2025-10-05 17:09:56,679 - __main__ - INFO - Processing item 892/17987: type_id 2945
+2025-10-05 17:09:57,061 - __main__ - INFO - Processing item 893/17987: type_id 2948
+2025-10-05 17:09:57,443 - __main__ - INFO - Processing item 894/17987: type_id 2953
+2025-10-05 17:09:57,834 - __main__ - INFO - Processing item 895/17987: type_id 2961
+2025-10-05 17:09:58,218 - __main__ - INFO - Processing item 896/17987: type_id 2969
+2025-10-05 17:09:58,598 - __main__ - INFO - Processing item 897/17987: type_id 2977
+2025-10-05 17:09:58,997 - __main__ - INFO - Processing item 898/17987: type_id 2985
+2025-10-05 17:09:59,379 - __main__ - INFO - Processing item 899/17987: type_id 2993
+2025-10-05 17:09:59,766 - __main__ - INFO - Processing item 900/17987: type_id 2998
+2025-10-05 17:10:00,149 - __main__ - INFO - Processing item 901/17987: type_id 3001
+2025-10-05 17:10:05,554 - __main__ - INFO - Processing item 902/17987: type_id 3009
+2025-10-05 17:10:05,936 - __main__ - INFO - Processing item 903/17987: type_id 3017
+2025-10-05 17:10:06,313 - __main__ - INFO - Processing item 904/17987: type_id 3025
+2025-10-05 17:10:06,697 - __main__ - INFO - Processing item 905/17987: type_id 3033
+2025-10-05 17:10:07,085 - __main__ - INFO - Processing item 906/17987: type_id 3039
+2025-10-05 17:10:07,467 - __main__ - INFO - Processing item 907/17987: type_id 3041
+2025-10-05 17:10:07,859 - __main__ - INFO - Processing item 908/17987: type_id 3049
+2025-10-05 17:10:08,247 - __main__ - INFO - Processing item 909/17987: type_id 3057
+2025-10-05 17:10:08,635 - __main__ - INFO - Processing item 910/17987: type_id 3065
+2025-10-05 17:10:14,028 - __main__ - INFO - Processing item 911/17987: type_id 3074
+2025-10-05 17:10:14,547 - __main__ - INFO - Processing item 912/17987: type_id 3077
+2025-10-05 17:10:14,927 - __main__ - INFO - Processing item 913/17987: type_id 3078
+2025-10-05 17:10:15,334 - __main__ - INFO - Processing item 914/17987: type_id 3079
+2025-10-05 17:10:15,340 - __main__ - WARNING - Skipping type_id 3079 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:10:15,340 - __main__ - INFO - Processing item 915/17987: type_id 3080
+2025-10-05 17:10:15,756 - __main__ - INFO - Processing item 916/17987: type_id 3081
+2025-10-05 17:10:16,141 - __main__ - INFO - Processing item 917/17987: type_id 3082
+2025-10-05 17:10:17,011 - __main__ - INFO - Processing item 918/17987: type_id 3084
+2025-10-05 17:10:17,405 - __main__ - INFO - Processing item 919/17987: type_id 3085
+2025-10-05 17:10:17,843 - __main__ - INFO - Processing item 920/17987: type_id 3086
+2025-10-05 17:10:17,849 - __main__ - WARNING - Skipping type_id 3086 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:10:17,849 - __main__ - INFO - Processing item 921/17987: type_id 3087
+2025-10-05 17:10:18,250 - __main__ - INFO - Processing item 922/17987: type_id 3088
+2025-10-05 17:10:18,633 - __main__ - INFO - Processing item 923/17987: type_id 3089
+2025-10-05 17:10:19,019 - __main__ - INFO - Processing item 924/17987: type_id 3090
+2025-10-05 17:10:19,408 - __main__ - INFO - Processing item 925/17987: type_id 3092
+2025-10-05 17:10:19,794 - __main__ - INFO - Processing item 926/17987: type_id 3093
+2025-10-05 17:10:20,214 - __main__ - INFO - Processing item 927/17987: type_id 3094
+2025-10-05 17:10:20,614 - __main__ - INFO - Processing item 928/17987: type_id 3095
+2025-10-05 17:10:21,000 - __main__ - INFO - Processing item 929/17987: type_id 3096
+2025-10-05 17:10:21,404 - __main__ - INFO - Processing item 930/17987: type_id 3097
+2025-10-05 17:10:21,410 - __main__ - WARNING - Skipping type_id 3097 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:10:21,410 - __main__ - INFO - Processing item 931/17987: type_id 3098
+2025-10-05 17:10:21,791 - __main__ - INFO - Processing item 932/17987: type_id 3100
+2025-10-05 17:10:22,177 - __main__ - INFO - Processing item 933/17987: type_id 3101
+2025-10-05 17:10:22,567 - __main__ - INFO - Processing item 934/17987: type_id 3102
+2025-10-05 17:10:22,958 - __main__ - INFO - Processing item 935/17987: type_id 3103
+2025-10-05 17:10:23,358 - __main__ - INFO - Processing item 936/17987: type_id 3104
+2025-10-05 17:10:23,363 - __main__ - WARNING - Skipping type_id 3104 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:10:23,364 - __main__ - INFO - Processing item 937/17987: type_id 3105
+2025-10-05 17:10:23,369 - __main__ - WARNING - Skipping type_id 3105 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:10:23,369 - __main__ - INFO - Processing item 938/17987: type_id 3106
+2025-10-05 17:10:23,751 - __main__ - INFO - Processing item 939/17987: type_id 3108
+2025-10-05 17:10:24,130 - __main__ - INFO - Processing item 940/17987: type_id 3109
+2025-10-05 17:10:24,537 - __main__ - INFO - Processing item 941/17987: type_id 3110
+2025-10-05 17:10:24,543 - __main__ - WARNING - Skipping type_id 3110 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:10:24,543 - __main__ - INFO - Processing item 942/17987: type_id 3111
+2025-10-05 17:10:24,923 - __main__ - INFO - Processing item 943/17987: type_id 3112
+2025-10-05 17:10:25,306 - __main__ - INFO - Processing item 944/17987: type_id 3113
+2025-10-05 17:10:25,312 - __main__ - WARNING - Skipping type_id 3113 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:10:25,312 - __main__ - INFO - Processing item 945/17987: type_id 3114
+2025-10-05 17:10:25,317 - __main__ - WARNING - Skipping type_id 3114 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:10:25,317 - __main__ - INFO - Processing item 946/17987: type_id 3116
+2025-10-05 17:10:25,702 - __main__ - INFO - Processing item 947/17987: type_id 3117
+2025-10-05 17:10:26,079 - __main__ - INFO - Processing item 948/17987: type_id 3118
+2025-10-05 17:10:26,459 - __main__ - INFO - Processing item 949/17987: type_id 3119
+2025-10-05 17:10:26,836 - __main__ - INFO - Processing item 950/17987: type_id 3120
+2025-10-05 17:10:27,220 - __main__ - INFO - Processing item 951/17987: type_id 3121
+2025-10-05 17:10:27,611 - __main__ - INFO - Processing item 952/17987: type_id 3122
+2025-10-05 17:10:27,993 - __main__ - INFO - Processing item 953/17987: type_id 3124
+2025-10-05 17:10:28,420 - __main__ - INFO - Processing item 954/17987: type_id 3125
+2025-10-05 17:10:28,821 - __main__ - INFO - Processing item 955/17987: type_id 3126
+2025-10-05 17:10:29,215 - __main__ - INFO - Processing item 956/17987: type_id 3127
+2025-10-05 17:10:29,661 - __main__ - INFO - Processing item 957/17987: type_id 3128
+2025-10-05 17:10:30,129 - __main__ - INFO - Processing item 958/17987: type_id 3129
+2025-10-05 17:10:30,665 - __main__ - INFO - Processing item 959/17987: type_id 3130
+2025-10-05 17:10:31,730 - __main__ - INFO - Processing item 960/17987: type_id 3132
+2025-10-05 17:10:32,179 - __main__ - INFO - Processing item 961/17987: type_id 3133
+2025-10-05 17:10:32,604 - __main__ - INFO - Processing item 962/17987: type_id 3134
+2025-10-05 17:10:33,049 - __main__ - INFO - Processing item 963/17987: type_id 3135
+2025-10-05 17:10:33,548 - __main__ - INFO - Processing item 964/17987: type_id 3136
+2025-10-05 17:10:33,560 - __main__ - WARNING - Skipping type_id 3136 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:10:33,560 - __main__ - INFO - Processing item 965/17987: type_id 3137
+2025-10-05 17:10:34,039 - __main__ - INFO - Processing item 966/17987: type_id 3138
+2025-10-05 17:10:34,470 - __main__ - INFO - Processing item 967/17987: type_id 3140
+2025-10-05 17:10:34,854 - __main__ - INFO - Processing item 968/17987: type_id 3141
+2025-10-05 17:10:35,244 - __main__ - INFO - Processing item 969/17987: type_id 3142
+2025-10-05 17:10:35,628 - __main__ - INFO - Processing item 970/17987: type_id 3143
+2025-10-05 17:10:36,046 - __main__ - INFO - Processing item 971/17987: type_id 3144
+2025-10-05 17:10:36,052 - __main__ - WARNING - Skipping type_id 3144 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:10:36,052 - __main__ - INFO - Processing item 972/17987: type_id 3145
+2025-10-05 17:10:36,057 - __main__ - WARNING - Skipping type_id 3145 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:10:36,057 - __main__ - INFO - Processing item 973/17987: type_id 3146
+2025-10-05 17:10:36,436 - __main__ - INFO - Processing item 974/17987: type_id 3148
+2025-10-05 17:10:36,814 - __main__ - INFO - Processing item 975/17987: type_id 3149
+2025-10-05 17:10:37,193 - __main__ - INFO - Processing item 976/17987: type_id 3150
+2025-10-05 17:10:37,596 - __main__ - INFO - Processing item 977/17987: type_id 3151
+2025-10-05 17:10:37,602 - __main__ - WARNING - Skipping type_id 3151 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:10:37,602 - __main__ - INFO - Processing item 978/17987: type_id 3152
+2025-10-05 17:10:37,994 - __main__ - INFO - Processing item 979/17987: type_id 3153
+2025-10-05 17:10:38,391 - __main__ - INFO - Processing item 980/17987: type_id 3154
+2025-10-05 17:10:38,777 - __main__ - INFO - Processing item 981/17987: type_id 3156
+2025-10-05 17:10:39,165 - __main__ - INFO - Processing item 982/17987: type_id 3157
+2025-10-05 17:10:39,171 - __main__ - WARNING - Skipping type_id 3157 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:10:39,171 - __main__ - INFO - Processing item 983/17987: type_id 3158
+2025-10-05 17:10:39,556 - __main__ - INFO - Processing item 984/17987: type_id 3159
+2025-10-05 17:10:39,937 - __main__ - INFO - Processing item 985/17987: type_id 3160
+2025-10-05 17:10:39,942 - __main__ - WARNING - Skipping type_id 3160 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:10:39,943 - __main__ - INFO - Processing item 986/17987: type_id 3161
+2025-10-05 17:10:39,948 - __main__ - WARNING - Skipping type_id 3161 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:10:39,948 - __main__ - INFO - Processing item 987/17987: type_id 3162
+2025-10-05 17:10:45,340 - __main__ - INFO - Processing item 988/17987: type_id 3164
+2025-10-05 17:10:45,345 - __main__ - WARNING - Skipping type_id 3164 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:10:45,346 - __main__ - INFO - Processing item 989/17987: type_id 3165
+2025-10-05 17:10:45,795 - __main__ - INFO - Processing item 990/17987: type_id 3166
+2025-10-05 17:10:45,801 - __main__ - WARNING - Skipping type_id 3166 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:10:45,801 - __main__ - INFO - Processing item 991/17987: type_id 3167
+2025-10-05 17:10:46,180 - __main__ - INFO - Processing item 992/17987: type_id 3168
+2025-10-05 17:10:46,572 - __main__ - INFO - Processing item 993/17987: type_id 3169
+2025-10-05 17:10:46,960 - __main__ - INFO - Processing item 994/17987: type_id 3170
+2025-10-05 17:10:47,445 - __main__ - INFO - Processing item 995/17987: type_id 3172
+2025-10-05 17:10:47,841 - __main__ - INFO - Processing item 996/17987: type_id 3173
+2025-10-05 17:10:48,244 - __main__ - INFO - Processing item 997/17987: type_id 3174
+2025-10-05 17:10:48,693 - __main__ - INFO - Processing item 998/17987: type_id 3175
+2025-10-05 17:10:48,700 - __main__ - WARNING - Skipping type_id 3175 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:10:48,700 - __main__ - INFO - Processing item 999/17987: type_id 3176
+2025-10-05 17:10:54,093 - __main__ - INFO - Processing item 1000/17987: type_id 3177
+2025-10-05 17:10:54,501 - __main__ - INFO - Processing item 1001/17987: type_id 3178
+2025-10-05 17:10:54,883 - __main__ - INFO - Processing item 1002/17987: type_id 3180
+2025-10-05 17:10:55,261 - __main__ - INFO - Processing item 1003/17987: type_id 3181
+2025-10-05 17:10:55,266 - __main__ - WARNING - Skipping type_id 3181 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:10:55,267 - __main__ - INFO - Processing item 1004/17987: type_id 3182
+2025-10-05 17:10:55,647 - __main__ - INFO - Processing item 1005/17987: type_id 3183
+2025-10-05 17:10:56,041 - __main__ - INFO - Processing item 1006/17987: type_id 3184
+2025-10-05 17:10:56,419 - __main__ - INFO - Processing item 1007/17987: type_id 3185
+2025-10-05 17:10:56,425 - __main__ - WARNING - Skipping type_id 3185 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:10:56,425 - __main__ - INFO - Processing item 1008/17987: type_id 3186
+2025-10-05 17:10:56,844 - __main__ - INFO - Processing item 1009/17987: type_id 3188
+2025-10-05 17:10:56,850 - __main__ - WARNING - Skipping type_id 3188 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:10:56,850 - __main__ - INFO - Processing item 1010/17987: type_id 3189
+2025-10-05 17:10:57,233 - __main__ - INFO - Processing item 1011/17987: type_id 3190
+2025-10-05 17:10:57,627 - __main__ - INFO - Processing item 1012/17987: type_id 3191
+2025-10-05 17:10:58,009 - __main__ - INFO - Processing item 1013/17987: type_id 3192
+2025-10-05 17:10:58,401 - __main__ - INFO - Processing item 1014/17987: type_id 3193
+2025-10-05 17:10:58,792 - __main__ - INFO - Processing item 1015/17987: type_id 3194
+2025-10-05 17:10:59,178 - __main__ - INFO - Processing item 1016/17987: type_id 3195
+2025-10-05 17:10:59,567 - __main__ - INFO - Processing item 1017/17987: type_id 3196
+2025-10-05 17:10:59,572 - __main__ - WARNING - Skipping type_id 3196 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:10:59,573 - __main__ - INFO - Processing item 1018/17987: type_id 3197
+2025-10-05 17:10:59,951 - __main__ - INFO - Processing item 1019/17987: type_id 3198
+2025-10-05 17:11:00,344 - __main__ - INFO - Processing item 1020/17987: type_id 3199
+2025-10-05 17:11:00,732 - __main__ - INFO - Processing item 1021/17987: type_id 3200
+2025-10-05 17:11:00,738 - __main__ - WARNING - Skipping type_id 3200 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:11:00,738 - __main__ - INFO - Processing item 1022/17987: type_id 3201
+2025-10-05 17:11:01,125 - __main__ - INFO - Processing item 1023/17987: type_id 3202
+2025-10-05 17:11:01,513 - __main__ - INFO - Processing item 1024/17987: type_id 3203
+2025-10-05 17:11:01,903 - __main__ - INFO - Processing item 1025/17987: type_id 3204
+2025-10-05 17:11:02,290 - __main__ - INFO - Processing item 1026/17987: type_id 3205
+2025-10-05 17:11:02,296 - __main__ - WARNING - Skipping type_id 3205 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:11:02,296 - __main__ - INFO - Processing item 1027/17987: type_id 3206
+2025-10-05 17:11:02,301 - __main__ - WARNING - Skipping type_id 3206 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:11:02,301 - __main__ - INFO - Processing item 1028/17987: type_id 3207
+2025-10-05 17:11:02,691 - __main__ - INFO - Processing item 1029/17987: type_id 3208
+2025-10-05 17:11:03,073 - __main__ - INFO - Processing item 1030/17987: type_id 3209
+2025-10-05 17:11:03,459 - __main__ - INFO - Processing item 1031/17987: type_id 3210
+2025-10-05 17:11:03,896 - __main__ - INFO - Processing item 1032/17987: type_id 3211
+2025-10-05 17:11:04,323 - __main__ - INFO - Processing item 1033/17987: type_id 3212
+2025-10-05 17:11:04,329 - __main__ - WARNING - Skipping type_id 3212 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:11:04,329 - __main__ - INFO - Processing item 1034/17987: type_id 3213
+2025-10-05 17:11:04,724 - __main__ - INFO - Processing item 1035/17987: type_id 3214
+2025-10-05 17:11:05,111 - __main__ - INFO - Processing item 1036/17987: type_id 3215
+2025-10-05 17:11:05,674 - __main__ - INFO - Processing item 1037/17987: type_id 3216
+2025-10-05 17:11:06,073 - __main__ - INFO - Processing item 1038/17987: type_id 3217
+2025-10-05 17:11:06,536 - __main__ - INFO - Processing item 1039/17987: type_id 3218
+2025-10-05 17:11:06,919 - __main__ - INFO - Processing item 1040/17987: type_id 3220
+2025-10-05 17:11:07,304 - __main__ - INFO - Processing item 1041/17987: type_id 3221
+2025-10-05 17:11:07,719 - __main__ - INFO - Processing item 1042/17987: type_id 3222
+2025-10-05 17:11:08,168 - __main__ - INFO - Processing item 1043/17987: type_id 3223
+2025-10-05 17:11:08,613 - __main__ - INFO - Processing item 1044/17987: type_id 3224
+2025-10-05 17:12:30,023 - __main__ - INFO - Starting data refresh process.
+2025-10-05 17:12:30,023 - __main__ - INFO - Fetching historical market data for the last 2 days...
+2025-10-05 17:12:30,023 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-05/
+2025-10-05 17:12:30,491 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-05/market-orders-2025-10-05_16-45-06.v3.csv.bz2
+2025-10-05 17:12:48,472 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-04/
+2025-10-05 17:12:48,854 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-04/market-orders-2025-10-04_22-15-06.v3.csv.bz2
+2025-10-05 17:13:00,464 - __main__ - INFO - Found 17987 unique items to process.
+2025-10-05 17:13:00,464 - __main__ - INFO - Processing item 1/5: type_id 18
+2025-10-05 17:13:00,489 - __main__ - INFO - Processing item 2/5: type_id 19
+2025-10-05 17:13:00,494 - __main__ - WARNING - Skipping type_id 19 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:13:00,494 - __main__ - INFO - Processing item 3/5: type_id 20
+2025-10-05 17:13:00,502 - __main__ - INFO - Processing item 4/5: type_id 21
+2025-10-05 17:13:00,506 - __main__ - WARNING - Skipping type_id 21 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:13:00,507 - __main__ - INFO - Processing item 5/5: type_id 22
+2025-10-05 17:13:00,519 - __main__ - INFO - Database update complete.
+2025-10-05 17:16:39,966 - __main__ - INFO - Starting data refresh process.
+2025-10-05 17:16:39,966 - __main__ - INFO - Fetching historical market data for the last 2 days...
+2025-10-05 17:16:39,967 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-05/
+2025-10-05 17:16:40,412 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-05/market-orders-2025-10-05_16-45-06.v3.csv.bz2
+2025-10-05 17:16:49,875 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-04/
+2025-10-05 17:16:50,353 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-04/market-orders-2025-10-04_22-15-06.v3.csv.bz2
+2025-10-05 17:17:01,458 - __main__ - INFO - Found 17987 unique items to process.
+2025-10-05 17:17:01,458 - __main__ - INFO - Processing item 1/5: type_id 18
+2025-10-05 17:17:01,911 - __main__ - INFO - Processing item 2/5: type_id 19
+2025-10-05 17:17:01,918 - __main__ - WARNING - Skipping type_id 19 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:17:01,918 - __main__ - INFO - Processing item 3/5: type_id 20
+2025-10-05 17:17:02,303 - __main__ - INFO - Processing item 4/5: type_id 21
+2025-10-05 17:17:02,309 - __main__ - WARNING - Skipping type_id 21 due to missing buy or sell price data in the last 7 days.
+2025-10-05 17:17:02,309 - __main__ - INFO - Processing item 5/5: type_id 22
+2025-10-05 17:17:02,729 - __main__ - INFO - Database update complete.
+2025-10-06 10:08:56,527 - __main__ - INFO - Starting data refresh process.
+2025-10-06 10:08:56,528 - __main__ - INFO - Fetching historical market data for the last 2 days...
+2025-10-06 10:08:56,528 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-06/
+2025-10-06 10:08:56,993 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-06/market-orders-2025-10-06_09-45-08.v3.csv.bz2
+2025-10-06 10:09:14,490 - app.everef - INFO - Fetching directory listing from https://data.everef.net/market-orders/history/2025/2025-10-05/
+2025-10-06 10:09:14,789 - app.everef - INFO - Fetching historical market orders from https://data.everef.net/market-orders/history/2025/2025-10-05/market-orders-2025-10-05_22-15-07.v3.csv.bz2
+2025-10-06 10:09:26,860 - __main__ - INFO - Found 17975 unique items to process.
+2025-10-06 10:09:26,861 - __main__ - INFO - Processing item 1/5: type_id 18
+2025-10-06 10:09:27,267 - __main__ - INFO - Processing item 2/5: type_id 19
+2025-10-06 10:09:27,274 - __main__ - WARNING - Skipping type_id 19 due to missing buy or sell price data in the last 7 days.
+2025-10-06 10:09:27,274 - __main__ - INFO - Processing item 3/5: type_id 20
+2025-10-06 10:09:27,671 - __main__ - INFO - Processing item 4/5: type_id 21
+2025-10-06 10:09:27,678 - __main__ - WARNING - Skipping type_id 21 due to missing buy or sell price data in the last 7 days.
+2025-10-06 10:09:27,678 - __main__ - INFO - Processing item 5/5: type_id 22
+2025-10-06 10:09:28,064 - __main__ - INFO - Database update complete.
