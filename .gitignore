@@ -17,6 +17,11 @@ frontend/.next/
 frontend/out/
 frontend/build/
 
+# Log files
+*.log
+logs/
+*.log.*
+
 # IDE files
 .idea/
 .vscode/
