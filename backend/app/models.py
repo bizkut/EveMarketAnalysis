@@ -68,5 +68,4 @@ class ProcessedFile(Base):
     id = Column(Integer, primary_key=True, index=True)
     filename = Column(String, unique=True, index=True)
     file_date = Column(DateTime, index=True)
-    file_date = Column(DateTime, index=True)
     processed_at = Column(DateTime, default=datetime.utcnow)

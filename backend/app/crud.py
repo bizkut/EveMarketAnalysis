@@ -73,7 +73,7 @@ def train_all_models(db: Session):
     ml.train_generalized_model(db)
     logger.info("Model training complete.")
 
-def update_item_calculations_and_predictions(db: Session):
+def update_item_calculations_and_predictions(db: Session, tax_rate: float, broker_fee: float):
     """
     Calculates profitability metrics and predicts next-day prices for all items.
     """
@@ -91,7 +91,7 @@ def update_item_calculations_and_predictions(db: Session):
             logger.warning(f"Skipping item {item.name} (ID: {item.type_id}) due to missing buy or sell price data.")
             continue
 
-        profit_per_unit = calculations.calculate_profit_per_unit(p_sell, p_buy, settings.TAX_RATE, settings.BROKER_FEE)
+        profit_per_unit = calculations.calculate_profit_per_unit(p_sell, p_buy, tax_rate, broker_fee)
         roi_percent = calculations.calculate_roi_percent(profit_per_unit, p_buy)
         avg_daily_volume = calculations.calculate_avg_daily_volume(db, item.id)
         volatility = calculations.calculate_volatility(db, item.id)
@@ -148,11 +148,11 @@ def populate_categories(db: Session):
     db.commit()
     logger.info("Categories table populated.")
 
-def update_all_item_data(db: Session, region_id: int, train_models: bool = False):
+def update_all_item_data(db: Session, region_id: int, train_models: bool = False, tax_rate: float = settings.TAX_RATE, broker_fee: float = settings.BROKER_FEE):
     """
     Orchestrates the entire data refresh process.
     """
     update_market_history(db, region_id)
     if train_models:
         train_all_models(db)
-    update_item_calculations_and_predictions(db)
+    update_item_calculations_and_predictions(db, tax_rate=tax_rate, broker_fee=broker_fee)

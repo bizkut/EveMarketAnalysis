@@ -69,6 +69,6 @@ def get_categories(db: Session = Depends(get_db)):
     return categories
 
 @router.post("/refresh")
-def refresh_data(db: Session = Depends(get_db), train_models: bool = False):
-    crud.update_all_item_data(db, settings.REGION_ID, train_models=train_models)
+def refresh_data(db: Session = Depends(get_db), train_models: bool = False, tax_rate: float = settings.TAX_RATE, broker_fee: float = settings.BROKER_FEE):
+    crud.update_all_item_data(db, settings.REGION_ID, train_models=train_models, tax_rate=tax_rate, broker_fee=broker_fee)
     return {"message": "Data refresh complete."}
