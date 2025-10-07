@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from app import api, models
+from app import api, models, crud
 from app.database import engine
 from app.logging_config import setup_logging
 
