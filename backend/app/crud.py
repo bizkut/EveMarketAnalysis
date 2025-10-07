@@ -27,7 +27,7 @@ def update_market_history(db: Session, region_id: int):
     Fetches new market order data from Everef and inserts it into the database.
     """
     logger.info("Fetching new market data...")
-    new_orders = everef.get_historical_market_orders(db, region_id)
+    new_orders = everef.get_historical_market_orders(db, region_id, days=7) # Look back 7 days for new files
 
     if new_orders is None or new_orders.empty:
         logger.info("No new market data found.")
