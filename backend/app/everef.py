@@ -13,29 +13,6 @@ import urllib.parse
 EVEREF_MARKET_ORDERS_URL = "https://data.everef.net/market-orders"
 logger = logging.getLogger(__name__)
 
-def get_latest_market_orders(region_id: int):
-    """
-    Fetches the latest market order snapshot from Everef, filters it by region,
-    and returns it as a pandas DataFrame.
-    """
-    url = f"{EVEREF_MARKET_ORDERS_URL}/market-orders-latest.v3.csv.bz2"
-    try:
-        logger.info(f"Fetching latest market orders from {url}")
-        response = requests.get(url, stream=True)
-        response.raise_for_status()
-
-        decompressed_data = bz2.decompress(response.content)
-        df = pd.read_csv(io.BytesIO(decompressed_data))
-        df = df[df['region_id'] == region_id]
-        return df
-
-    except requests.exceptions.RequestException as e:
-        logger.error(f"Error fetching latest market orders from Everef: {e}")
-        return None
-    except Exception as e:
-        logger.error(f"An error occurred while processing Everef data: {e}")
-        return None
-
 def get_historical_market_orders(db: Session, region_id: int):
     """
     Fetches historical market order data for a given region,
